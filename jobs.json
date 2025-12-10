@@ -45,5 +45,182 @@
     "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
     "date_publication": "2025-12-09T00:00:00.000Z",
     "nb_candidats": "117"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
+    "titre": "Junior Data Engineer - Sydney",
+    "entreprise": "GrainCorp",
+    "entreprise_url": "https://au.linkedin.com/company/graincorp",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Analyst",
+    "stack": "Python, Data pipeline architecture, ELT/ELT processes, Data modelling principles, Relational databases, Data warehousing concepts, Spark, Hadoop, Databricks, Azure, AWS, GCP, Version control systems, Collaborative development workflows, Data governance principles",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste à Sydney",
+      "Hybrid work et flexible leave options",
+      "Inclusive culture"
+    ],
+    "points_negatifs": [
+      "Pas de Back-end ou Front-end dans la liste des compétences",
+      "Pas de mention de salaire"
+    ],
+    "commentaire": "Offre Junior Data Engineer à Sydney avec une équipe collaborative et un environnement de travail inclusif.",
+    "lien": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "60"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
+    "titre": "Data Scientist Engineer",
+    "entreprise": "Dataro",
+    "entreprise_url": "https://www.linkedin.com/company/dataro",
+    "localisation": "Surry Hills, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, SQL, AWS services (EC2, Batch, Lambda, S3, Athena), DuckDB, Postgres, S3, Athena",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement de modèles Machine Learning",
+      "Collaboration avec une équipe expérimentée",
+      "Impact réel sur des causes sociales"
+    ],
+    "points_negatifs": [
+      "Exigence de compétences en Python, SQL et ML"
+    ],
+    "commentaire": "Rôle de Data Scientist Engineer dans une entreprise de SaaS basée à Sydney, avec possibilité de contribution à des projets d'impact social.",
+    "lien": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "30 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
+    "titre": "Software Developer/ Developer Programmer",
+    "entreprise": "Quantaco",
+    "entreprise_url": "https://au.linkedin.com/company/quantaco",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C#, .Net Framework, Javascript, CSS, HTML, ASP.NET MVC, Web API, ASP.NET Core, ADO.net, ORMs (EntityFramework, Dapper.net, NHibernate), Databases (SQL Server, PostgreSQL), NoSql (Redis, MongoGB), Microsoft Azure cloud platform, Source Code Control (SVN, GITHUB)",
+    "salaire": "$77,000 - $90,000 plus Super",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement en C# et .Net Framework",
+      "Expérience avec des technologies web (Javascript, CSS, HTML, etc.)",
+      "Poste junior avec possibilité de croissance"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience requis : 2+ ans",
+      "Pas de mention de l'utilisation de langages de programmation autres que C# et .Net"
+    ],
+    "commentaire": "Offre de développement junior en C# et .Net Framework, avec possibilité de croissance et d'apprentissage de nouvelles technologies.",
+    "lien": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
+    "titre": "Mechatronics/Embedded Software Engineer",
+    "entreprise": "Winnable Recruitment",
+    "entreprise_url": "https://au.linkedin.com/company/winable-recruitment",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie, Recherche et Technologies de l'Information",
+    "stack": "C#, Python, Arduino, Microcontrollers, Raspberry Pi",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste en grande ville internationale",
+      "Développement d'applications pour mechatronics"
+    ],
+    "points_negatifs": [
+      "Développement Embedded, pas de Front-end",
+      "Pas de mention de Back-end"
+    ],
+    "commentaire": "Poste junior en mechatronics/Embedded Software Engineer dans une grande ville internationale, avec possibilité de développement d'applications pour mechatronics.",
+    "lien": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
+    "date_publication": "2025-12-10",
+    "nb_candidats": "39"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/platform-engineer-at-resmed-4343005888",
+    "titre": "Platform Engineer",
+    "entreprise": "Resmed",
+    "entreprise_url": "https://www.linkedin.com/company/resmed",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "TypeScript, React, Java, JavaScript, Python, Go, AWS, Kubernetes, Docker, serverless, Backstage, GitHub, Bitbucket, Datadog, Splunk, ELK, Docker",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 2,
+    "points_positifs": [
+      "Développement en cloud natif",
+      "Expérience en production"
+    ],
+    "points_negatifs": [
+      "Développement non spécifique à la stack souhaitée",
+      "Expérience non requise"
+    ],
+    "commentaire": "Offre junior de développement en cloud natif, mais pas spécifique à la stack souhaitée.",
+    "lien": "https://au.linkedin.com/jobs/view/platform-engineer-at-resmed-4343005888",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
+    "titre": "Software Engineer",
+    "entreprise": "ASH consulting",
+    "entreprise_url": "https://tn.linkedin.com/company/ash-consulting-training",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Expérience junior acceptée",
+      "Grand emplacement international"
+    ],
+    "points_negatifs": [
+      "Non précisé"
+    ],
+    "commentaire": "Poste junior en développement Full-Stack avec une expérience très légère en tant que junior.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Il faut être l'un des 25 premiers candidats"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/technical-operations-engineer-at-anduril-industries-4342945218",
+    "titre": "Technical Operations Engineer",
+    "entreprise": "Anduril Industries",
+    "entreprise_url": "https://www.linkedin.com/company/anduril",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Linux OS, command-line tools, mechanical aptitude, electronics, computer science",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 2,
+    "points_positifs": [
+      "Développement d'une carrière internationale",
+      "Équipe dynamique et motivée"
+    ],
+    "points_negatifs": [
+      "Manque de correspondance avec le profil du candidat (DevOps, réseau, admin sys)",
+      "Exigences de sécurité et de voyage"
+    ],
+    "commentaire": "Offre de carrière internationale avec des exigences techniques spécifiques. Le candidat devra démontrer sa capacité à apprendre et à maîtriser de nouvelles technologies.",
+    "lien": "https://au.linkedin.com/jobs/view/technical-operations-engineer-at-anduril-industries-4342945218",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
   }
 ]
