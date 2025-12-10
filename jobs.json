@@ -153,30 +153,31 @@
     "nb_candidats": "29"
   },
   {
-    "id": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
-    "titre": "Junior Data Engineer",
-    "entreprise": "GrainCorp",
-    "entreprise_url": "https://au.linkedin.com/company/graincorp",
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "titre": "Junior Software Engineer",
+    "entreprise": "Catalyst Growth Services",
+    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
     "localisation": "Sydney, New South Wales, Australia",
     "type_contrat": "Full-time",
-    "type_travail": "Analyst",
-    "stack": "Python, Data pipeline architecture, ELT/ELT processes, Data modelling principles, Relational databases, Data warehousing concepts, Spark, Hadoop, Databricks, Azure, AWS, GCP, Version control systems, Collaborative development workflows, Data governance principles",
-    "salaire": "Non précisé",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
+    "salaire": "$85K-$105K + Super",
     "experience_requise": "Entry level",
-    "score": 7,
+    "score": 9,
     "points_positifs": [
-      "Poste junior",
-      "Sydney"
+      "Hybrid work avec bureau à Sydney",
+      "Développement de compétences en tant que Software Engineer",
+      "Travail avec une équipe expérimentée",
+      "Visa sponsorship disponible"
     ],
     "points_negatifs": [
-      "Niveau d'expérience demandé non conforme à la préférence du candidat (Junior plutôt que Data Engineer)",
-      "Pas de précision sur le salaire"
+      "Exigence de connaissance de NodeJS et ExpressJS"
     ],
-    "commentaire": "Offre de poste junior dans une grande ville internationale, mais avec un niveau d'expérience demandé non conforme à la préférence du candidat.",
-    "lien": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
-    "date_publication": "2025-12-09T00:00:00.000Z",
+    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "date_publication": "2025-12-10T00:00:00.000Z",
     "nb_candidats": "58"
-  },
+  }
   {
     "id": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
     "titre": "Mechatronics/Embedded Software Engineer",
