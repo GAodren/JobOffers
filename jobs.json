@@ -1,231 +1,26 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "titre": "Software Engineer",
-    "entreprise": "Catalyst Growth Services",
-    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
-    "localisation": "Sydney, New South Wales, Australia",
+    "id": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
+    "titre": "Backend Software Engineer",
+    "entreprise": "Epiq",
+    "entreprise_url": "https://www.linkedin.com/company/epiqglobal",
+    "localisation": "Hong Kong, Hong Kong SAR",
     "type_contrat": "Full-time",
     "type_travail": "Engineering and Information Technology",
-    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
-    "salaire": "$80K-$100K + Super",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Hybrid work avec bureau à Sydney",
-      "Développement de compétences en tant que Software Engineer",
-      "Travail avec une équipe expérimentée"
-    ],
-    "points_negatifs": [
-      "Exigence de connaissance de NodeJS et ExpressJS"
-    ],
-    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "43"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-we-are-sbs-4326535922",
-    "titre": "Full Stack Engineer/Full Stack Developer",
-    "entreprise": "We Are SBS",
-    "entreprise_url": "https://uk.linkedin.com/company/wearesbs",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, RESTful APIs, GraphQL, Git",
+    "stack": "Python, Solr, PostgreSQL, Qdrant, Docker, Kubernetes, GitHub Actions, ArgoCD",
     "salaire": "Non précisé",
     "experience_requise": "Entry level",
     "score": 9,
     "points_positifs": [
-      "Offre à Sydney, une grande ville internationale",
-      "Développement Full-Stack, Back-end et Front-end",
-      "Expérience requise correspondante (Entry level)",
-      "CDI (full-time)"
+      "Poste Backend Software Engineer correspondant aux compétences du candidat",
+      "Localisation à Hong Kong, ville internationale souhaitée",
+      "Type de contrat CDI",
+      "Technologies utilisées incluent Python, Docker et Kubernetes, qui sont pertinents pour les compétences du candidat"
     ],
     "points_negatifs": [],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux, avec un bon équilibre entre développement Full-Stack, expérience et salaire",
-    "lien": "https://au.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-we-are-sbs-4326535922",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/machine-learning-engineer-at-rokt-4341139722",
-    "titre": "Machine Learning Engineer",
-    "entreprise": "Rokt",
-    "entreprise_url": "https://www.linkedin.com/company/rokt",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering",
-    "stack": "Machine Learning, AI, Deep Learning, Bayesian Methods, Reinforcement Learning, Econometrics, NLP, Gradient Boosting, Software Engineering, System Design, Cloud Architecture, Kubernetes, TFX, Kubeflow, Feature Stores",
-    "salaire": "A$170,000.00/yr - A$185,000.00/yr",
-    "experience_requise": "Associate",
-    "score": 2,
-    "points_positifs": [
-      "Développement de carrière possible",
-      "Équipe créative et innovante"
-    ],
-    "points_negatifs": [
-      "Exigences techniques très élevées",
-      "Niveau d'expérience demandé : Associate"
-    ],
-    "commentaire": "Cette offre est intéressante pour les passionnés de Machine Learning, mais les exigences techniques et le niveau d'expérience demandé sont très élevés.",
-    "lien": "https://au.linkedin.com/jobs/view/machine-learning-engineer-at-rokt-4341139722",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
-    "titre": "Software Developer/ Developer Programmer",
-    "entreprise": "Quantaco",
-    "entreprise_url": "https://au.linkedin.com/company/quantaco",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "C#, .Net Framework, JavaScript, CSS, HTML, ASP.NET MVC, Web API, ASP.NET Core, ADO.net, ORMs (EntityFramework, Dapper.net, NHibernate), Databases (SQL Server, PostgreSQL), NoSql (Redis, MongoGB), JavaScript frameworks (AngularJs, VueJs, ExtJs), Microsoft Azure cloud platform (App Service, Service Bus, Service Fabric), Source Code Control (SVN, GIT)",
-    "salaire": "$77,000 - $90,000 plus Super",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Localisation à Sydney",
-      "Salaire compétitif",
-      "Hybrid working, birthday leave, et wellness discounts"
-    ],
-    "points_negatifs": [
-      "Développement C# et .Net Framework requis",
-      "Exigence de connaissance de Microsoft Azure"
-    ],
-    "commentaire": "Cette offre propose une opportunité de travailler dans une grande ville internationale, avec un salaire compétitif et des avantages sociaux intéressants. Cependant, les exigences de connaissance de C# et .Net Framework, ainsi que de Microsoft Azure, peuvent être un défi pour un développeur junior.",
-    "lien": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-legal-prompter-at-thomson-reuters-4326444570",
-    "titre": "Software Engineer, Legal Prompter",
-    "entreprise": "Thomson Reuters",
-    "entreprise_url": "https://ca.linkedin.com/company/thomson-reuters",
-    "localisation": "Pyrmont, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, APIs, SQL, LLMs, OpenAI, Anthropic, Cohere, Llama, Mistral",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Hybrid Work Model",
-      "Flexibility & Work-Life Balance",
-      "Career Development and Growth",
-      "Industry Competitive Benefits",
-      "Culture",
-      "Social Impact",
-      "Making a Real-World Impact"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre junior pour un développeur Full-Stack avec expertise juridique et expérience en Python",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-legal-prompter-at-thomson-reuters-4326444570",
+    "commentaire": "Offre de poste de développeur backend à Hong Kong avec des technologies pertinentes pour le candidat.",
+    "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
     "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
-    "titre": "Data Scientist Engineer",
-    "entreprise": "Dataro",
-    "entreprise_url": "https://www.linkedin.com/company/dataro",
-    "localisation": "Surry Hills, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, SQL, AWS services, Git, CI/CD pipelines, MLOps concepts, Machine Learning",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 4,
-    "points_positifs": [
-      "Impact sur des causes sociales",
-      "Collaboration avec un équipe passionnée",
-      "Stack moderne"
-    ],
-    "points_negatifs": [
-      "Pas de mention de développement full-stack",
-      "Exigences spécifiques en matière de Python, SQL et ML"
-    ],
-    "commentaire": "Cette offre correspond aux critères de l'expérience, mais il est préférable qu'Aodren ait plus d'expérience en ML avant de postuler.",
-    "lien": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
-    "date_publication": "2025-12-09T00:00:00.000Z",
-    "nb_candidats": "29"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "titre": "Junior Software Engineer",
-    "entreprise": "Catalyst Growth Services",
-    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
-    "salaire": "$85K-$105K + Super",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Hybrid work avec bureau à Sydney",
-      "Développement de compétences en tant que Software Engineer",
-      "Travail avec une équipe expérimentée",
-      "Visa sponsorship disponible"
-    ],
-    "points_negatifs": [
-      "Exigence de connaissance de NodeJS et ExpressJS"
-    ],
-    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "58"
-  }
-  {
-    "id": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
-    "titre": "Mechatronics/Embedded Software Engineer",
-    "entreprise": "Wnable Recruitment",
-    "entreprise_url": "https://au.linkedin.com/company/winable-recruitment",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering, Research, and Information Technology",
-    "stack": "C# , Python, Mechatronics, Embedded Software",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Funky creative development work",
-      "Passionate, innovative team atmosphere",
-      "Generous remuneration pour le candidat approprié"
-    ],
-    "points_negatifs": [
-      "Pas de mention de Full-Stack développement",
-      "Exigence de compétences en C# et Python comme principaux langages"
-    ],
-    "commentaire": "Offre Junior en développement de logiciels embarqués, avec un environnement de travail passionné et innovant.",
-    "lien": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "31"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
-    "titre": "Software Engineer",
-    "entreprise": "ASH consulting",
-    "entreprise_url": "https://tn.linkedin.com/company/ash-consulting-training",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile, Security protocols",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Développement Full-Stack possible",
-      "Localisation dans une grande ville internationale"
-    ],
-    "points_negatifs": [
-      "Pas de mention de possibilité de déplacement en CDI"
-    ],
-    "commentaire": "Offre de développement full-stack dans une grande ville internationale, mais pas de mention de possibilité de déplacement en CDI.",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
+    "nb_candidats": "117"
   }
 ]
