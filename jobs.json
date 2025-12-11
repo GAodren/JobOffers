@@ -222,5 +222,55 @@
     "lien": "https://au.linkedin.com/jobs/view/technical-operations-engineer-at-anduril-industries-4342945218",
     "date_publication": "2025-12-10T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/graduate-front-end-engineer-at-swipejobs-4326635306",
+    "titre": "Graduate Front-End Engineer",
+    "entreprise": "swipejobs",
+    "entreprise_url": "https://www.linkedin.com/company/swipejobs",
+    "localisation": "North Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Science",
+    "stack": "JavaScript, React",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Poste en full-stack front-end",
+      "Entreprise avec une technologie de pointe",
+      "Environnement de travail dynamique",
+      "Possibilité de développement professionnel",
+      "Localisation à Sydney, ville internationale"
+    ],
+    "points_negatifs": [
+      "Pas d'information sur le salaire"
+    ],
+    "commentaire": "Cette offre correspond parfaitement au profil du candidat, avec un poste en front-end et une entreprise internationale à Sydney.",
+    "lien": "https://au.linkedin.com/jobs/view/graduate-front-end-engineer-at-swipejobs-4326635306",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "65"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-moremta-technologies-4343200076",
+    "titre": "Software Engineer",
+    "entreprise": "Moremta Technologies",
+    "entreprise_url": "https://www.linkedin.com/company/moremta-technologies",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Back-End Web Development, Object-Oriented Programming (OOP), version control systems",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Sydney, expérience entry level, travail hybride avec flexibilité, développement back-end"
+    ],
+    "points_negatifs": [
+      "Salaire non précisé"
+    ],
+    "commentaire": "Cette offre correspond parfaitement au profil du candidat, avec un poste de développeur back-end à Sydney et une expérience entry level requise.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-moremta-technologies-4343200076",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
   }
 ]
