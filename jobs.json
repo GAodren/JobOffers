@@ -272,5 +272,469 @@
     "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-moremta-technologies-4343200076",
     "date_publication": "2025-12-11T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4348279537",
+    "titre": "Software Engineer",
+    "entreprise": "Red Alpha Cybersecurity",
+    "entreprise_url": "https://sg.linkedin.com/company/redalphacyber",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Node.js, Python, Java, C#, React, Vue, Angular, MongoDB, PostgreSQL, MSSQL, Git, Agile, Docker",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement full-stack",
+      "Technologies modernes",
+      "Environnement de travail rapide",
+      "Formation de 10 semaines proposée"
+    ],
+    "points_negatifs": [
+      "Pas de précision sur le salaire",
+      "Exigences de compétences élargies"
+    ],
+    "commentaire": "Cette offre de développeur full-stack propose un environnement de travail stimulant avec des technologies modernes et une formation proposée. Cependant, il n'y a pas de précision sur le salaire.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4348279537",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "41"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-asha-hospital-4343046660",
+    "titre": "Full Stack Engineer/Full Stack Developer",
+    "entreprise": "Asha Hospital",
+    "entreprise_url": "https://in.linkedin.com/company/asha-hospital-nagpur",
+    "localisation": "Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, Git, RESTful APIs, GraphQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Locaux internationaux (Singapore)",
+      "CDI",
+      "Niveau d'expérience correspondant à ses critères"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre junior correspondant parfaitement à ses critères de recherche",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-asha-hospital-4343046660",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-developer-at-webot-singapore-4343193280",
+    "titre": "Backend Developer",
+    "entreprise": "Webot Singapore",
+    "entreprise_url": "https://www.linkedin.com/company/webot-singapore",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie",
+    "stack": "Backend (Go, Python), Bases de données (MySQL, Kafka, Redis, Elasticsearch)",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-2 ans d'expérience)",
+    "score": 9,
+    "points_positifs": [
+      "Développement backend",
+      "Expérience en Singapour",
+      "Grand nombre de candidats"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Poste junior pour développeur backend avec une expérience de 1-2 ans, en CDI à Singapour.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-developer-at-webot-singapore-4343193280",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "98"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/sw-engineer-at-visa-4325453371",
+    "titre": "SW Engineer",
+    "entreprise": "Visa",
+    "entreprise_url": "https://www.linkedin.com/company/visa",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "Plein temps",
+    "type_travail": "Technologie de l'information",
+    "stack": "Java, C/C++, C#, .NET, Python, Javascript, HTML, Golang, Selenium, Python, Groovy, Ruby, Angular, React, Vuejs, AWS, MySQL, PowerBI, LLM (GPT, LLaMA), MLOps, ML models",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-3 ans d'expérience)",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior/milieu",
+      "Lieu de travail à Singapour",
+      "Entreprise internationale"
+    ],
+    "points_negatifs": [
+      "Poste non en CDI",
+      "Exigences techniques élevées"
+    ],
+    "commentaire": "Poste junior/milieu en développement logiciel chez Visa à Singapour, avec des exigences techniques élevées et un salaire non précisé.",
+    "lien": "https://sg.linkedin.com/jobs/view/sw-engineer-at-visa-4325453371",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Plus de 200 candidats"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-sginnovate-4326614893",
+    "titre": "Software Engineer",
+    "entreprise": "SGInnovate",
+    "entreprise_url": "https://sg.linkedin.com/company/sginnovate",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "Java, Python, C++, Docker, Kubernetes, AWS, NoSQL/Relational databases, RESTful APIs, GIS, Kafka",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 ans d'expérience)",
+    "score": 9,
+    "points_positifs": [
+      "Poste junior/moyen",
+      "Développement Full-Stack",
+      "Localisation internationale : Singapour",
+      "CDI"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience trop bas (Associate) pour l'expérience de 1-2 ans d'Aodren"
+    ],
+    "commentaire": "Poste junior/moyen de développeur Full-Stack dans une grande ville internationale avec un niveau d'expérience adapté, mais avec un niveau d'expérience un peu trop bas pour Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-sginnovate-4326614893",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "66"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-orcaslicer-4326804573",
+    "titre": "Software Engineer",
+    "entreprise": "OrcaSlicer",
+    "entreprise_url": "https://sg.linkedin.com/company/orcaslicer",
+    "localisation": "Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie et technologies de l'information",
+    "stack": "C++, wxWidgets, GUI, 3D rendering, computational geometry, Git, C++, Rust, Go, Python, JavaScript/TypeScript",
+    "salaire": "Non précisé",
+    "experience_requise": "Niveau junior",
+    "score": 9,
+    "points_positifs": [
+      "Rôle de fondation",
+      "Propriété de fonctionnalités",
+      "Influence sur la direction du produit",
+      "Modernisation des outils",
+      "Croissance rapide",
+      "Mentorat"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique du développement full-stack"
+    ],
+    "commentaire": "Offre de rôle de fondation avec une grande autonomie et une influence sur la direction du produit.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-orcaslicer-4326804573",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/web-developer-at-rikvin-capital-4326715322",
+    "titre": "Web Developer",
+    "entreprise": "Rikvin Capital",
+    "entreprise_url": "https://sg.linkedin.com/company/rikvincapital",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie et Technologies de l'Information",
+    "stack": "HTML, CSS, JS, React, Vue, Angular",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement full-stack",
+      "Localisation dans une grande ville internationale (Singapour)",
+      "Niveau d'expérience correspondant"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement full-stack dans une grande ville internationale avec un niveau d'expérience correspondant.",
+    "lien": "https://sg.linkedin.com/jobs/view/web-developer-at-rikvin-capital-4326715322",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "98"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-business-security-campus-recruitment-2026-at-shopee-4280065890",
+    "titre": "Backend Engineer - Business Security",
+    "entreprise": "Shopee",
+    "entreprise_url": "https://sg.linkedin.com/company/shopee",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Go, Python, Java, Data structures, algorithms, operating systems, networking, DB, Cache, middleware",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior",
+      "CDI",
+      "Localisation internationale"
+    ],
+    "points_negatifs": [
+      "DevOps et sécurité mentionnés dans la description, mais pas explicitement dans le titre"
+    ],
+    "commentaire": "Poste de backend junior avec localisation à Singapour. Le poste nécessite des connaissances en sécurité, mais pas explicitement dans le titre. L'entreprise est importante pour l'économie numérique.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-business-security-campus-recruitment-2026-at-shopee-4280065890",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "69 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ai-scientist-at-imda-3942035001",
+    "titre": "AI Scientist",
+    "entreprise": "IMDA",
+    "entreprise_url": "https://sg.linkedin.com/company/imdasg",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, C++, AI, Computer Vision, Natural Language Processing, recommendation system, Synthetic AI, TensorFlow, Torch",
+    "salaire": "Non précisé",
+    "experience_requise": "Mid-Senior level",
+    "score": 2,
+    "points_positifs": [],
+    "points_negatifs": [
+      "Pas de correspondance avec les compétences techniques actuelles du candidat",
+      "Pas de correspondance avec le poste recherché par le candidat (pas de développement full-stack, pas de poste junior)"
+    ],
+    "commentaire": "Offre de poste qui ne correspond pas aux critères de recherche du candidat, en particulier le poste de Développeur Full-Stack Junior.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-scientist-at-imda-3942035001",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ai-engineer-at-olofsson-consulting-4326810726",
+    "titre": "AI Engineer",
+    "entreprise": "Olofsson Consulting",
+    "entreprise_url": "https://sg.linkedin.com/company/olofsson",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "Python, JavaScript, n8n, Supabase, Pinecone, Hugging Face, NotebookLM",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 9,
+    "points_positifs": [
+      "Poste correspondant aux compétences techniques du candidat (Python, ML, LLM)",
+      "Lieu d'intérêt (Singapour)"
+    ],
+    "points_negatifs": [
+      "Pas d'information sur le type de contrat (CDI ou autre)",
+      "Pas de salaire mentionné"
+    ],
+    "commentaire": "Offre correspondante pour un développeur Full-Stack junior avec une expérience en ML et LLM, situé à Singapour.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-engineer-at-olofsson-consulting-4326810726",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "79"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/system-engineer-tech-support-at-ptc-system-s-pte-ltd-4349573837",
+    "titre": "System Engineer (Tech Support)",
+    "entreprise": "PTC System (S) Pte Ltd",
+    "entreprise_url": "https://sg.linkedin.com/company/ptc-system-s-pte-ltd",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Windows OS, Linux OS, Virtualization, Storage, Networking",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 2,
+    "points_positifs": [],
+    "points_negatifs": [
+      "DévOps et réseaux mentionnés",
+      "Type de travail non exactement correspondant"
+    ],
+    "commentaire": "Offre de travail en devOps et réseaux, non exactement correspondant aux critères de recherche.",
+    "lien": "https://sg.linkedin.com/jobs/view/system-engineer-tech-support-at-ptc-system-s-pte-ltd-4349573837",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-microsoft-student-clubs-aou-4326609037",
+    "titre": "Software Engineer",
+    "entreprise": "Microsoft Student Clubs - AOU",
+    "entreprise_url": "https://eg.linkedin.com/company/aoumsc",
+    "localisation": "Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, unit testing, integration testing, automated testing",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Emplacement à Singapour",
+      "Entreprise prestigieuse"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement Full-Stack junior à Singapour, avec possibilité de développement dans divers langages et technologies",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-microsoft-student-clubs-aou-4326609037",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/newgen-developer-at-temus-4349642384",
+    "titre": "NewGen Developer",
+    "entreprise": "Temus",
+    "entreprise_url": "https://sg.linkedin.com/company/temus",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Consulting and Information Technology",
+    "stack": "Java, Spring Boot, J2EE, SQL/Oracle, JavaScript, JQuery, Eclipse, GitHub, Soap UI, Postman, Jira, SVN, REST/SOAP APIs, web application security, application performance basics, DevOps",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 2,
+    "points_positifs": [],
+    "points_negatifs": [
+      "Niveau d'expérience demandé (minimum 4 ans) est supérieur à ce que recherche Aodren",
+      "Technologies mentionnées ne correspondent pas exactement à celles de Aodren"
+    ],
+    "commentaire": "Offre ne correspond pas en termes d'expérience et de technologies attendues",
+    "lien": "https://sg.linkedin.com/jobs/view/newgen-developer-at-temus-4349642384",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ai-software-engineer-at-enfactum-growth-as-a-service-4349426257",
+    "titre": "AI Software Engineer",
+    "entreprise": "Enfactum - Growth as a Service",
+    "entreprise_url": "https://sg.linkedin.com/company/enfactum-growth-as-a-service",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, LangChain, TensorFlow, PyTorch, OpenAI API, Azure",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement de solutions AI-driven avec les dernières technologies",
+      "Travail dans une équipe collaborative et innovante"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement de solutions AI avec langages Python et intégration de technologies cloud.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-software-engineer-at-enfactum-growth-as-a-service-4349426257",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/product-system-application-engineer-at-schneider-electric-4326626554",
+    "titre": "Product & System Application Engineer",
+    "entreprise": "Schneider Electric",
+    "entreprise_url": "https://fr.linkedin.com/company/schneider-electric",
+    "localisation": "Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Sales and Business Development",
+    "stack": "Non précisé",
+    "salaire": "Non précisé",
+    "experience_requise": "3-5 ans",
+    "score": 4,
+    "points_positifs": [
+      "Poste en ville internationale",
+      "CDI"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience supérieur au maximum accepté",
+      "Type de travail non compatible"
+    ],
+    "commentaire": "Offre de poste en tant que Product & System Application Engineer à Singapour, avec un niveau d'expérience supérieur au maximum accepté et un type de travail non compatible.",
+    "lien": "https://sg.linkedin.com/jobs/view/product-system-application-engineer-at-schneider-electric-4326626554",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/engineer-computing-intelligence-ihpc-at-a-star-agency-for-science-technology-and-research-4342295222",
+    "titre": "Engineer (Computing & Intelligence), IHPC",
+    "entreprise": "A*STAR - Agency for Science, Technology and Research",
+    "entreprise_url": "https://sg.linkedin.com/company/astarsg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, PyTorch, TensorFlow, JAX, Machine Learning, Artificial Intelligence",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Développement de grandes modèles de langage et multimodaux",
+      "Possibilité de publication dans des revues de premier Plan"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience demandé : Associate (ce qui pourrait correspondre à plus de 1 an d'expérience pour Aodren)"
+    ],
+    "commentaire": "Offre de développement de grandes modèles de langage et multimodaux avec possibilité de publication dans des revues de premier plan, mais demande un niveau d'expérience associé qui pourrait être un peu supérieur à ce que recherche Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/engineer-computing-intelligence-ihpc-at-a-star-agency-for-science-technology-and-research-4342295222",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/staff-software-engineer-medical-ai-google-deepmind-at-google-deepmind-4311885387",
+    "titre": "Staff Software Engineer, Medical AI",
+    "entreprise": "Google DeepMind",
+    "entreprise_url": "https://uk.linkedin.com/company/googledeepmind",
+    "localisation": "Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C++, Python, Angular, Typescript, LLM, multi-agent, multimodal",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 ans d'expérience)",
+    "score": 2,
+    "points_positifs": [
+      "Développement full-stack",
+      "Travail en équipe",
+      "Impact sur la santé"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience requis trop élevé (7+ ans)",
+      "Déficit de correspondance avec les compétences techniques actuelles du candidat (pas de mention de Java, PHP, etc.)"
+    ],
+    "commentaire": "Bien que l'offre corresponde à certaines des attentes du candidat, le niveau d'expérience requis est trop élevé et les compétences techniques attendues ne correspondent pas entièrement à celles du candidat.",
+    "lien": "https://sg.linkedin.com/jobs/view/staff-software-engineer-medical-ai-google-deepmind-at-google-deepmind-4311885387",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "85"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/product-test-engineer-at-silicon-labs-4277358138",
+    "titre": "Product Test Engineer",
+    "entreprise": "Silicon Labs",
+    "entreprise_url": "https://www.linkedin.com/company/siliconlabs",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Quality Assurance",
+    "stack": "ATE, Teradyne UltraFlex, ATE, C/C++, Python, VBA, analog IP test, embedded firmware, microcontroller-based systems",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 5,
+    "points_positifs": [
+      "Développement de compétences en test hardware et software",
+      "Collaboration dans une équipe expérimentée"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement full-stack ou de langages tels que Java ou JavaScript",
+      "Pas de possibilité de déplacement à Singapour"
+    ],
+    "commentaire": "Offre de test en qualité avec possibilité de développer ses compétences en test hardware et software, mais pas adaptée aux compétences full-stack du candidat.",
+    "lien": "https://sg.linkedin.com/jobs/view/product-test-engineer-at-silicon-labs-4277358138",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/development-engineer-ros-i-interoperable-robotics-software-system-artc-at-a-star-agency-for-science-technology-and-research-4343274338",
+    "titre": "Development Engineer (ROS-I Interoperable Robotics Software System)",
+    "entreprise": "A*STAR - Agency for Science, Technology and Research",
+    "entreprise_url": "https://sg.linkedin.com/company/astarsg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C++, Python, ROS 2, Docker, Kubernetes, Git, React",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 ans d'expérience)",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack avec ROS 2",
+      "Expérience avec CI/CD pipelines et containerization",
+      "Opportunité de travailler sur des projets de recherche et développement",
+      "Équipe internationale"
+    ],
+    "points_negatifs": [
+      "Pas de salaire mentionné"
+    ],
+    "commentaire": "Poste de développement full-stack junior avec une équipe internationale, travaillant sur des projets de recherche et développement en robotique",
+    "lien": "https://sg.linkedin.com/jobs/view/development-engineer-ros-i-interoperable-robotics-software-system-artc-at-a-star-agency-for-science-technology-and-research-4343274338",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
   }
 ]
