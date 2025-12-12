@@ -1,27 +1,646 @@
 [
   {
-    "id": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
-    "titre": "AI Engineer",
-    "entreprise": "BCG X",
-    "entreprise_url": "https://www.linkedin.com/company/bcg-x",
-    "localisation": "Dubai, United Arab Emirates",
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "titre": "Junior Software Engineer",
+    "entreprise": "Catalyst Growth Services",
+    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
+    "salaire": "$85K-$105K + Super",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Hybrid work avec bureau à Sydney",
+      "Développement de compétences en tant que Software Engineer",
+      "Travail avec une équipe expérimentée",
+      "Visa sponsorship disponible"
+    ],
+    "points_negatifs": [
+      "Exigence de connaissance de NodeJS et ExpressJS"
+    ],
+    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "58"
+  },
+  {
+    "id": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
+    "titre": "Backend Software Engineer",
+    "entreprise": "Epiq",
+    "entreprise_url": "https://www.linkedin.com/company/epiqglobal",
+    "localisation": "Hong Kong, Hong Kong SAR",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Solr, PostgreSQL, Qdrant, Docker, Kubernetes, GitHub Actions, ArgoCD",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Hong Kong, expérience requise entry level, technologies utilisées (Python, Docker, Kubernetes)"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de backend software engineer chez Epiq à Hong Kong, correspondant bien au profil du candidat en termes de localisation, d'expérience requise et de technologies utilisées.",
+    "lien": "https://hk.linkedin.com/jobs/view/backend-software-engineer-at-epiq-4319267383",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "117"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
+    "titre": "Junior Data Engineer - Sydney",
+    "entreprise": "GrainCorp",
+    "entreprise_url": "https://au.linkedin.com/company/graincorp",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Analyst",
+    "stack": "Python, Data pipeline architecture, ELT/ELT processes, Data modelling principles, Relational databases, Data warehousing concepts, Spark, Hadoop, Databricks, Azure, AWS, GCP, Version control systems, Collaborative development workflows, Data governance principles",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste à Sydney",
+      "Hybrid work et flexible leave options",
+      "Inclusive culture"
+    ],
+    "points_negatifs": [
+      "Pas de Back-end ou Front-end dans la liste des compétences",
+      "Pas de mention de salaire"
+    ],
+    "commentaire": "Offre Junior Data Engineer à Sydney avec une équipe collaborative et un environnement de travail inclusif.",
+    "lien": "https://au.linkedin.com/jobs/view/junior-data-engineer-sydney-at-graincorp-4326504771",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "60"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
+    "titre": "Data Scientist Engineer",
+    "entreprise": "Dataro",
+    "entreprise_url": "https://www.linkedin.com/company/dataro",
+    "localisation": "Surry Hills, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, SQL, AWS services (EC2, Batch, Lambda, S3, Athena), DuckDB, Postgres, S3, Athena",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement de modèles Machine Learning",
+      "Collaboration avec une équipe expérimentée",
+      "Impact réel sur des causes sociales"
+    ],
+    "points_negatifs": [
+      "Exigence de compétences en Python, SQL et ML"
+    ],
+    "commentaire": "Rôle de Data Scientist Engineer dans une entreprise de SaaS basée à Sydney, avec possibilité de contribution à des projets d'impact social.",
+    "lien": "https://au.linkedin.com/jobs/view/data-scientist-engineer-at-dataro-4326513620",
+    "date_publication": "2025-12-09T00:00:00.000Z",
+    "nb_candidats": "30 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
+    "titre": "Software Developer/ Developer Programmer",
+    "entreprise": "Quantaco",
+    "entreprise_url": "https://au.linkedin.com/company/quantaco",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C#, .Net Framework, Javascript, CSS, HTML, ASP.NET MVC, Web API, ASP.NET Core, ADO.net, ORMs (EntityFramework, Dapper.net, NHibernate), Databases (SQL Server, PostgreSQL), NoSql (Redis, MongoGB), Microsoft Azure cloud platform, Source Code Control (SVN, GITHUB)",
+    "salaire": "$77,000 - $90,000 plus Super",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement en C# et .Net Framework",
+      "Expérience avec des technologies web (Javascript, CSS, HTML, etc.)",
+      "Poste junior avec possibilité de croissance"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience requis : 2+ ans",
+      "Pas de mention de l'utilisation de langages de programmation autres que C# et .Net"
+    ],
+    "commentaire": "Offre de développement junior en C# et .Net Framework, avec possibilité de croissance et d'apprentissage de nouvelles technologies.",
+    "lien": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
+    "titre": "Mechatronics/Embedded Software Engineer",
+    "entreprise": "Winnable Recruitment",
+    "entreprise_url": "https://au.linkedin.com/company/winable-recruitment",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie, Recherche et Technologies de l'Information",
+    "stack": "C#, Python, Arduino, Microcontrollers, Raspberry Pi",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste en grande ville internationale",
+      "Développement d'applications pour mechatronics"
+    ],
+    "points_negatifs": [
+      "Développement Embedded, pas de Front-end",
+      "Pas de mention de Back-end"
+    ],
+    "commentaire": "Poste junior en mechatronics/Embedded Software Engineer dans une grande ville internationale, avec possibilité de développement d'applications pour mechatronics.",
+    "lien": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
+    "date_publication": "2025-12-10",
+    "nb_candidats": "39"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
+    "titre": "Software Engineer",
+    "entreprise": "ASH consulting",
+    "entreprise_url": "https://tn.linkedin.com/company/ash-consulting-training",
+    "localisation": "Sydney, New South Wales, Australia",
     "type_contrat": "CDI",
     "type_travail": "Engineering and Information Technology",
-    "stack": "Python",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Expérience junior acceptée",
+      "Grand emplacement international"
+    ],
+    "points_negatifs": [
+      "Non précisé"
+    ],
+    "commentaire": "Poste junior en développement Full-Stack avec une expérience très légère en tant que junior.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
+    "date_publication": "2025-12-10T00:00:00.000Z",
+    "nb_candidats": "Il faut être l'un des 25 premiers candidats"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/graduate-front-end-engineer-at-swipejobs-4326635306",
+    "titre": "Graduate Front-End Engineer",
+    "entreprise": "swipejobs",
+    "entreprise_url": "https://www.linkedin.com/company/swipejobs",
+    "localisation": "North Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Science",
+    "stack": "JavaScript, React",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Poste en full-stack front-end",
+      "Entreprise avec une technologie de pointe",
+      "Environnement de travail dynamique",
+      "Possibilité de développement professionnel",
+      "Localisation à Sydney, ville internationale"
+    ],
+    "points_negatifs": [
+      "Pas d'information sur le salaire"
+    ],
+    "commentaire": "Cette offre correspond parfaitement au profil du candidat, avec un poste en front-end et une entreprise internationale à Sydney.",
+    "lien": "https://au.linkedin.com/jobs/view/graduate-front-end-engineer-at-swipejobs-4326635306",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "65"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-moremta-technologies-4343200076",
+    "titre": "Software Engineer",
+    "entreprise": "Moremta Technologies",
+    "entreprise_url": "https://www.linkedin.com/company/moremta-technologies",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Back-End Web Development, Object-Oriented Programming (OOP), version control systems",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Sydney, expérience entry level, travail hybride avec flexibilité, développement back-end"
+    ],
+    "points_negatifs": [
+      "Salaire non précisé"
+    ],
+    "commentaire": "Cette offre correspond parfaitement au profil du candidat, avec un poste de développeur back-end à Sydney et une expérience entry level requise.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-moremta-technologies-4343200076",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4348279537",
+    "titre": "Software Engineer",
+    "entreprise": "Red Alpha Cybersecurity",
+    "entreprise_url": "https://sg.linkedin.com/company/redalphacyber",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Node.js, Python, Java, C#, React, Vue, Angular, MongoDB, PostgreSQL, MSSQL, Git, Agile, Docker",
     "salaire": "Non précisé",
     "experience_requise": "Entry level",
     "score": 9,
     "points_positifs": [
       "Développement full-stack",
-      "Environnement de travail international"
+      "Technologies modernes",
+      "Environnement de travail rapide",
+      "Formation de 10 semaines proposée"
     ],
     "points_negatifs": [
-      ""
+      "Pas de précision sur le salaire",
+      "Exigences de compétences élargies"
     ],
-    "commentaire": "Offre de développement full-stack dans une grande entreprise internationale, possibilité de travailler sur des projets innovants et de collaborer avec des équipes diversifiées.",
-    "lien": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
+    "commentaire": "Cette offre de développeur full-stack propose un environnement de travail stimulant avec des technologies modernes et une formation proposée. Cependant, il n'y a pas de précision sur le salaire.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4348279537",
     "date_publication": "2025-12-11T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-12T10:26:02.761Z"
+    "nb_candidats": "41"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-asha-hospital-4343046660",
+    "titre": "Full Stack Engineer/Full Stack Developer",
+    "entreprise": "Asha Hospital",
+    "entreprise_url": "https://in.linkedin.com/company/asha-hospital-nagpur",
+    "localisation": "Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, Git, RESTful APIs, GraphQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Locaux internationaux (Singapore)",
+      "CDI",
+      "Niveau d'expérience correspondant à ses critères"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre junior correspondant parfaitement à ses critères de recherche",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-asha-hospital-4343046660",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-developer-at-webot-singapore-4343193280",
+    "titre": "Backend Developer",
+    "entreprise": "Webot Singapore",
+    "entreprise_url": "https://www.linkedin.com/company/webot-singapore",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie",
+    "stack": "Backend (Go, Python), Bases de données (MySQL, Kafka, Redis, Elasticsearch)",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-2 ans d'expérience)",
+    "score": 9,
+    "points_positifs": [
+      "Développement backend",
+      "Expérience en Singapour",
+      "Grand nombre de candidats"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Poste junior pour développeur backend avec une expérience de 1-2 ans, en CDI à Singapour.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-developer-at-webot-singapore-4343193280",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "98"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/sw-engineer-at-visa-4325453371",
+    "titre": "SW Engineer",
+    "entreprise": "Visa",
+    "entreprise_url": "https://www.linkedin.com/company/visa",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "Plein temps",
+    "type_travail": "Technologie de l'information",
+    "stack": "Java, C/C++, C#, .NET, Python, Javascript, HTML, Golang, Selenium, Python, Groovy, Ruby, Angular, React, Vuejs, AWS, MySQL, PowerBI, LLM (GPT, LLaMA), MLOps, ML models",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-3 ans d'expérience)",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior/milieu",
+      "Lieu de travail à Singapour",
+      "Entreprise internationale"
+    ],
+    "points_negatifs": [
+      "Poste non en CDI",
+      "Exigences techniques élevées"
+    ],
+    "commentaire": "Poste junior/milieu en développement logiciel chez Visa à Singapour, avec des exigences techniques élevées et un salaire non précisé.",
+    "lien": "https://sg.linkedin.com/jobs/view/sw-engineer-at-visa-4325453371",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Plus de 200 candidats"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-sginnovate-4326614893",
+    "titre": "Software Engineer",
+    "entreprise": "SGInnovate",
+    "entreprise_url": "https://sg.linkedin.com/company/sginnovate",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "Java, Python, C++, Docker, Kubernetes, AWS, NoSQL/Relational databases, RESTful APIs, GIS, Kafka",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 ans d'expérience)",
+    "score": 9,
+    "points_positifs": [
+      "Poste junior/moyen",
+      "Développement Full-Stack",
+      "Localisation internationale : Singapour",
+      "CDI"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience trop bas (Associate) pour l'expérience de 1-2 ans d'Aodren"
+    ],
+    "commentaire": "Poste junior/moyen de développeur Full-Stack dans une grande ville internationale avec un niveau d'expérience adapté, mais avec un niveau d'expérience un peu trop bas pour Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-sginnovate-4326614893",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "66"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-orcaslicer-4326804573",
+    "titre": "Software Engineer",
+    "entreprise": "OrcaSlicer",
+    "entreprise_url": "https://sg.linkedin.com/company/orcaslicer",
+    "localisation": "Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie et technologies de l'information",
+    "stack": "C++, wxWidgets, GUI, 3D rendering, computational geometry, Git, C++, Rust, Go, Python, JavaScript/TypeScript",
+    "salaire": "Non précisé",
+    "experience_requise": "Niveau junior",
+    "score": 9,
+    "points_positifs": [
+      "Rôle de fondation",
+      "Propriété de fonctionnalités",
+      "Influence sur la direction du produit",
+      "Modernisation des outils",
+      "Croissance rapide",
+      "Mentorat"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique du développement full-stack"
+    ],
+    "commentaire": "Offre de rôle de fondation avec une grande autonomie et une influence sur la direction du produit.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-orcaslicer-4326804573",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/web-developer-at-rikvin-capital-4326715322",
+    "titre": "Web Developer",
+    "entreprise": "Rikvin Capital",
+    "entreprise_url": "https://sg.linkedin.com/company/rikvincapital",
+    "localisation": "Singapore, Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie et Technologies de l'Information",
+    "stack": "HTML, CSS, JS, React, Vue, Angular",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement full-stack",
+      "Localisation dans une grande ville internationale (Singapour)",
+      "Niveau d'expérience correspondant"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement full-stack dans une grande ville internationale avec un niveau d'expérience correspondant.",
+    "lien": "https://sg.linkedin.com/jobs/view/web-developer-at-rikvin-capital-4326715322",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "98"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-business-security-campus-recruitment-2026-at-shopee-4280065890",
+    "titre": "Backend Engineer - Business Security",
+    "entreprise": "Shopee",
+    "entreprise_url": "https://sg.linkedin.com/company/shopee",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Go, Python, Java, Data structures, algorithms, operating systems, networking, DB, Cache, middleware",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior",
+      "CDI",
+      "Localisation internationale"
+    ],
+    "points_negatifs": [
+      "DevOps et sécurité mentionnés dans la description, mais pas explicitement dans le titre"
+    ],
+    "commentaire": "Poste de backend junior avec localisation à Singapour. Le poste nécessite des connaissances en sécurité, mais pas explicitement dans le titre. L'entreprise est importante pour l'économie numérique.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-business-security-campus-recruitment-2026-at-shopee-4280065890",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "69 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ai-engineer-at-olofsson-consulting-4326810726",
+    "titre": "AI Engineer",
+    "entreprise": "Olofsson Consulting",
+    "entreprise_url": "https://sg.linkedin.com/company/olofsson",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "Python, JavaScript, n8n, Supabase, Pinecone, Hugging Face, NotebookLM",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 9,
+    "points_positifs": [
+      "Poste correspondant aux compétences techniques du candidat (Python, ML, LLM)",
+      "Lieu d'intérêt (Singapour)"
+    ],
+    "points_negatifs": [
+      "Pas d'information sur le type de contrat (CDI ou autre)",
+      "Pas de salaire mentionné"
+    ],
+    "commentaire": "Offre correspondante pour un développeur Full-Stack junior avec une expérience en ML et LLM, situé à Singapour.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-engineer-at-olofsson-consulting-4326810726",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "79"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-microsoft-student-clubs-aou-4326609037",
+    "titre": "Software Engineer",
+    "entreprise": "Microsoft Student Clubs - AOU",
+    "entreprise_url": "https://eg.linkedin.com/company/aoumsc",
+    "localisation": "Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, unit testing, integration testing, automated testing",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Emplacement à Singapour",
+      "Entreprise prestigieuse"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement Full-Stack junior à Singapour, avec possibilité de développement dans divers langages et technologies",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-microsoft-student-clubs-aou-4326609037",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ai-software-engineer-at-enfactum-growth-as-a-service-4349426257",
+    "titre": "AI Software Engineer",
+    "entreprise": "Enfactum - Growth as a Service",
+    "entreprise_url": "https://sg.linkedin.com/company/enfactum-growth-as-a-service",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, LangChain, TensorFlow, PyTorch, OpenAI API, Azure",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement de solutions AI-driven avec les dernières technologies",
+      "Travail dans une équipe collaborative et innovante"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement de solutions AI avec langages Python et intégration de technologies cloud.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-software-engineer-at-enfactum-growth-as-a-service-4349426257",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/engineer-computing-intelligence-ihpc-at-a-star-agency-for-science-technology-and-research-4342295222",
+    "titre": "Engineer (Computing & Intelligence), IHPC",
+    "entreprise": "A*STAR - Agency for Science, Technology and Research",
+    "entreprise_url": "https://sg.linkedin.com/company/astarsg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, PyTorch, TensorFlow, JAX, Machine Learning, Artificial Intelligence",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Développement de grandes modèles de langage et multimodaux",
+      "Possibilité de publication dans des revues de premier Plan"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience demandé : Associate (ce qui pourrait correspondre à plus de 1 an d'expérience pour Aodren)"
+    ],
+    "commentaire": "Offre de développement de grandes modèles de langage et multimodaux avec possibilité de publication dans des revues de premier plan, mais demande un niveau d'expérience associé qui pourrait être un peu supérieur à ce que recherche Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/engineer-computing-intelligence-ihpc-at-a-star-agency-for-science-technology-and-research-4342295222",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/development-engineer-ros-i-interoperable-robotics-software-system-artc-at-a-star-agency-for-science-technology-and-research-4343274338",
+    "titre": "Development Engineer (ROS-I Interoperable Robotics Software System)",
+    "entreprise": "A*STAR - Agency for Science, Technology and Research",
+    "entreprise_url": "https://sg.linkedin.com/company/astarsg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C++, Python, ROS 2, Docker, Kubernetes, Git, React",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 ans d'expérience)",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack avec ROS 2",
+      "Expérience avec CI/CD pipelines et containerization",
+      "Opportunité de travailler sur des projets de recherche et développement",
+      "Équipe internationale"
+    ],
+    "points_negatifs": [
+      "Pas de salaire mentionné"
+    ],
+    "commentaire": "Poste de développement full-stack junior avec une équipe internationale, travaillant sur des projets de recherche et développement en robotique",
+    "lien": "https://sg.linkedin.com/jobs/view/development-engineer-ros-i-interoperable-robotics-software-system-artc-at-a-star-agency-for-science-technology-and-research-4343274338",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/junior-developer-m-w-d-at-ckm-group-4349577044",
+    "titre": "Junior Developer",
+    "entreprise": "CKM Group",
+    "entreprise_url": "https://de.linkedin.com/company/ckmgroup",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "JavaScript, React, Node.js, Python, PHP, APIs, Datenbanken, Git",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Flexibilité d'emploi",
+      "Opportunité de travail en équipe",
+      "Lieu de travail à Berlin"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement Full-Stack avec possibilité de travail en équipe et flexibilité d'emploi.",
+    "lien": "https://de.linkedin.com/jobs/view/junior-developer-m-w-d-at-ckm-group-4349577044",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-11T15:48:48.681Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/backend-engineer-m-f-d-at-future-demand-4349429430",
+    "titre": "Backend Engineer (m/f/d)",
+    "entreprise": "Future Demand",
+    "entreprise_url": "https://de.linkedin.com/company/future-demand",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology",
+    "stack": "Python, Flask, FastAPI, Postgres, Dynamo DB, REST, AWS, Docker",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-2 ans d'expérience)",
+    "score": 8,
+    "points_positifs": [
+      "Développement backend, Expérience avec Python et ses frameworks, Expérience avec bases de données et cloud infrastructure"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développement backend avec une société young et internationale basée à Berlin, avec une grande variété de tâches et d'opportunités.",
+    "lien": "https://de.linkedin.com/jobs/view/backend-engineer-m-f-d-at-future-demand-4349429430",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-11T15:48:48.681Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/junior-frontend-developer-m-w-d-at-ckm-group-4349654188",
+    "titre": "Junior Frontend Developer (m/w/d)",
+    "entreprise": "CKM Group",
+    "entreprise_url": "https://de.linkedin.com/company/ckmgroup",
+    "localisation": "Berlin, Berlin, Germany",
+    "type_contrat": "CDI",
+    "type_travail": "Information Technology and Design",
+    "stack": "HTML, CSS, JavaScript, jQuery, SASS/SCSS, Bootstrap, Twig, Smarty, PHP",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement de webplattformes",
+      "Technologues web classiques"
+    ],
+    "points_negatifs": [
+      "Aucun point négatif notable"
+    ],
+    "commentaire": "Offre de développement frontend junior pour travailler sur des webplattformes et développer des interfaces utilisateur responsives.",
+    "lien": "https://de.linkedin.com/jobs/view/junior-frontend-developer-m-w-d-at-ckm-group-4349654188",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-11T15:48:48.681Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-%E2%80%93-junior-bis-senior-all-levels-banking-all-genders-at-msg-for-banking-ag-4326559685",
+    "titre": "Software Engineer – Junior bis Senior (all levels) / Banking (all genders)",
+    "entreprise": "msg for banking ag",
+    "entreprise_url": "https://de.linkedin.com/company/msgforbanking",
+    "localisation": "Berlin, Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Spring Boot, Git, Maven, Jenkins, Node.js, Angular, Webpack, Java, Datenbanken",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement Backend et Frontend avec modernes frameworks et outils",
+      "Travail en équipe",
+      "Flexibilité et possibilité de télétravail"
+    ],
+    "points_negatifs": [
+      "Niveau d'expérience demandé ne correspond pas parfaitement aux critères du candidat"
+    ],
+    "commentaire": "Offre attractive avec possibilité de développement Backend et Frontend. Cependant, le niveau d'expérience demandé est un peu élevé pour un candidat débutant.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-%E2%80%93-junior-bis-senior-all-levels-banking-all-genders-at-msg-for-banking-ag-4326559685",
+    "date_publication": "2025-12-11T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-11T15:48:48.681Z"
   }
 ]
