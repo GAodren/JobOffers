@@ -1,107 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "titre": "Junior Software Engineer",
-    "entreprise": "Catalyst Growth Services",
-    "entreprise_url": "https://au.linkedin.com/company/catalyst-growth-services",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "NodeJS (Typescript), ExpressJS, AWS, React Web/Native, OAuth, Lambda, DynamoDB, API Gateway",
-    "salaire": "$85K-$105K + Super",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Hybrid work avec bureau à Sydney",
-      "Développement de compétences en tant que Software Engineer",
-      "Travail avec une équipe expérimentée",
-      "Visa sponsorship disponible"
-    ],
-    "points_negatifs": [
-      "Exigence de connaissance de NodeJS et ExpressJS"
-    ],
-    "commentaire": "Rôle junior dans une start-up fintech à Sydney avec possibilité de développement de compétences en tant que Software Engineer",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-catalyst-growth-services-4326359192",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "58"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
-    "titre": "Software Developer/ Developer Programmer",
-    "entreprise": "Quantaco",
-    "entreprise_url": "https://au.linkedin.com/company/quantaco",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "C#, .Net Framework, Javascript, CSS, HTML, ASP.NET MVC, Web API, ASP.NET Core, ADO.net, ORMs (EntityFramework, Dapper.net, NHibernate), Databases (SQL Server, PostgreSQL), NoSql (Redis, MongoGB), Microsoft Azure cloud platform, Source Code Control (SVN, GITHUB)",
-    "salaire": "$77,000 - $90,000 plus Super",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Développement en C# et .Net Framework",
-      "Expérience avec des technologies web (Javascript, CSS, HTML, etc.)",
-      "Poste junior avec possibilité de croissance"
-    ],
-    "points_negatifs": [
-      "Niveau d'expérience requis : 2+ ans",
-      "Pas de mention de l'utilisation de langages de programmation autres que C# et .Net"
-    ],
-    "commentaire": "Offre de développement junior en C# et .Net Framework, avec possibilité de croissance et d'apprentissage de nouvelles technologies.",
-    "lien": "https://au.linkedin.com/jobs/view/software-developer-developer-programmer-at-quantaco-4342826954",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
-    "titre": "Mechatronics/Embedded Software Engineer",
-    "entreprise": "Winnable Recruitment",
-    "entreprise_url": "https://au.linkedin.com/company/winable-recruitment",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Ingénierie, Recherche et Technologies de l'Information",
-    "stack": "C#, Python, Arduino, Microcontrollers, Raspberry Pi",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Poste en grande ville internationale",
-      "Développement d'applications pour mechatronics"
-    ],
-    "points_negatifs": [
-      "Développement Embedded, pas de Front-end",
-      "Pas de mention de Back-end"
-    ],
-    "commentaire": "Poste junior en mechatronics/Embedded Software Engineer dans une grande ville internationale, avec possibilité de développement d'applications pour mechatronics.",
-    "lien": "https://au.linkedin.com/jobs/view/mechatronics-embedded-software-engineer-at-winable-recruitment-4349008267",
-    "date_publication": "2025-12-10",
-    "nb_candidats": "39"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
-    "titre": "Software Engineer",
-    "entreprise": "ASH consulting",
-    "entreprise_url": "https://tn.linkedin.com/company/ash-consulting-training",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Expérience junior acceptée",
-      "Grand emplacement international"
-    ],
-    "points_negatifs": [
-      "Non précisé"
-    ],
-    "commentaire": "Poste junior en développement Full-Stack avec une expérience très légère en tant que junior.",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-ash-consulting-4349137876",
-    "date_publication": "2025-12-10T00:00:00.000Z",
-    "nb_candidats": "Il faut être l'un des 25 premiers candidats"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/graduate-front-end-engineer-at-swipejobs-4326635306",
     "titre": "Graduate Front-End Engineer",
     "entreprise": "swipejobs",
@@ -595,5 +493,55 @@
     "date_publication": "2025-12-11T00:00:00.000Z",
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2025-12-12T16:12:04.711Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-lifelong-learning-udd-4349882308",
+    "titre": "Software Engineer",
+    "entreprise": "Lifelong Learning UDD",
+    "entreprise_url": "https://cl.linkedin.com/company/lifelong-learning-udd",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "CDI",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Localisation dans une grande ville internationale (Sydney)",
+      "Poste Junior"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondante avec un poste Junior de développeur Full-Stack dans une grande ville internationale.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-lifelong-learning-udd-4349882308",
+    "date_publication": "2025-12-13T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-13T13:00:42.648Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/quality-cloud-engineer-software-developer-in-test-at-clearroute-4327118612",
+    "titre": "Quality Cloud Engineer (Software Developer in Test)",
+    "entreprise": "ClearRoute",
+    "entreprise_url": "https://uk.linkedin.com/company/clearroute",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, JavaScript, Java, CI/CD, Playwright, AWS, GCP, Azure, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement dans une grande ville internationale",
+      "Offre CDI",
+      "Flexibilité de travail",
+      "Profit Sharing",
+      "Private Health Insurance"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Cette offre correspond parfaitement aux critères du candidat : développement dans une grande ville internationale, CDI, expérience junior, etc.",
+    "lien": "https://au.linkedin.com/jobs/view/quality-cloud-engineer-software-developer-in-test-at-clearroute-4327118612",
+    "date_publication": "2025-12-13T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-13T13:00:42.649Z"
   }
 ]
