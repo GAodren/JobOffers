@@ -1,30 +1,5 @@
 [
   {
-    "id": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
-    "titre": "AI Engineer",
-    "entreprise": "BCG X",
-    "entreprise_url": "https://www.linkedin.com/company/bcg-x",
-    "localisation": "Dubai, United Arab Emirates",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement full-stack",
-      "Environnement de travail international"
-    ],
-    "points_negatifs": [
-      ""
-    ],
-    "commentaire": "Offre de développement full-stack dans une grande entreprise internationale, possibilité de travailler sur des projets innovants et de collaborer avec des équipes diversifiées.",
-    "lien": "https://ae.linkedin.com/jobs/view/ai-engineer-united-arab-emirates-bcg-x-at-bcg-x-4323473225",
-    "date_publication": "2025-12-11T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-12T16:12:04.711Z"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/software-engineer-at-lifelong-learning-udd-4349882308",
     "titre": "Software Engineer",
     "entreprise": "Lifelong Learning UDD",
@@ -99,5 +74,182 @@
     "date_publication": "2025-12-14T00:00:00.000Z",
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2025-12-14T18:48:31.341Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/associate-software-developer-full-stack-tech-management-at-synapxe-4343772287",
+    "titre": "Associate Software Developer - Full Stack (Tech Management)",
+    "entreprise": "Synapxe",
+    "entreprise_url": "https://sg.linkedin.com/company/synapxe",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, Javascript, Node.js, Typescript, React JS, REDUX, C#, ASP.NET, RESTful API, Git, GitHub, Azure DevOps, MS SQL Database, CockroachDB",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level, 1 an d'expérience",
+    "score": 9,
+    "points_positifs": [
+      "Full-stack",
+      "Singapore",
+      "Entry level",
+      "Technologies variées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-stack à Singapour, niveau entry level, avec des technologies intéressantes",
+    "lien": "https://sg.linkedin.com/jobs/view/associate-software-developer-full-stack-tech-management-at-synapxe-4343772287",
+    "date_publication": "2025-12-15T00:00:00.000Z",
+    "nb_candidats": "37 applicants",
+    "date_ajout": "2025-12-15T17:15:13.701Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/junior-software-engineer-c%2B%2B-at-grasshopper-4233002702",
+    "titre": "Junior Software Engineer (C++)",
+    "entreprise": "Grasshopper",
+    "entreprise_url": "https://sg.linkedin.com/company/grasshopperasia",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C++, Python",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (2-4 ans d'expérience)",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Utilisation de C++ et Python",
+      "Environnement dynamique et diversifié",
+      "Avantages sociaux"
+    ],
+    "points_negatifs": [
+      "Expérience requise un peu élevée pour un junior"
+    ],
+    "commentaire": "Offre interessante pour un développeur junior ambitieux, mais l'expérience requise est un peu élevée.",
+    "lien": "https://sg.linkedin.com/jobs/view/junior-software-engineer-c%2B%2B-at-grasshopper-4233002702",
+    "date_publication": "2025-12-15T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-15T17:15:13.701Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-software-engineer-python-react-at-tap-growth-ai-4343714549",
+    "titre": "Full-Stack Software Engineer (Python, React)",
+    "entreprise": "Tap Growth ai",
+    "entreprise_url": "https://www.linkedin.com/company/keron-research-labs",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Other",
+    "stack": "Python, React, JavaScript, REST APIs, AI/ML, LLM APIs",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Full-Stack",
+      "Python",
+      "React",
+      "AI-powered features",
+      "Entry level",
+      "Singapore"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack junior à Singapour, utilisant Python et React, avec focus sur l'intégration de fonctionnalités IA.",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-software-engineer-python-react-at-tap-growth-ai-4343714549",
+    "date_publication": "2025-12-15T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-15T17:15:13.701Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-developer-associate-at-kyndryl-4327772188",
+    "titre": "Full Stack Developer - Associate",
+    "entreprise": "Kyndryl",
+    "entreprise_url": "https://www.linkedin.com/company/kyndryl",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology and Engineering",
+    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, .NET, SQL, NoSQL, Git",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (1-2 ans d'expérience professionnelle)",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Singapour, correspondant à l'une des villes internationales recherchées",
+      "Poste de développeur Full Stack, correspondant aux compétences et intérêts du candidat",
+      "Niveau d'expérience requis est 'Entry level' avec 1-2 ans d'expérience professionnelle, ce qui correspond au profil du candidat",
+      "Type de contrat : Full-time, ce qui correspond aux attentes du candidat"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de poste de développeur Full Stack à Singapour, correspondant bien au profil et aux critères du candidat Aodren GLOUX.",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-developer-associate-at-kyndryl-4327772188",
+    "date_publication": "2025-12-15T00:00:00.000Z",
+    "nb_candidats": "52 applicants",
+    "date_ajout": "2025-12-15T17:15:13.702Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-developer-at-avepoint-4256725863",
+    "titre": "Backend Developer",
+    "entreprise": "AvePoint",
+    "entreprise_url": "https://www.linkedin.com/company/avepoint",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, Spring, Maven, Postgres, Oracle RDBMS, SQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Singapour",
+      "Expérience Entry level requise",
+      "Technologies utilisées : Java, Spring, Maven"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant bien au profil du candidat, localisation internationale et niveau d'expérience adapté.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-developer-at-avepoint-4256725863",
+    "date_publication": "2025-12-15T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-15T17:15:13.702Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/python-developer-tester-at-avepoint-4053732901",
+    "titre": "Python Developer & Tester",
+    "entreprise": "AvePoint",
+    "entreprise_url": "https://www.linkedin.com/company/avepoint",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Agile, Waterfall, SQL, DevOps, Pyspark, Linux, ETL, Informatica, SAP BO, Tableau",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Expérience Entry level requise",
+      "Technologies variées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant bien au profil du candidat, avec une localisation à Singapour et des technologies variées",
+    "lien": "https://sg.linkedin.com/jobs/view/python-developer-tester-at-avepoint-4053732901",
+    "date_publication": "2025-12-15",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-15T17:15:13.702Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-software-engineer-at-millipede-4343753174",
+    "titre": "Full-Stack Software Engineer",
+    "entreprise": "Millipede",
+    "entreprise_url": "https://sg.linkedin.com/company/millipedesg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "TypeScript, Node.js, ReactJs, React Native, Google Cloud Platform, Firebase",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (up to 3+ years)",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Technologies modernes",
+      "Environnement collaboratif",
+      "Avantages sociaux"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre pertinente pour un développeur Full-Stack junior",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-software-engineer-at-millipede-4343753174",
+    "date_publication": "2025-12-15",
+    "nb_candidats": "101 applicants",
+    "date_ajout": "2025-12-15T17:15:13.702Z"
   }
 ]
