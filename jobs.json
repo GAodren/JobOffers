@@ -1,55 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-at-lifelong-learning-udd-4349882308",
-    "titre": "Software Engineer",
-    "entreprise": "Lifelong Learning UDD",
-    "entreprise_url": "https://cl.linkedin.com/company/lifelong-learning-udd",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "CDI",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello, Agile",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Localisation dans une grande ville internationale (Sydney)",
-      "Poste Junior"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondante avec un poste Junior de développeur Full-Stack dans une grande ville internationale.",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-at-lifelong-learning-udd-4349882308",
-    "date_publication": "2025-12-13T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-13T13:00:42.648Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/quality-cloud-engineer-software-developer-in-test-at-clearroute-4327118612",
-    "titre": "Quality Cloud Engineer (Software Developer in Test)",
-    "entreprise": "ClearRoute",
-    "entreprise_url": "https://uk.linkedin.com/company/clearroute",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, JavaScript, Java, CI/CD, Playwright, AWS, GCP, Azure, Docker, Kubernetes",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement dans une grande ville internationale",
-      "Offre CDI",
-      "Flexibilité de travail",
-      "Profit Sharing",
-      "Private Health Insurance"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Cette offre correspond parfaitement aux critères du candidat : développement dans une grande ville internationale, CDI, expérience junior, etc.",
-    "lien": "https://au.linkedin.com/jobs/view/quality-cloud-engineer-software-developer-in-test-at-clearroute-4327118612",
-    "date_publication": "2025-12-13T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-13T13:00:42.649Z"
-  },
-  {
     "id": "https://ca.linkedin.com/jobs/view/software-engineer-be-words-with-friends-at-zynga-4255379872",
     "titre": "Software Engineer (BE) - Words With Friends",
     "entreprise": "Zynga",
@@ -432,5 +382,118 @@
     "date_publication": "2025-12-15",
     "nb_candidats": "82",
     "date_ajout": "2025-12-16T11:01:08.478Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/junior-software-developer-observability-at-canonical-4344238468",
+    "titre": "Junior Software Developer - Observability",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Go, Linux, Kubernetes, OpenStack",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement de logiciels open source",
+      "Technologies innovantes (Kubernetes, Observability)",
+      "Environnement de travail distribué et flexible",
+      "Opportunité de croissance et de développement personnel"
+    ],
+    "points_negatifs": [
+      "Localisation à Dublin, Ireland (hors des villes préférées du candidat)"
+    ],
+    "commentaire": "Offre de développeur junior pour un projet de monitoring stack chez Canonical, avec des technologies comme Python, Go et Kubernetes.",
+    "lien": "https://ie.linkedin.com/jobs/view/junior-software-developer-observability-at-canonical-4344238468",
+    "date_publication": "2025-12-17T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-17T11:01:02.079Z"
+  },
+  {
+    "id": "https://es.linkedin.com/jobs/view/automation-software-developer-at-dxc-technology-4324279829",
+    "titre": "Automation Software Developer",
+    "entreprise": "DXC Technology",
+    "entreprise_url": "https://www.linkedin.com/company/dxctechnology",
+    "localisation": "Spain",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "JavaScript, NodeJS, AWS, Cloud Architecture, GitHub, Jenkins, Artifactory, Jira, REST APIs, Python, Go, Bash, Terraform",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste en Espagne, localisation internationale acceptée",
+      "Travail en équipe internationale",
+      "Utilisation de technologies récentes et variées (Cloud, DevOps, Automation)",
+      "Formation continue et certifications possibles via DXC University",
+      "Environnement de travail flexible et équilibre vie professionnelle/perso"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de développement Full-Stack, mais des compétences en front-end et back-end sont requises",
+      "Lieu de travail : Asturias, Espagne (pas dans les villes spécifiques mentionnées par le candidat)"
+    ],
+    "commentaire": "Offre de développeur logiciel automation en Espagne, niveau entry level, CDI. Correspond en partie au profil du candidat.",
+    "lien": "https://es.linkedin.com/jobs/view/automation-software-developer-at-dxc-technology-4324279829",
+    "date_publication": "2025-12-16T00:00:00.000Z",
+    "nb_candidats": "103 applicants",
+    "date_ajout": "2025-12-17T11:01:02.079Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/associate-software-engineer-at-fenergo-4343985215",
+    "titre": "Associate Software Engineer",
+    "entreprise": "Fenergo",
+    "entreprise_url": "https://ie.linkedin.com/company/fenergo",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Python, AWS, Cloud computing, SaaS, Microservices, CI/CD",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (0-3 ans d'expérience)",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack avec focus sur le back-end",
+      "Utilisation de technologies modernes comme AWS, Python, et Cloud computing",
+      "Environnement collaboratif et dynamique",
+      "Avantages sociaux attractifs (santé, pension, assurance vie, etc.)",
+      "Opportunité de travailler sur des projets innovants dans le secteur financier"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique de travail sur le front-end",
+      "Localisation à Dublin, Irlande (hors des villes préférées du candidat)"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux, avec des opportunités de croissance et un environnement de travail attractif.",
+    "lien": "https://ie.linkedin.com/jobs/view/associate-software-engineer-at-fenergo-4343985215",
+    "date_publication": "2025-12-16",
+    "nb_candidats": "123",
+    "date_ajout": "2025-12-17T11:01:02.079Z"
+  },
+  {
+    "id": "https://uk.linkedin.com/jobs/view/java-software-developer-at-dxc-technology-4324199797",
+    "titre": "Java Software Developer",
+    "entreprise": "DXC Technology",
+    "entreprise_url": "https://www.linkedin.com/company/dxctechnology",
+    "localisation": "United Kingdom",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C#, C++, Python, Docker, OpenShift, MySQL, Oracle",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement Java",
+      "Environnement international",
+      "Technologies variées",
+      "Formation continue"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement Full-Stack",
+      "Exigence de nationalité UK"
+    ],
+    "commentaire": "Offre de développeur Java en entrée de gamme chez DXC Technology au Royaume-Uni.",
+    "lien": "https://uk.linkedin.com/jobs/view/java-software-developer-at-dxc-technology-4324199797",
+    "date_publication": "2025-12-16T00:00:00.000Z",
+    "nb_candidats": "200 applicants",
+    "date_ajout": "2025-12-17T11:01:02.080Z"
   }
 ]
