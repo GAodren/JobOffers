@@ -1,31 +1,5 @@
 [
   {
-    "id": "https://ca.linkedin.com/jobs/view/software-engineer-be-words-with-friends-at-zynga-4255379872",
-    "titre": "Software Engineer (BE) - Words With Friends",
-    "entreprise": "Zynga",
-    "entreprise_url": "https://www.linkedin.com/company/zynga",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Ruby, Ruby on Rails, C#, AWS, Azure, Google Cloud",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Poste en full-stack développement avec focus sur le back-end",
-      "Entreprise réputée dans le domaine des jeux vidéo",
-      "Opportunité de travail sur des projets de grande envergure"
-    ],
-    "points_negatifs": [
-      "Localisation au Canada, qui n'est pas explicitement mentionnée comme une ville internationale ciblée, mais qui peut être considérée comme acceptable"
-    ],
-    "commentaire": "Offre intéressante pour un développeur junior en full-stack développement avec un focus sur le back-end, chez une entreprise réputée dans le domaine des jeux vidéo",
-    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-be-words-with-friends-at-zynga-4255379872",
-    "date_publication": "2025-12-14T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-14T18:48:31.341Z"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/associate-software-developer-full-stack-tech-management-at-synapxe-4343772287",
     "titre": "Associate Software Developer - Full Stack (Tech Management)",
     "entreprise": "Synapxe",
@@ -495,5 +469,193 @@
     "date_publication": "2025-12-16T00:00:00.000Z",
     "nb_candidats": "200 applicants",
     "date_ajout": "2025-12-17T11:01:02.080Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/junior-frontend-developer-m-w-d-at-freiheit-software-4344481996",
+    "titre": "Junior Frontend Developer (m/w/d)",
+    "entreprise": "freiheit.software",
+    "entreprise_url": "https://de.linkedin.com/company/freiheit-software",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Angular, HTML, CSS, JavaScript, RESTful APIs",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 8,
+    "points_positifs": [
+      "Développement Frontend",
+      "Utilisation d'Angular",
+      "Environnement remote-friendly",
+      "Opportunités de croissance"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur frontend junior à Berlin, Allemagne, avec utilisation d'Angular et possibilité de travail flexible.",
+    "lien": "https://de.linkedin.com/jobs/view/junior-frontend-developer-m-w-d-at-freiheit-software-4344481996",
+    "date_publication": "2025-12-17T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-18T11:01:18.389Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-at-fast-growing-ai-tech-startup-at-jack-jill-4347538708",
+    "titre": "Software Engineer at fast-growing AI tech startup",
+    "entreprise": "Jack & Jill",
+    "entreprise_url": "https://www.linkedin.com/company/jackandjillai",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Non précisé",
+    "salaire": "Non précisé",
+    "experience_requise": "1 an",
+    "score": 7,
+    "points_positifs": [
+      "Startup en croissance rapide",
+      "Opportunité d'impact significatif",
+      "Environnement collaboratif",
+      "Financement par des investisseurs de haut niveau"
+    ],
+    "points_negatifs": [
+      "Pas de détails sur les technologies utilisées"
+    ],
+    "commentaire": "Offre de développeur logiciel en CDI à Berlin, Allemagne, pour une startup AI en croissance.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-at-fast-growing-ai-tech-startup-at-jack-jill-4347538708",
+    "date_publication": "18 décembre 2025",
+    "nb_candidats": "164",
+    "date_ajout": "2025-12-18T11:01:18.390Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-java-all-genders-at-adesso-se-3925558443",
+    "titre": "Software Engineer Java (all genders)",
+    "entreprise": "adesso SE",
+    "entreprise_url": "https://de.linkedin.com/company/adesso-se",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Java, Spring Boot, Hibernate",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack possible",
+      "CDI",
+      "Localisation internationale",
+      "Formation continue",
+      "Environnement de travail positif"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant bien au profil du candidat, avec un environnement de travail attractif et des possibilités de développement.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-java-all-genders-at-adesso-se-3925558443",
+    "date_publication": "18 décembre 2025",
+    "nb_candidats": "160",
+    "date_ajout": "2025-12-18T11:01:18.391Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-developer-in-research-and-science-m-f-d-at-bundesanstalt-f%C3%BCr-materialforschung-und-pr%C3%BCfung-4325474411",
+    "titre": "Software Developer in Research and Science",
+    "entreprise": "Bundesanstalt für Materialforschung und -prüfung",
+    "entreprise_url": "https://de.linkedin.com/company/bamresearch",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement logiciel",
+    "stack": "Python, Julia, Rust, Docker, Podman, SIEMENS PCS 7, Windows, Linux, SQL",
+    "salaire": "Groupe de salaire 12 TVöD",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Expérience en développement logiciel",
+      "Utilisation de technologies variées",
+      "Environnement de travail intéressant",
+      "Possibilité de développement personnel"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de Junior ou Entry-level",
+      "Compétences en allemand non précisées mais nécessaires"
+    ],
+    "commentaire": "Offre de développeur logiciel dans un organisme de recherche allemand, nécessitant des compétences en programmation et administration système.",
+    "lien": "https://de.linkedin.com/jobs/view/software-developer-in-research-and-science-m-f-d-at-bundesanstalt-f%C3%BCr-materialforschung-und-pr%C3%BCfung-4325474411",
+    "date_publication": "2025-12-18",
+    "nb_candidats": "174",
+    "date_ajout": "2025-12-18T11:01:18.391Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-at-hekima-news-4327907016",
+    "titre": "Software Engineer",
+    "entreprise": "Hekima News",
+    "entreprise_url": "https://cd.linkedin.com/company/hekimanews",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Full-stack développement",
+      "Technologies variées",
+      "Berlin, Allemagne",
+      "Entry level"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant bien au profil, possibilité de développement full-stack à Berlin.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-at-hekima-news-4327907016",
+    "date_publication": "2025-12-18T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-18T11:01:18.391Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/front-end-entwickler-in-at-serious-games-solutions-4336897777",
+    "titre": "Front-End-Entwickler:in",
+    "entreprise": "Serious Games Solutions",
+    "entreprise_url": "https://www.linkedin.com/company/serious-games-solutions",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Front-end",
+    "stack": "Unity3D, C#",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (2 ans d'expérience)",
+    "score": 7,
+    "points_positifs": [
+      "Expérience avec Unity3D",
+      "C# avancé",
+      "Équipe interdisciplinaire",
+      "Projets à valeur sociale ajoutée"
+    ],
+    "points_negatifs": [
+      "Pas de mention de technologies front-end classiques comme HTML/CSS/JS",
+      "Exigence de citoyenneté UE ou permis de travail pour l'Allemagne"
+    ],
+    "commentaire": "Offre de développement front-end avec Unity3D et C# à Berlin, Allemagne. Corresponds aux critères de localisation et de type de contrat.",
+    "lien": "https://de.linkedin.com/jobs/view/front-end-entwickler-in-at-serious-games-solutions-4336897777",
+    "date_publication": "18 décembre 2025",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2025-12-18T11:01:18.392Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/junior-backend-developer-m-w-d-at-freiheit-software-4344442333",
+    "titre": "Junior Backend Developer (m/w/d)",
+    "entreprise": "freiheit.software",
+    "entreprise_url": "https://de.linkedin.com/company/freiheit-software",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Backend",
+    "stack": ".NET, C#, SQL, MySQL, PostgreSQL, Docker",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (Junior)",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Berlin, Allemagne",
+      "Travail en CDI",
+      "Développement Backend avec .NET et C#",
+      "Utilisation de technologies actuelles",
+      "Environnement de travail flexible et remote-friendly"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement Full-Stack",
+      "Technologies non exactement alignées avec le profil du candidat"
+    ],
+    "commentaire": "Offre de développeur backend junior à Berlin, Allemagne, avec utilisation de .NET et C#, intéressant mais nécessite une adaptation aux technologies spécifiques.",
+    "lien": "https://de.linkedin.com/jobs/view/junior-backend-developer-m-w-d-at-freiheit-software-4344442333",
+    "date_publication": "17 décembre 2025",
+    "nb_candidats": "172",
+    "date_ajout": "2025-12-18T11:01:18.392Z"
   }
 ]
