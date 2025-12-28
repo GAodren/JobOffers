@@ -1,193 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329032796",
-    "titre": "Graduate software engineer",
-    "entreprise": "Bending Spoons",
-    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
-    "localisation": "Dublin, Irlande",
-    "type_contrat": "CDI",
-    "type_travail": "Développement logiciel",
-    "stack": "Python, Rust, gRPC, REST APIs, Kubernetes, Docker",
-    "salaire": "£85,797 - £250,512",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "CDI",
-      "Grande ville internationale",
-      "Poste Junior",
-      "Salaire compétitif",
-      "Avantages sociaux"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur logiciel junior à Dublin, Irlande, avec des opportunités de croissance et un salaire compétitif.",
-    "lien": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4329032796",
-    "date_publication": "2025-12-24",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-24T11:00:56.261Z"
-  },
-  {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4329012924",
-    "titre": "Software engineer",
-    "entreprise": "Bending Spoons",
-    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Rust, gRPC, REST APIs, Kubernetes, Docker",
-    "salaire": "£85,797 - £250,512",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Entry level",
-      "Technologies variées et récentes",
-      "Avantages sociaux attractifs",
-      "Opportunité de croissance rapide",
-      "Équité dans l'entreprise offerte"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre très attractive pour un développeur junior ambitieux, avec des opportunités de croissance et des avantages sociaux exceptionnels.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4329012924",
-    "date_publication": "2025-12-24T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-24T11:00:56.262Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/fullstack-developer-laravel-m-f-x-in-berlin-or-cologne-at-konfetti-4350511462",
-    "titre": "Fullstack Developer - Laravel (m/f/x) in Berlin or Cologne",
-    "entreprise": "konfetti",
-    "entreprise_url": "https://de.linkedin.com/company/gokonfetti",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement Full-Stack",
-    "stack": "Laravel, Vue.js, PostgreSQL, MySQL, DynamoDB, AWS, Serverless",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate (Junior)",
-    "score": 8,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Utilisation de technologies modernes (Laravel, Vue.js, AWS)",
-      "CDI",
-      "Localisation à Berlin ou Cologne",
-      "Avantages sociaux attractifs (actions de l'entreprise, politique de vacances évolutive, etc.)"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full-Stack à Berlin ou Cologne, CDI, avec des avantages sociaux attractifs.",
-    "lien": "https://de.linkedin.com/jobs/view/fullstack-developer-laravel-m-f-x-in-berlin-or-cologne-at-konfetti-4350511462",
-    "date_publication": "25 décembre 2025",
-    "nb_candidats": "Sois parmi les 25 premiers candidats",
-    "date_ajout": "2025-12-25T11:00:53.827Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-mit-bis-zu-90%25-remote-deutschlandweit%21-angular-spring-boot-ai-development-at-sifamo-gmbh-4350481497",
-    "titre": "Softwareentwickler (m/w/d) mit bis zu 90% remote deutschlandweit! Angular, Spring Boot, AI Development",
-    "entreprise": "sifamo GmbH",
-    "entreprise_url": "https://de.linkedin.com/company/sifamo",
-    "localisation": "Berlin, Germany",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Angular, Spring Boot, Kubernetes, AI, Machine Learning, Cloud-native Tools",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Travail remote jusqu'à 90%",
-      "Technologies modernes comme Angular et Spring Boot",
-      "Possibilités de développement personnel et professionnel"
-    ],
-    "points_negatifs": [
-      "Pas de mention de CDI",
-      "Expérience avec Azure/AWS/GCP requise"
-    ],
-    "commentaire": "Offre de développeur logiciel en entrée de gamme avec des technologies modernes et des possibilités de travail remote.",
-    "lien": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-mit-bis-zu-90%25-remote-deutschlandweit%21-angular-spring-boot-ai-development-at-sifamo-gmbh-4350481497",
-    "date_publication": "2025-12-25T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-25T11:00:53.828Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/product-software-engineer-at-10x-akquise-4346281611",
-    "titre": "Product/Software Engineer",
-    "entreprise": "10x Akquise",
-    "entreprise_url": "https://www.linkedin.com/company/10x-akquise",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "Typescript, React, Vite, Convex, AI",
-    "salaire": "€84,000.00/yr",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "CDI",
-      "Berlin, Allemagne",
-      "Entry level",
-      "Salaire attractif",
-      "Equity",
-      "Technologies modernes",
-      "Impact immédiat",
-      "Autonomie"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre très attractive pour un développeur junior ambitieux, avec des responsabilités importantes et une rémunération attractive.",
-    "lien": "https://de.linkedin.com/jobs/view/product-software-engineer-at-10x-akquise-4346281611",
-    "date_publication": "2025-12-24",
-    "nb_candidats": "40",
-    "date_ajout": "2025-12-25T11:00:53.828Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/softwareentwickler-f%C3%BCr-soziale-innovationen-m-w-d-at-vrg-gruppe-4329234775",
-    "titre": "Softwareentwickler für soziale Innovationen (m/w/d)",
-    "entreprise": "VRG-Gruppe",
-    "entreprise_url": "https://de.linkedin.com/company/vrg-gmbh",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "KI-basierte Lösungen, Cloud-Technologien, Containerisierung, CI/CD, LLMs, RAGs",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement de solutions innovantes",
-      "Équipe interdisciplinaire",
-      "Flexibilité horaire et option de télétravail"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur junior en CDI à Berlin, Allemagne, avec focus sur les solutions innovantes et l'impact social.",
-    "lien": "https://de.linkedin.com/jobs/view/softwareentwickler-f%C3%BCr-soziale-innovationen-m-w-d-at-vrg-gruppe-4329234775",
-    "date_publication": "2025-12-24",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-25T11:00:53.828Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/mulesoft-developer-all-genders-at-adesso-se-3759738317",
-    "titre": "MuleSoft Developer (all genders)",
-    "entreprise": "adesso SE",
-    "entreprise_url": "https://de.linkedin.com/company/adesso-se",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "Java, JSON, XML, REST/SOAP, MuleSoft, API, ETL, ESB, Kafka",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "CDI",
-      "Berlin",
-      "Technologies actuelles"
-    ],
-    "points_negatifs": [
-      "Pas de Junior explicitement mentionné",
-      "MuleSoft spécifique"
-    ],
-    "commentaire": "Offre de développement à Berlin, correspondant en grande partie aux critères",
-    "lien": "https://de.linkedin.com/jobs/view/mulesoft-developer-all-genders-at-adesso-se-3759738317",
-    "date_publication": "25 décembre 2025",
-    "nb_candidats": "29",
-    "date_ajout": "2025-12-25T11:00:53.828Z"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-confidencial-4350646213",
     "titre": "ENTRY LEVEL SOFTWARE DEVELOPER",
     "entreprise": "Confidencial",
@@ -237,5 +49,113 @@
     "date_publication": "2025-12-26",
     "nb_candidats": "Plus de 200 candidats",
     "date_ajout": "2025-12-27T11:00:51.531Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/full-stack-engineer-ai-solutions-associate-remote-at-huron-4317227847",
+    "titre": "Full Stack Engineer - AI Solutions (Associate) - Remote",
+    "entreprise": "Huron",
+    "entreprise_url": "https://www.linkedin.com/company/huronconsulting",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "React, JavaScript/TypeScript, Python, Node.js, Azure AD, OAuth, SQL, NoSQL",
+    "salaire": "$95,000 - $125,000 CAD",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Full Stack",
+      "Remote",
+      "AI Solutions",
+      "Competitive salary"
+    ],
+    "points_negatifs": [
+      "3+ years of professional experience required"
+    ],
+    "commentaire": "Offre de poste en tant que Full Stack Engineer pour des solutions AI, avec une localisation à Toronto, Canada. L'offre correspond en partie au profil du candidat, mais nécessite 3+ ans d'expérience professionnelle.",
+    "lien": "https://ca.linkedin.com/jobs/view/full-stack-engineer-ai-solutions-associate-remote-at-huron-4317227847",
+    "date_publication": "2025-12-28T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-28T11:01:08.160Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
+    "titre": "Associate Software Engineer",
+    "entreprise": "Scotiabank",
+    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Java, SQL, relational and non-relational databases",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Expérience avec des langages de développement modernes",
+      "Connaissance des bases de données relationnelles et non relationnelles",
+      "Environnement inclusif et diversité"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique de développement Full-Stack"
+    ],
+    "commentaire": "Offre de poste pour un Associate Software Engineer chez Scotiabank à Toronto, Canada. Corresponds aux critères de localisation internationale et de type de travail.",
+    "lien": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
+    "date_publication": "2025-12-27T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-28T11:01:08.161Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
+    "titre": "Forward Deployed Engineer, Agentic Platform (Public Sector)",
+    "entreprise": "Cohere",
+    "entreprise_url": "https://ca.linkedin.com/company/cohere-ai",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, AI, RAG, agentic applications",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Travail en CDI",
+      "Environnement international",
+      "Technologies de pointe en AI"
+    ],
+    "points_negatifs": [
+      "Pas de détails sur le salaire",
+      "Exigence de citoyenneté canadienne et de sécurité"
+    ],
+    "commentaire": "Offre pertinente pour un développeur full-stack junior ambitieux, mais nécessite attention aux exigences spécifiques.",
+    "lien": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
+    "date_publication": "2025-12-27T00:00:00.000Z",
+    "nb_candidats": "40 applicants",
+    "date_ajout": "2025-12-28T11:01:08.161Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-developer-at-fidelity-canada-4300369819",
+    "titre": "Software Developer",
+    "entreprise": "Fidelity Canada",
+    "entreprise_url": "https://ca.linkedin.com/company/fidelitycanada",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, JavaScript, Salesforce, LWC, Apex, Visualforce, Einstein Analytics, Tableau CRM, Marketo",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Expérience de développement Full-Stack acceptée",
+      "Lieu : Toronto, Canada (ville internationale)",
+      "Type de contrat : Full-time (CDI)",
+      "Technologies utilisées : Java, JavaScript, Salesforce, etc.",
+      "Niveau d'expérience : Entry level (débutant)"
+    ],
+    "points_negatifs": [
+      "Pas de mention de la possibilité de travail à distance permanent"
+    ],
+    "commentaire": "Offre de développeur logiciel chez Fidelity Canada, correspondant aux critères de Aodren.",
+    "lien": "https://ca.linkedin.com/jobs/view/software-developer-at-fidelity-canada-4300369819",
+    "date_publication": "2025-12-28T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2025-12-28T11:01:08.161Z"
   }
 ]
