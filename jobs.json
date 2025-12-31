@@ -1,56 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-confidencial-4350646213",
-    "titre": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "entreprise": "Confidencial",
-    "entreprise_url": "https://www.linkedin.com/company/confidencialrole",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, Python, C++, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Entry-level",
-      "Développement Full-Stack",
-      "Sydney, Australie",
-      "CDI",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant parfaitement au profil du candidat, notamment en termes de niveau d'expérience et de localisation.",
-    "lien": "https://au.linkedin.com/jobs/view/entry-level-software-developer-at-confidencial-4350646213",
-    "date_publication": "2025-12-27",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-27T11:00:51.530Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
-    "titre": "Software Development Graduate (2026, AWS), Sydney",
-    "entreprise": "Amazon Web Services (AWS)",
-    "entreprise_url": "https://www.linkedin.com/company/amazon-web-services",
-    "localisation": "Sydney, Australie",
-    "type_contrat": "CDI",
-    "type_travail": "Développement logiciel",
-    "stack": "C/C++, Java, Perl, UNIX, Linux, AWS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "CDI",
-      "Sydney, Australie",
-      "Entry level"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développement logiciel en CDI à Sydney pour un profil junior",
-    "lien": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
-    "date_publication": "2025-12-26",
-    "nb_candidats": "Plus de 200 candidats",
-    "date_ajout": "2025-12-27T11:00:51.531Z"
-  },
-  {
     "id": "https://ca.linkedin.com/jobs/view/full-stack-engineer-ai-solutions-associate-remote-at-huron-4317227847",
     "titre": "Full Stack Engineer - AI Solutions (Associate) - Remote",
     "entreprise": "Huron",
@@ -416,5 +365,34 @@
     "date_publication": "2025-12-29",
     "nb_candidats": "Plus de 200 candidats",
     "date_ajout": "2025-12-30T11:00:19.603Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4346628386",
+    "titre": "Software Engineer - Data Infrastructure - Kafka",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Kafka, Spark, MySQL, PostgreSQL, Oracle, MongoDB, Redis, ElasticSearch, Linux, OpenStack, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Expérience en développement logiciel avec Python",
+      "Expérience avec des systèmes distribués comme Kafka et Spark",
+      "Environnement de travail remote",
+      "Budget pour l'apprentissage personnel et le développement",
+      "Avantages sociaux variés"
+    ],
+    "points_negatifs": [
+      "Localisation en Irlande (pas dans les villes internationales ciblées)",
+      "Pas de mention spécifique de développement Full-Stack"
+    ],
+    "commentaire": "Offre de poste en tant qu'ingénieur logiciel pour la construction d'une infrastructure de données avec Kafka, Spark et Python. Expérience en entry level requise.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4346628386",
+    "date_publication": "2025-12-31",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2025-12-31T11:00:55.898Z"
   }
 ]
