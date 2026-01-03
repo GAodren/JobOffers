@@ -1,372 +1,5 @@
 [
   {
-    "id": "https://ca.linkedin.com/jobs/view/full-stack-engineer-ai-solutions-associate-remote-at-huron-4317227847",
-    "titre": "Full Stack Engineer - AI Solutions (Associate) - Remote",
-    "entreprise": "Huron",
-    "entreprise_url": "https://www.linkedin.com/company/huronconsulting",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "React, JavaScript/TypeScript, Python, Node.js, Azure AD, OAuth, SQL, NoSQL",
-    "salaire": "$95,000 - $125,000 CAD",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Full Stack",
-      "Remote",
-      "AI Solutions",
-      "Competitive salary"
-    ],
-    "points_negatifs": [
-      "3+ years of professional experience required"
-    ],
-    "commentaire": "Offre de poste en tant que Full Stack Engineer pour des solutions AI, avec une localisation à Toronto, Canada. L'offre correspond en partie au profil du candidat, mais nécessite 3+ ans d'expérience professionnelle.",
-    "lien": "https://ca.linkedin.com/jobs/view/full-stack-engineer-ai-solutions-associate-remote-at-huron-4317227847",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-28T11:01:08.160Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
-    "titre": "Associate Software Engineer",
-    "entreprise": "Scotiabank",
-    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Java, SQL, relational and non-relational databases",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Expérience avec des langages de développement modernes",
-      "Connaissance des bases de données relationnelles et non relationnelles",
-      "Environnement inclusif et diversité"
-    ],
-    "points_negatifs": [
-      "Pas de mention spécifique de développement Full-Stack"
-    ],
-    "commentaire": "Offre de poste pour un Associate Software Engineer chez Scotiabank à Toronto, Canada. Corresponds aux critères de localisation internationale et de type de travail.",
-    "lien": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
-    "date_publication": "2025-12-27T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-28T11:01:08.161Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
-    "titre": "Forward Deployed Engineer, Agentic Platform (Public Sector)",
-    "entreprise": "Cohere",
-    "entreprise_url": "https://ca.linkedin.com/company/cohere-ai",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, AI, RAG, agentic applications",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Travail en CDI",
-      "Environnement international",
-      "Technologies de pointe en AI"
-    ],
-    "points_negatifs": [
-      "Pas de détails sur le salaire",
-      "Exigence de citoyenneté canadienne et de sécurité"
-    ],
-    "commentaire": "Offre pertinente pour un développeur full-stack junior ambitieux, mais nécessite attention aux exigences spécifiques.",
-    "lien": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
-    "date_publication": "2025-12-27T00:00:00.000Z",
-    "nb_candidats": "40 applicants",
-    "date_ajout": "2025-12-28T11:01:08.161Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/software-developer-at-fidelity-canada-4300369819",
-    "titre": "Software Developer",
-    "entreprise": "Fidelity Canada",
-    "entreprise_url": "https://ca.linkedin.com/company/fidelitycanada",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, JavaScript, Salesforce, LWC, Apex, Visualforce, Einstein Analytics, Tableau CRM, Marketo",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Expérience de développement Full-Stack acceptée",
-      "Lieu : Toronto, Canada (ville internationale)",
-      "Type de contrat : Full-time (CDI)",
-      "Technologies utilisées : Java, JavaScript, Salesforce, etc.",
-      "Niveau d'expérience : Entry level (débutant)"
-    ],
-    "points_negatifs": [
-      "Pas de mention de la possibilité de travail à distance permanent"
-    ],
-    "commentaire": "Offre de développeur logiciel chez Fidelity Canada, correspondant aux critères de Aodren.",
-    "lien": "https://ca.linkedin.com/jobs/view/software-developer-at-fidelity-canada-4300369819",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-28T11:01:08.161Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/java-engineer-exchange-service-at-binance-4299333982",
-    "titre": "Java Engineer - Exchange Service",
-    "entreprise": "Binance",
-    "entreprise_url": "https://www.linkedin.com/company/binance",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology and Engineering",
-    "stack": "Java, Spring, MySQL, Redis, Kafka",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Poste en développement",
-      "Technologies utilisées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux",
-    "lien": "https://sg.linkedin.com/jobs/view/java-engineer-exchange-service-at-binance-4299333982",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-29T11:00:23.101Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/associate-engineer-backend-at-rakuten-viki-4323993540",
-    "titre": "Associate Engineer, Backend",
-    "entreprise": "Rakuten Viki",
-    "entreprise_url": "https://www.linkedin.com/company/viki",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Go, Ruby, TypeScript, JavaScript, Ember.js, PostgreSQL, MySQL, Redis",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1-3 ans d'expérience)",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Poste en développement backend",
-      "Expérience requise : 1-3 ans",
-      "Utilisation de technologies variées (Go, Ruby, TypeScript, JavaScript)",
-      "CDI"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de poste en tant qu'Associate Engineer, Backend chez Rakuten Viki à Singapour. Le poste correspond aux critères du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/associate-engineer-backend-at-rakuten-viki-4323993540",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-29T11:00:23.102Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-recommendation-campus-recruitment-2026-at-shopee-4289428384",
-    "titre": "Backend Engineer, Recommendation (Campus Recruitment 2026)",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "C++/Golang/Python, Linux",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement backend",
-      "Recommandation",
-      "E-commerce",
-      "Technologies avancées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de poste en développement backend pour un jeune diplômé, correspondant aux critères du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-recommendation-campus-recruitment-2026-at-shopee-4289428384",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "92 applicants",
-    "date_ajout": "2025-12-29T11:00:23.102Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/12-months-contract-frontend-developer-through-an-external-agency-payroll-provider-at-julius-baer-4299421514",
-    "titre": "12 months Contract - Frontend Developer",
-    "entreprise": "Julius Baer",
-    "entreprise_url": "https://ch.linkedin.com/company/julius-baer",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "12 months Contract",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "React, Typescript, Node.js, JavaScript, HTML, CSS, Unix",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Technologies modernes",
-      "Entry level"
-    ],
-    "points_negatifs": [
-      "Contrat de 12 mois",
-      "Pas de CDI"
-    ],
-    "commentaire": "Offre de développeur frontend à Singapour, avec des technologies modernes, mais sous contrat de 12 mois et non en CDI.",
-    "lien": "https://sg.linkedin.com/jobs/view/12-months-contract-frontend-developer-through-an-external-agency-payroll-provider-at-julius-baer-4299421514",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2025-12-29T11:00:23.102Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/junior-web-developer-full-time-batam-at-reson8-asia-4329466638",
-    "titre": "Junior Web Developer (Full-Time / Batam)",
-    "entreprise": "Reson8 Asia",
-    "entreprise_url": "https://sg.linkedin.com/company/reson8-asia",
-    "localisation": "Batam, Indonésie",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "HTML5, CSS3, JavaScript/Typescript",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Junior",
-      "Full-time",
-      "Entry level",
-      "Asie"
-    ],
-    "points_negatifs": [
-      "Localisation en Indonésie et non dans les villes préférées"
-    ],
-    "commentaire": "Offre de développeur junior en full-time en Indonésie, intéressant mais hors des villes préférées.",
-    "lien": "https://sg.linkedin.com/jobs/view/junior-web-developer-full-time-batam-at-reson8-asia-4329466638",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-29T11:00:23.102Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-buyer-team-at-shopee-4340872552",
-    "titre": "Backend Engineer - Marketplace, Buyer Team",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Java, Python, Golang, C++, MySQL, Linux",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1 an d'expérience minimum)",
-    "score": 9,
-    "points_positifs": [
-      "Développement backend",
-      "Technologies modernes",
-      "Équipe internationale",
-      "Lieu : Singapour"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur backend en CDI à Singapour, correspondant au profil Junior",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-buyer-team-at-shopee-4340872552",
-    "date_publication": "2025-12-28T00:00:00.000Z",
-    "nb_candidats": "130 applicants",
-    "date_ajout": "2025-12-29T11:00:23.102Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4350850022",
-    "titre": "Software Engineer",
-    "entreprise": "Red Alpha Cybersecurity",
-    "entreprise_url": "https://sg.linkedin.com/company/redalphacyber",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Node.js, Python, Java, C#, React, Vue, Angular, MongoDB, PostgreSQL, MSSQL",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Full-stack",
-      "Entry level",
-      "International",
-      "Formation continue"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur full-stack en CDI à Singapour, niveau entry level, avec formation continue.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-red-alpha-cybersecurity-4350850022",
-    "date_publication": "2025-12-29T00:00:00.000Z",
-    "nb_candidats": "52 applicants",
-    "date_ajout": "2025-12-29T11:00:23.103Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-famille-c-participations-4350841022",
-    "titre": "Full Stack Engineer/Full Stack Developer",
-    "entreprise": "Famille C Participations",
-    "entreprise_url": "https://fr.linkedin.com/company/famille-c-participations",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, RESTful APIs, GraphQL",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Niveau d'expérience entry level",
-      "Technologies Full-Stack"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full-Stack à Singapour, niveau entry level, avec des technologies variées.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-famille-c-participations-4350841022",
-    "date_publication": "2025-12-29",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-29T11:00:23.103Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-moonvault-partners-4329550168",
-    "titre": "Software Engineer",
-    "entreprise": "Moonvault Partners",
-    "entreprise_url": "https://www.linkedin.com/company/moonvault-partners",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "C++",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Singapour, ville internationale",
-      "Poste en CDI (Full-time)",
-      "Niveau d'expérience Entry level, adapté au profil junior",
-      "Technologie C++ qui correspond aux compétences du candidat",
-      "Opportunité de croissance et d'avancement"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant bien au profil du candidat, localisation et technologie alignées.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-moonvault-partners-4329550168",
-    "date_publication": "2025-12-29T00:00:00.000Z",
-    "nb_candidats": "58 applicants",
-    "date_ajout": "2025-12-29T11:00:23.103Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
-    "titre": "Software Engineer",
-    "entreprise": "Epic",
-    "entreprise_url": "https://www.linkedin.com/company/epic1979",
-    "localisation": "Madison, WI, États-Unis",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "JS, TS, C#",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Poste en développement logiciel",
-      "Entry level",
-      "Utilisation de technologies modernes (JS, TS, C#)",
-      "Impact sur la vie de patients",
-      "Avantages sociaux complets",
-      "Relocation financée"
-    ],
-    "points_negatifs": [
-      "Localisation à Madison, WI (pas dans les villes internationales listées)",
-      "Pas de mention de développement Full-Stack"
-    ],
-    "commentaire": "Offre de poste en développement logiciel chez Epic, avec des technologies modernes et un impact significatif. La localisation à Madison, WI, est cependant en dehors des villes internationales listées.",
-    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
-    "date_publication": "2025-12-29",
-    "nb_candidats": "Plus de 200 candidats",
-    "date_ajout": "2025-12-30T11:00:19.603Z"
-  },
-  {
     "id": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4346628386",
     "titre": "Software Engineer - Data Infrastructure - Kafka",
     "entreprise": "Canonical",
@@ -394,5 +27,141 @@
     "date_publication": "2025-12-31",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2025-12-31T11:00:55.898Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/juju-software-engineer-go-at-canonical-4354330102",
+    "titre": "Juju Software Engineer (Go)",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Go, Kubernetes, Docker, LXD, SQL, NoSQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Expérience en développement logiciel avec Go",
+      "Travail à distance avec des déplacements occasionnels",
+      "Environnement de travail international",
+      "Budget pour l'apprentissage personnel et le développement",
+      "Avantages sociaux (congés payés, assurance maladie, etc.)"
+    ],
+    "points_negatifs": [
+      "Pas de mention de la possibilité de CDI",
+      "Expérience en Go requise"
+    ],
+    "commentaire": "Offre de poste pour un ingénieur logiciel en Go pour contribuer au développement de Juju, un projet open-source. La localisation est à Sydney, en Australie, mais le travail est à distance.",
+    "lien": "https://au.linkedin.com/jobs/view/juju-software-engineer-go-at-canonical-4354330102",
+    "date_publication": "2026-01-03T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-03T11:00:17.236Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/software-engineer-australia-at-traild-4341868096",
+    "titre": "Software Engineer - Australia",
+    "entreprise": "Traild",
+    "entreprise_url": "https://www.linkedin.com/company/traild",
+    "localisation": "Sydney, Australie",
+    "type_contrat": "Full-time",
+    "type_travail": "Ingénierie et technologie de l'information",
+    "stack": "Google Cloud, microservices, event-driven architecture",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Sydney",
+      "Entreprise dynamique et en croissance",
+      "Travail en équipe distribuée",
+      "Flexibilité dans les horaires de travail"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de poste en tant qu'ingénieur logiciel en Australie, correspondant aux critères de Aodren.",
+    "lien": "https://au.linkedin.com/jobs/view/software-engineer-australia-at-traild-4341868096",
+    "date_publication": "2026-01-03",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2026-01-03T11:00:17.236Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-macquarie-group-4318995382",
+    "titre": "Full Stack Engineer",
+    "entreprise": "Macquarie Group",
+    "entreprise_url": "https://au.linkedin.com/company/macquariegroup",
+    "localisation": "Sydney, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Typescript, React, Spring Framework, Java, SQL, PostgreSQL, Kafka, Python, Spark, AWS",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Poste Full Stack",
+      "Localisation à Sydney, Australie",
+      "Entry level",
+      "Technologies modernes",
+      "Avantages sociaux variés"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de poste Full Stack Engineer à Sydney, Australie, pour un profil junior, avec des technologies modernes et des avantages sociaux attractifs.",
+    "lien": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-macquarie-group-4318995382",
+    "date_publication": "2026-01-02",
+    "nb_candidats": "161 applicants",
+    "date_ajout": "2026-01-03T11:00:17.237Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/ict-engineer-at-collins-aerospace-4319847896",
+    "titre": "ICT Engineer",
+    "entreprise": "Collins Aerospace",
+    "entreprise_url": "https://www.linkedin.com/company/collins-aerospace",
+    "localisation": "Lane Cove West, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Windows, Linux, Android, network servers, firewalls, Mobile Device Management (MDM)",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste junior en ICT",
+      "Localisation en Australie",
+      "Entreprise internationale",
+      "Possibilités de carrière et de développement"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement Full-Stack",
+      "Exigence de citoyenneté australienne et de clearance de sécurité"
+    ],
+    "commentaire": "Offre de poste junior en ICT en Australie, avec des opportunités de développement dans une entreprise internationale.",
+    "lien": "https://au.linkedin.com/jobs/view/ict-engineer-at-collins-aerospace-4319847896",
+    "date_publication": "2025-10-31",
+    "nb_candidats": "86 applicants",
+    "date_ajout": "2026-01-03T11:00:17.237Z"
+  },
+  {
+    "id": "https://au.linkedin.com/jobs/view/engineer-net-at-costar-group-4318764874",
+    "titre": "Engineer (.NET)",
+    "entreprise": "CoStar Group",
+    "entreprise_url": "https://www.linkedin.com/company/costar-group",
+    "localisation": "Pyrmont, New South Wales, Australia",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": ".NET, C#, Node.js, GraphQL, Next.js, React.js",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level, 1-3 ans d'expérience",
+    "score": 7,
+    "points_positifs": [
+      "Poste en Australie, localisation internationale acceptée",
+      "Expérience Entry level acceptée",
+      "Technologies variées (.NET, C#, Node.js, GraphQL)",
+      "Environnement agile et opportunités de croissance"
+    ],
+    "points_negatifs": [
+      "Pas de CDI explicitement mentionné",
+      "Pas de mention de la possibilité de travail à distance"
+    ],
+    "commentaire": "Offre de poste pour un Engineer .NET en Australie, avec des opportunités de croissance et un environnement de travail agile.",
+    "lien": "https://au.linkedin.com/jobs/view/engineer-net-at-costar-group-4318764874",
+    "date_publication": "2026-01-02T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-03T11:00:17.237Z"
   }
 ]
