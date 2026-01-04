@@ -1,34 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4346628386",
-    "titre": "Software Engineer - Data Infrastructure - Kafka",
-    "entreprise": "Canonical",
-    "entreprise_url": "https://uk.linkedin.com/company/canonical",
-    "localisation": "Dublin, Irlande",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Kafka, Spark, MySQL, PostgreSQL, Oracle, MongoDB, Redis, ElasticSearch, Linux, OpenStack, Kubernetes",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Expérience en développement logiciel avec Python",
-      "Expérience avec des systèmes distribués comme Kafka et Spark",
-      "Environnement de travail remote",
-      "Budget pour l'apprentissage personnel et le développement",
-      "Avantages sociaux variés"
-    ],
-    "points_negatifs": [
-      "Localisation en Irlande (pas dans les villes internationales ciblées)",
-      "Pas de mention spécifique de développement Full-Stack"
-    ],
-    "commentaire": "Offre de poste en tant qu'ingénieur logiciel pour la construction d'une infrastructure de données avec Kafka, Spark et Python. Expérience en entry level requise.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-data-infrastructure-kafka-at-canonical-4346628386",
-    "date_publication": "2025-12-31",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2025-12-31T11:00:55.898Z"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/juju-software-engineer-go-at-canonical-4354330102",
     "titre": "Juju Software Engineer (Go)",
     "entreprise": "Canonical",
@@ -163,5 +134,142 @@
     "date_publication": "2026-01-02T00:00:00.000Z",
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-01-03T11:00:17.237Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327204918",
+    "titre": "Software Engineer",
+    "entreprise": "Scotiabank",
+    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, React, SQL Server, PostgreSQL, MSSQL, MySQL, GIT, Gradle, Jira, Confluence, Google Cloud, Splunk",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Expérience en développement de grande échelle",
+      "Environnement Agile",
+      "Technologies variées"
+    ],
+    "points_negatifs": [
+      "Pas de CDI explicitement mentionné",
+      "Localisation à l'étranger (Canada)"
+    ],
+    "commentaire": "Offre de Software Engineer chez Scotiabank à Toronto, Canada. Corresponds aux critères de localisation internationale et de type de travail.",
+    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327204918",
+    "date_publication": "2026-01-03T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-04T11:00:17.269Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-developer-at-euna-solutions-4333328193",
+    "titre": "Software Developer",
+    "entreprise": "Euna Solutions",
+    "entreprise_url": "https://www.linkedin.com/company/eunasolutions",
+    "localisation": "Oakville, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "JavaScript, TypeScript, C#, React, AngularJS, PHP, Node.JS, Python, MySQL",
+    "salaire": "Competitive wages",
+    "experience_requise": "Entry level, 2+ years of experience",
+    "score": 7,
+    "points_positifs": [
+      "Entry level",
+      "Technologies variées",
+      "Environnement de travail dynamique",
+      "Avantages sociaux (flexibilité, bien-être, etc.)"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique de développement Full-Stack",
+      "2+ ans d'expérience requis"
+    ],
+    "commentaire": "Offre correspondant à un développeur junior ambitieux, mais nécessite 2+ ans d'expérience",
+    "lien": "https://ca.linkedin.com/jobs/view/software-developer-at-euna-solutions-4333328193",
+    "date_publication": "2026-01-04T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-04T11:00:17.269Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-autotrader-ca-4339492074",
+    "titre": "Software Engineer",
+    "entreprise": "AutoTrader.ca",
+    "entreprise_url": "https://ca.linkedin.com/company/autotraderca",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "C#, React, Java, Scala, Azure, AWS, Kafka, SQL",
+    "salaire": "CAD $100k - $115k",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Full-stack",
+      "Entry level",
+      "Technologies variées",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI"
+    ],
+    "commentaire": "Offre de développeur Full-Stack en Entry level au Canada",
+    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-autotrader-ca-4339492074",
+    "date_publication": "2026-01-04",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-04T11:00:17.270Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4354313994",
+    "titre": "Distributed Systems Testing Software Engineer, Python / Go",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Go, Jenkins, CircleCI, GitHub Actions, Linux, OpenStack, Kubernetes, Terraform, AWS",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Distributed systems testing",
+      "Python ou Go",
+      "CI/CD",
+      "Cloud technologies",
+      "International"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI"
+    ],
+    "commentaire": "Offre de développeur junior en testing de systèmes distribués avec Python ou Go",
+    "lien": "https://ca.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4354313994",
+    "date_publication": "2026-01-04",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-04T11:00:17.270Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327264883",
+    "titre": "Software Engineer",
+    "entreprise": "Scotiabank",
+    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, RESTful APIs, CI/CD, Git, GCP, Azure",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Familiarité avec plusieurs langages de programmation",
+      "Base de données SQL et NoSQL",
+      "CI/CD et version control",
+      "Cloud platforms"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de développement Full-Stack"
+    ],
+    "commentaire": "Offre de poste en tant qu'ingénieur logiciel avec des responsabilités dans le développement et la maintenance de systèmes",
+    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327264883",
+    "date_publication": "2026-01-03T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-04T11:00:17.271Z"
   }
 ]
