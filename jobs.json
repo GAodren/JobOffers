@@ -1,141 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/juju-software-engineer-go-at-canonical-4354330102",
-    "titre": "Juju Software Engineer (Go)",
-    "entreprise": "Canonical",
-    "entreprise_url": "https://uk.linkedin.com/company/canonical",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Go, Kubernetes, Docker, LXD, SQL, NoSQL",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Expérience en développement logiciel avec Go",
-      "Travail à distance avec des déplacements occasionnels",
-      "Environnement de travail international",
-      "Budget pour l'apprentissage personnel et le développement",
-      "Avantages sociaux (congés payés, assurance maladie, etc.)"
-    ],
-    "points_negatifs": [
-      "Pas de mention de la possibilité de CDI",
-      "Expérience en Go requise"
-    ],
-    "commentaire": "Offre de poste pour un ingénieur logiciel en Go pour contribuer au développement de Juju, un projet open-source. La localisation est à Sydney, en Australie, mais le travail est à distance.",
-    "lien": "https://au.linkedin.com/jobs/view/juju-software-engineer-go-at-canonical-4354330102",
-    "date_publication": "2026-01-03T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-03T11:00:17.236Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/software-engineer-australia-at-traild-4341868096",
-    "titre": "Software Engineer - Australia",
-    "entreprise": "Traild",
-    "entreprise_url": "https://www.linkedin.com/company/traild",
-    "localisation": "Sydney, Australie",
-    "type_contrat": "Full-time",
-    "type_travail": "Ingénierie et technologie de l'information",
-    "stack": "Google Cloud, microservices, event-driven architecture",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Sydney",
-      "Entreprise dynamique et en croissance",
-      "Travail en équipe distribuée",
-      "Flexibilité dans les horaires de travail"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de poste en tant qu'ingénieur logiciel en Australie, correspondant aux critères de Aodren.",
-    "lien": "https://au.linkedin.com/jobs/view/software-engineer-australia-at-traild-4341868096",
-    "date_publication": "2026-01-03",
-    "nb_candidats": "Plus de 200 candidats",
-    "date_ajout": "2026-01-03T11:00:17.236Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-macquarie-group-4318995382",
-    "titre": "Full Stack Engineer",
-    "entreprise": "Macquarie Group",
-    "entreprise_url": "https://au.linkedin.com/company/macquariegroup",
-    "localisation": "Sydney, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Typescript, React, Spring Framework, Java, SQL, PostgreSQL, Kafka, Python, Spark, AWS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Poste Full Stack",
-      "Localisation à Sydney, Australie",
-      "Entry level",
-      "Technologies modernes",
-      "Avantages sociaux variés"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de poste Full Stack Engineer à Sydney, Australie, pour un profil junior, avec des technologies modernes et des avantages sociaux attractifs.",
-    "lien": "https://au.linkedin.com/jobs/view/full-stack-engineer-at-macquarie-group-4318995382",
-    "date_publication": "2026-01-02",
-    "nb_candidats": "161 applicants",
-    "date_ajout": "2026-01-03T11:00:17.237Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/ict-engineer-at-collins-aerospace-4319847896",
-    "titre": "ICT Engineer",
-    "entreprise": "Collins Aerospace",
-    "entreprise_url": "https://www.linkedin.com/company/collins-aerospace",
-    "localisation": "Lane Cove West, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Windows, Linux, Android, network servers, firewalls, Mobile Device Management (MDM)",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Poste junior en ICT",
-      "Localisation en Australie",
-      "Entreprise internationale",
-      "Possibilités de carrière et de développement"
-    ],
-    "points_negatifs": [
-      "Pas de mention de développement Full-Stack",
-      "Exigence de citoyenneté australienne et de clearance de sécurité"
-    ],
-    "commentaire": "Offre de poste junior en ICT en Australie, avec des opportunités de développement dans une entreprise internationale.",
-    "lien": "https://au.linkedin.com/jobs/view/ict-engineer-at-collins-aerospace-4319847896",
-    "date_publication": "2025-10-31",
-    "nb_candidats": "86 applicants",
-    "date_ajout": "2026-01-03T11:00:17.237Z"
-  },
-  {
-    "id": "https://au.linkedin.com/jobs/view/engineer-net-at-costar-group-4318764874",
-    "titre": "Engineer (.NET)",
-    "entreprise": "CoStar Group",
-    "entreprise_url": "https://www.linkedin.com/company/costar-group",
-    "localisation": "Pyrmont, New South Wales, Australia",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": ".NET, C#, Node.js, GraphQL, Next.js, React.js",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level, 1-3 ans d'expérience",
-    "score": 7,
-    "points_positifs": [
-      "Poste en Australie, localisation internationale acceptée",
-      "Expérience Entry level acceptée",
-      "Technologies variées (.NET, C#, Node.js, GraphQL)",
-      "Environnement agile et opportunités de croissance"
-    ],
-    "points_negatifs": [
-      "Pas de CDI explicitement mentionné",
-      "Pas de mention de la possibilité de travail à distance"
-    ],
-    "commentaire": "Offre de poste pour un Engineer .NET en Australie, avec des opportunités de croissance et un environnement de travail agile.",
-    "lien": "https://au.linkedin.com/jobs/view/engineer-net-at-costar-group-4318764874",
-    "date_publication": "2026-01-02T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-03T11:00:17.237Z"
-  },
-  {
     "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327204918",
     "titre": "Software Engineer",
     "entreprise": "Scotiabank",
@@ -446,5 +310,58 @@
     "date_publication": "2026-01-05",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-01-05T11:00:24.252Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/implementation-specialist-saas-at-userpilot-4330546727",
+    "titre": "Implementation Specialist (SaaS)",
+    "entreprise": "Userpilot",
+    "entreprise_url": "https://www.linkedin.com/company/teamuserpilot",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "SaaS, JavaScript SDKs, event tracking, data analytics, product behavior",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "SaaS",
+      "Entry level",
+      "Dublin, Ireland"
+    ],
+    "points_negatifs": [
+      "Pas de mention de développement full-stack"
+    ],
+    "commentaire": "Offre en SaaS à Dublin, Ireland, pour un Implementation Specialist. Pas de développement full-stack mentionné.",
+    "lien": "https://ie.linkedin.com/jobs/view/implementation-specialist-saas-at-userpilot-4330546727",
+    "date_publication": "2026-01-06",
+    "nb_candidats": "48 applicants",
+    "date_ajout": "2026-01-07T11:00:15.582Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/utility-data-management-and-interoperability-engineer-at-epri-4178553101",
+    "titre": "Utility Data Management and Interoperability Engineer",
+    "entreprise": "EPRI",
+    "entreprise_url": "https://www.linkedin.com/company/epri",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Data Management, Interoperability, Grid Model Management, IEC-CIM/CGMES, SQL, Kafka, Hadoop, UML, Archimate",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level, 2-3 ans d'expérience",
+    "score": 7,
+    "points_positifs": [
+      "Entry level",
+      "Dublin, Ireland",
+      "Data Management, Interoperability"
+    ],
+    "points_negatifs": [
+      "Pas de CDI explicite",
+      "Expérience en data management ou similaire requise"
+    ],
+    "commentaire": "Offre pour un poste junior en Utility Data Management and Interoperability Engineer chez EPRI à Dublin.",
+    "lien": "https://ie.linkedin.com/jobs/view/utility-data-management-and-interoperability-engineer-at-epri-4178553101",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "138 applicants",
+    "date_ajout": "2026-01-07T11:00:15.582Z"
   }
 ]
