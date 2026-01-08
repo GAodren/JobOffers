@@ -1,317 +1,5 @@
 [
   {
-    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327204918",
-    "titre": "Software Engineer",
-    "entreprise": "Scotiabank",
-    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, React, SQL Server, PostgreSQL, MSSQL, MySQL, GIT, Gradle, Jira, Confluence, Google Cloud, Splunk",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Expérience en développement de grande échelle",
-      "Environnement Agile",
-      "Technologies variées"
-    ],
-    "points_negatifs": [
-      "Pas de CDI explicitement mentionné",
-      "Localisation à l'étranger (Canada)"
-    ],
-    "commentaire": "Offre de Software Engineer chez Scotiabank à Toronto, Canada. Corresponds aux critères de localisation internationale et de type de travail.",
-    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327204918",
-    "date_publication": "2026-01-03T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-04T11:00:17.269Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/software-developer-at-euna-solutions-4333328193",
-    "titre": "Software Developer",
-    "entreprise": "Euna Solutions",
-    "entreprise_url": "https://www.linkedin.com/company/eunasolutions",
-    "localisation": "Oakville, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "JavaScript, TypeScript, C#, React, AngularJS, PHP, Node.JS, Python, MySQL",
-    "salaire": "Competitive wages",
-    "experience_requise": "Entry level, 2+ years of experience",
-    "score": 7,
-    "points_positifs": [
-      "Entry level",
-      "Technologies variées",
-      "Environnement de travail dynamique",
-      "Avantages sociaux (flexibilité, bien-être, etc.)"
-    ],
-    "points_negatifs": [
-      "Pas de mention spécifique de développement Full-Stack",
-      "2+ ans d'expérience requis"
-    ],
-    "commentaire": "Offre correspondant à un développeur junior ambitieux, mais nécessite 2+ ans d'expérience",
-    "lien": "https://ca.linkedin.com/jobs/view/software-developer-at-euna-solutions-4333328193",
-    "date_publication": "2026-01-04T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-04T11:00:17.269Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-autotrader-ca-4339492074",
-    "titre": "Software Engineer",
-    "entreprise": "AutoTrader.ca",
-    "entreprise_url": "https://ca.linkedin.com/company/autotraderca",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "C#, React, Java, Scala, Azure, AWS, Kafka, SQL",
-    "salaire": "CAD $100k - $115k",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Full-stack",
-      "Entry level",
-      "Technologies variées",
-      "Salaire attractif"
-    ],
-    "points_negatifs": [
-      "Pas de mention de CDI"
-    ],
-    "commentaire": "Offre de développeur Full-Stack en Entry level au Canada",
-    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-autotrader-ca-4339492074",
-    "date_publication": "2026-01-04",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-04T11:00:17.270Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4354313994",
-    "titre": "Distributed Systems Testing Software Engineer, Python / Go",
-    "entreprise": "Canonical",
-    "entreprise_url": "https://uk.linkedin.com/company/canonical",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Go, Jenkins, CircleCI, GitHub Actions, Linux, OpenStack, Kubernetes, Terraform, AWS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Distributed systems testing",
-      "Python ou Go",
-      "CI/CD",
-      "Cloud technologies",
-      "International"
-    ],
-    "points_negatifs": [
-      "Pas de mention de CDI"
-    ],
-    "commentaire": "Offre de développeur junior en testing de systèmes distribués avec Python ou Go",
-    "lien": "https://ca.linkedin.com/jobs/view/distributed-systems-testing-software-engineer-python-go-at-canonical-4354313994",
-    "date_publication": "2026-01-04",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-04T11:00:17.270Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327264883",
-    "titre": "Software Engineer",
-    "entreprise": "Scotiabank",
-    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, JavaScript, Python, MySQL, PostgreSQL, MongoDB, RESTful APIs, CI/CD, Git, GCP, Azure",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 7,
-    "points_positifs": [
-      "Familiarité avec plusieurs langages de programmation",
-      "Base de données SQL et NoSQL",
-      "CI/CD et version control",
-      "Cloud platforms"
-    ],
-    "points_negatifs": [
-      "Pas de mention explicite de développement Full-Stack"
-    ],
-    "commentaire": "Offre de poste en tant qu'ingénieur logiciel avec des responsabilités dans le développement et la maintenance de systèmes",
-    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-scotiabank-4327264883",
-    "date_publication": "2026-01-03T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-01-04T11:00:17.271Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/web3-full-stack-developer-at-pundi-x-4330251753",
-    "titre": "Web3 Full Stack Developer",
-    "entreprise": "Pundi X",
-    "entreprise_url": "https://sg.linkedin.com/company/pundix",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering, Information Technology, and Other",
-    "stack": "Frontend: TS, React, Next.js ; Backend: Node.js, python ; Smart contracts: Solidity",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
-    "score": 8,
-    "points_positifs": [
-      "Web3 Full Stack",
-      "Smart contracts",
-      "Frontend et Backend"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full-Stack Web3 à Singapour, correspondant aux critères du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/web3-full-stack-developer-at-pundi-x-4330251753",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "28 applicants",
-    "date_ajout": "2026-01-05T11:00:24.250Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-confidencial-4351154112",
-    "titre": "Software Engineer",
-    "entreprise": "Confidencial",
-    "entreprise_url": "https://www.linkedin.com/company/confidencialrole",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, C++, Python, Ruby, JavaScript, Git, CI/CD, Jira, Trello",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Niveau d'expérience entry level",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant bien au profil du candidat, avec un niveau d'expérience entry level et des technologies variées.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-confidencial-4351154112",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-05T11:00:24.250Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-transcelestial-4330114835",
-    "titre": "Software Engineer",
-    "entreprise": "Transcelestial",
-    "entreprise_url": "https://sg.linkedin.com/company/transcelestial",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering",
-    "stack": "Go, Linux, Docker, REST, gRPC, SQL, RDBMS, GCP/AWS, React",
-    "salaire": "Competitive salary and stock options package",
-    "experience_requise": "Entry level, 1-2 years",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Singapour, ville internationale",
-      "Poste de développeur Full-Stack",
-      "Expérience requise : 1-2 ans",
-      "Technologies utilisées : Go, Linux, Docker, etc.",
-      "Avantages : salaire compétitif, stock options, Macbook, etc."
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full-Stack à Singapour, correspondant aux critères du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-transcelestial-4330114835",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "35 applicants",
-    "date_ajout": "2026-01-05T11:00:24.251Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-developer-salesforce-graduate-program-2026-hires-at-capgemini-4330213421",
-    "titre": "Software Developer (Salesforce) (Graduate Program) - 2026 Hires",
-    "entreprise": "Capgemini",
-    "entreprise_url": "https://fr.linkedin.com/company/capgemini",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Salesforce, Java, JavaScript, HTML, CSS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Programme Graduate",
-      "Technologies intéressantes"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Salesforce pour un programme graduate à Capgemini à Singapour.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-developer-salesforce-graduate-program-2026-hires-at-capgemini-4330213421",
-    "date_publication": "2026-01-05T00:00:00.000Z",
-    "nb_candidats": "75 applicants",
-    "date_ajout": "2026-01-05T11:00:24.251Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/ai-software-development-engineer-at-axiom-it-solutions-pte-ltd-4351172899",
-    "titre": "AI software development engineer",
-    "entreprise": "Axiom IT Solutions Pte Ltd",
-    "entreprise_url": "https://sg.linkedin.com/company/axiom-it-solutions",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Microsoft Copilot Studio, Power Automate, Microsoft Office 365",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Expérience en développement de logiciels",
-      "Utilisation de technologies Microsoft"
-    ],
-    "points_negatifs": [
-      "Pas de mention explicite du développement Full-Stack"
-    ],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux, avec focus sur l'IA et les solutions Microsoft.",
-    "lien": "https://sg.linkedin.com/jobs/view/ai-software-development-engineer-at-axiom-it-solutions-pte-ltd-4351172899",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-05T11:00:24.251Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-confidencial-4351174394",
-    "titre": "Full Stack Engineer/Full Stack Developer",
-    "entreprise": "Confidencial",
-    "entreprise_url": "https://www.linkedin.com/company/confidencialrole",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "HTML, CSS, JavaScript, React, Angular, Vue, Node.js, Python, Java, C#, MySQL, PostgreSQL, MongoDB, RESTful APIs, GraphQL",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Full Stack",
-      "Entry level",
-      "Singapore",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full Stack en CDI à Singapour, niveau Entry level.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-confidencial-4351174394",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-05T11:00:24.251Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-transcelestial-4330135015",
-    "titre": "Software Engineer",
-    "entreprise": "Transcelestial",
-    "entreprise_url": "https://sg.linkedin.com/company/transcelestial",
-    "localisation": "Eunos, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering",
-    "stack": "Go, Linux, Docker, REST, gRPC, SQL, RDBMS, GCP/AWS, React",
-    "salaire": "Non précisé",
-    "experience_requise": "1-2 ans",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Localisation à Singapour",
-      "Expérience de 1-2 ans requise",
-      "Technologies modernes",
-      "CDI"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de Software Engineer à Singapour, correspondant au profil de Aodren GLOUX.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-transcelestial-4330135015",
-    "date_publication": "2026-01-05",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-01-05T11:00:24.252Z"
-  },
-  {
     "id": "https://ie.linkedin.com/jobs/view/implementation-specialist-saas-at-userpilot-4330546727",
     "titre": "Implementation Specialist (SaaS)",
     "entreprise": "Userpilot",
@@ -363,5 +51,196 @@
     "date_publication": "2026-01-07",
     "nb_candidats": "138 applicants",
     "date_ajout": "2026-01-07T11:00:15.582Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-ai-all-genders-welcome-at-cosmo-consult-4351644057",
+    "titre": "Software Engineer AI",
+    "entreprise": "COSMO CONSULT",
+    "entreprise_url": "https://de.linkedin.com/company/cosmo-consult-gmbh",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Next.js, TypeScript, Tailwind, tRPC, PostgreSQL, Vercel, AI",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "AI",
+      "Entry level",
+      "Berlin"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack AI en CDI à Berlin, Allemagne.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-ai-all-genders-welcome-at-cosmo-consult-4351644057",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "25",
+    "date_ajout": "2026-01-08T11:01:13.635Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/front-end-entwickler-in-at-findyou-consulting-gmbh-4351645699",
+    "titre": "Front-End-Entwickler:in",
+    "entreprise": "FindYou Consulting GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/findyou-consulting-gmbh",
+    "localisation": "Berlin, Germany",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Vue.js, JavaScript, CSS3, HTML5, Jest, Cypress",
+    "salaire": "jusqu'à 85 000€",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emploi en Allemagne, à Berlin",
+      "Technologies modernes",
+      "Équipe motivée",
+      "Flexibilité"
+    ],
+    "points_negatifs": [
+      "Pas de CDI explicitement mentionné"
+    ],
+    "commentaire": "Offre de développeur front-end en full-time à Berlin, avec des technologies récentes comme Vue.js et JavaScript.",
+    "lien": "https://de.linkedin.com/jobs/view/front-end-entwickler-in-at-findyou-consulting-gmbh-4351645699",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "62",
+    "date_ajout": "2026-01-08T11:01:13.635Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/backend-entwickler-in-m-w-d-at-valid-digitalagentur-gmbh-4351785148",
+    "titre": "Backend-Entwickler:in (m/w/d)",
+    "entreprise": "VALID Digitalagentur GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/valid-group",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Backend",
+    "stack": "PHP, TYPO3, Symfony, LAMP Stack, Git, webpack, npm, yarn",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Berlin, Allemagne",
+      "Utilisation de technologies actuelles comme TYPO3 et Symfony",
+      "Possibilités de travail flexible et remote",
+      "Equipe interdisciplinaire et projets variés"
+    ],
+    "points_negatifs": [
+      "Pas de mention de poste junior spécifique",
+      "Expérience avec TYPO3 et Symfony exigée"
+    ],
+    "commentaire": "Offre de développement backend à Berlin, Allemagne, avec des technologies comme TYPO3 et Symfony.",
+    "lien": "https://de.linkedin.com/jobs/view/backend-entwickler-in-m-w-d-at-valid-digitalagentur-gmbh-4351785148",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-08T11:01:13.635Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineering-working-student-ai-start-up-at-glorya-gmbh-4351616473",
+    "titre": "Software Engineering Working Student - AI Start-up",
+    "entreprise": "Glorya GmbH",
+    "entreprise_url": "https://www.linkedin.com/company/glorya-ai",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "Full-time",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Next.js, TypeScript, HTML, CSS, Postgres",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Start-up en croissance rapide",
+      "Travail en équipe internationale",
+      "Possibilité de travailler sur des projets de KI"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI"
+    ],
+    "commentaire": "Offre de développement Full-Stack en start-up à Berlin, possibilité de croissance et de travail sur des projets de KI.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineering-working-student-ai-start-up-at-glorya-gmbh-4351616473",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "68",
+    "date_ajout": "2026-01-08T11:01:13.635Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/fullstack-software-engineer-m-f-d-price-alert-at-idealo-internet-gmbh-4322180725",
+    "titre": "Fullstack Software Engineer (m/f/d) - Price Alert",
+    "entreprise": "idealo internet GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/idealo-internet-gmbh",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "TypeScript, React, Python, AWS, REST/JSON",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Entry level",
+      "Berlin",
+      "CDI",
+      "Technologies modernes"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack junior à Berlin, CDI, avec des technologies modernes",
+    "lien": "https://de.linkedin.com/jobs/view/fullstack-software-engineer-m-f-d-price-alert-at-idealo-internet-gmbh-4322180725",
+    "date_publication": "2026-01-08",
+    "nb_candidats": "Plus de 200 candidats",
+    "date_ajout": "2026-01-08T11:01:13.635Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/software-engineer-with-a-focus-on-ai-m-w-d-at-machine-learning-reply-gmbh-4358406234",
+    "titre": "Software Engineer with a focus on AI (m/w/d)",
+    "entreprise": "Machine Learning Reply GmbH",
+    "entreprise_url": "https://de.linkedin.com/company/machine-learning-reply-de",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Consulting",
+    "stack": "Python, Java, JavaScript, AI, Cloud, MLOps, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Poste en Allemagne, à Berlin",
+      "Focus sur l'IA et le développement de logiciels",
+      "Expérience de travail en équipe et en consulting",
+      "Formation continue et certifications",
+      "Environnement de travail innovant"
+    ],
+    "points_negatifs": [
+      "Exigence de niveau C1 en allemand",
+      "Localisation : Berlin, Allemagne (pas dans les villes préférées du candidat)"
+    ],
+    "commentaire": "Offre de poste pour un ingénieur logiciel junior avec un focus sur l'IA, correspondant en partie aux critères du candidat.",
+    "lien": "https://de.linkedin.com/jobs/view/software-engineer-with-a-focus-on-ai-m-w-d-at-machine-learning-reply-gmbh-4358406234",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-08T11:01:13.636Z"
+  },
+  {
+    "id": "https://de.linkedin.com/jobs/view/ai-application-engineer-m-w-d-%E2%80%93-full-stack-schwerpunkt-backend-at-mci-deutschland-4351656746",
+    "titre": "AI Application Engineer (m/w/d) – Full-Stack, Schwerpunkt Backend",
+    "entreprise": "MCI Deutschland",
+    "entreprise_url": "https://de.linkedin.com/company/mcideutschland",
+    "localisation": "Berlin, Allemagne",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "Python, LLM-API, PostgreSQL, MySQL, HTML, CSS, JavaScript",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Focus sur le backend",
+      "Utilisation de technologies modernes",
+      "Environnement de travail attractif",
+      "Formation et développement proposés"
+    ],
+    "points_negatifs": [
+      "Pas de mention de la possibilité de télétravail",
+      "Pas de détails sur les avantages sociaux"
+    ],
+    "commentaire": "Offre de poste pour un développeur Full-Stack junior avec focus sur le backend en Allemagne.",
+    "lien": "https://de.linkedin.com/jobs/view/ai-application-engineer-m-w-d-%E2%80%93-full-stack-schwerpunkt-backend-at-mci-deutschland-4351656746",
+    "date_publication": "2026-01-07",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-08T11:01:13.636Z"
   }
 ]
