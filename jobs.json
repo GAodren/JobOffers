@@ -242,5 +242,112 @@
     "date_publication": "2026-01-07",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-01-08T11:01:13.636Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/backend-developer-at-peoplefocus-hr-4352025427",
+    "titre": "Backend Developer",
+    "entreprise": "Peoplefocus HR",
+    "entreprise_url": "https://tr.linkedin.com/company/peoplefocushr",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Java, microservices, RESTful APIs, Spring Framework, Spring Boot, Git, SQL, MySQL, PostgreSQL, MongoDB",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Dubai",
+      "Utilisation de technologies pertinentes comme Java et Spring Boot",
+      "Expérience Associée requise"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de CDI",
+      "Preferred qualifications incluent des technologies non principales"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux avec une localisation attractive.",
+    "lien": "https://ae.linkedin.com/jobs/view/backend-developer-at-peoplefocus-hr-4352025427",
+    "date_publication": "2026-01-09T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-09T11:01:11.763Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/full-stack-developer-at-the-luxe-developers-4351244981",
+    "titre": "Full Stack Developer",
+    "entreprise": "The Luxe Developers",
+    "entreprise_url": "https://ae.linkedin.com/company/the-luxe-developers-ae",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "React, Vue, Angular, Node.js, Laravel, Django, React Native, Flutter, PHP, SQL/MySQL, REST APIs",
+    "salaire": "Non précisé",
+    "experience_requise": "2-4 ans",
+    "score": 7,
+    "points_positifs": [
+      "Full-Stack Développement",
+      " localisation à Dubai",
+      "Entry level accepté"
+    ],
+    "points_negatifs": [
+      "Expérience de 2-4 ans requise"
+    ],
+    "commentaire": "Offre de Full-Stack Developer à Dubai, correspondant à la recherche de Aodren, mais nécessitant 2-4 ans d'expérience",
+    "lien": "https://ae.linkedin.com/jobs/view/full-stack-developer-at-the-luxe-developers-4351244981",
+    "date_publication": "2026-01-09",
+    "nb_candidats": "178 applicants",
+    "date_ajout": "2026-01-09T11:01:11.764Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/developer-experience-account-abstraction-interop-at-ethereum-foundation-4358614896",
+    "titre": "Developer Experience (Account Abstraction & Interop)",
+    "entreprise": "Ethereum Foundation",
+    "entreprise_url": "https://www.linkedin.com/company/ethereum-foundation",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "Full-time",
+    "type_travail": "Sales and Business Development",
+    "stack": "Ethereum, Solidity, TypeScript, JavaScript, Rust, Go, Node.js, React, Angular, Swift/Kotlin",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Travail à distance",
+      "Flexibilité des heures de travail",
+      "Occasion de voyager à des événements Ethereum"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI"
+    ],
+    "commentaire": "Offre de développeur junior pour l'amélioration de l'expérience développeur pour les protocoles Ethereum.",
+    "lien": "https://ae.linkedin.com/jobs/view/developer-experience-account-abstraction-interop-at-ethereum-foundation-4358614896",
+    "date_publication": "2026-01-08",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-01-09T11:01:11.764Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/web-developer-tagalog-or-arabic-speakers-at-psi-real-estate-4351957175",
+    "titre": "Web Developer / Tagalog or Arabic Speakers",
+    "entreprise": "PSI Real Estate",
+    "entreprise_url": "https://ae.linkedin.com/company/psiestate",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "HTML, CSS, JavaScript, PHP, SQL, MySQL, React or Angular, .NET core",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (1-2 ans d'expérience)",
+    "score": 7,
+    "points_positifs": [
+      "Développement Web",
+      "Entry level",
+      "Dubai",
+      "CDI"
+    ],
+    "points_negatifs": [
+      "Pas de mention de Full-Stack",
+      "Compétences en Tagalog ou Arabe requises"
+    ],
+    "commentaire": "Offre de développeur web en CDI à Dubai, correspondant à un profil junior.",
+    "lien": "https://ae.linkedin.com/jobs/view/web-developer-tagalog-or-arabic-speakers-at-psi-real-estate-4351957175",
+    "date_publication": "2026-01-08",
+    "nb_candidats": "162 applicants",
+    "date_ajout": "2026-01-09T11:01:11.770Z"
   }
 ]
