@@ -1,112 +1,5 @@
 [
   {
-    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-axis-axis-capital-4321972734",
-    "titre": "Software Engineer",
-    "entreprise": "AXIS (AXIS Capital)",
-    "entreprise_url": "https://bm.linkedin.com/company/axis-capital",
-    "localisation": "Dublin, Ireland",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Tagetik, SQL, ETL, ELT, PL/SQL, MS SQL, Visual Studio, DevOps",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Entry level",
-      "Dublin, Ireland",
-      "Tagetik, SQL, ETL"
-    ],
-    "points_negatifs": [
-      "Pas de mention de Full-Stack"
-    ],
-    "commentaire": "Offre pour un Software Engineer en entry level à Dublin, Irlande, avec des compétences en Tagetik, SQL et ETL.",
-    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-axis-axis-capital-4321972734",
-    "date_publication": "2026-01-14",
-    "nb_candidats": "124 applicants",
-    "date_ajout": "2026-01-14T11:01:08.909Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/software-developer-python-and-javascript-m-w-d-at-galaniprojects-gmbh-4353252036",
-    "titre": "Software Developer Python and JavaScript",
-    "entreprise": "galaniprojects GmbH",
-    "entreprise_url": "https://de.linkedin.com/company/galaniprojects-gmbh",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement logiciel",
-    "stack": "Python, JavaScript, TypeScript, React, Node.js, API",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Utilisation de technologies récentes comme l'IA",
-      "Travail en équipe",
-      "Flexibilité horaire et possibilité de télétravail",
-      "Environnement de travail attractif"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur logiciel junior à Berlin, Allemagne, avec des technologies intéressantes comme Python et JavaScript.",
-    "lien": "https://de.linkedin.com/jobs/view/software-developer-python-and-javascript-m-w-d-at-galaniprojects-gmbh-4353252036",
-    "date_publication": "2026-01-15",
-    "nb_candidats": "37",
-    "date_ajout": "2026-01-15T11:01:11.977Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-at-meistersystems-4353134718",
-    "titre": "Softwareentwickler (m/w/d)",
-    "entreprise": "MeisterSystems",
-    "entreprise_url": "https://www.linkedin.com/company/meistersystems",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "TypeScript, Node.js, React, GraphQL, AWS, Postgres",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Poste en CDI",
-      "Localisation à Berlin, Allemagne",
-      "Technologies modernes et variées",
-      "Mission avec impact environnemental",
-      "Hybrid work avec 1-2 jours de télétravail par semaine",
-      "Flache hiérarchie et accès direct aux dirigeants"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre très attractive pour un développeur junior ambitieux, avec des technologies modernes et une mission à impact.",
-    "lien": "https://de.linkedin.com/jobs/view/softwareentwickler-m-w-d-at-meistersystems-4353134718",
-    "date_publication": "2026-01-14",
-    "nb_candidats": "53",
-    "date_ajout": "2026-01-15T11:01:11.977Z"
-  },
-  {
-    "id": "https://de.linkedin.com/jobs/view/design-engineer-eu-at-ashby-4357622424",
-    "titre": "Design Engineer, EU",
-    "entreprise": "Ashby",
-    "entreprise_url": "https://www.linkedin.com/company/ashbyhq",
-    "localisation": "Berlin, Allemagne",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "TypeScript, React, GraphQL API, Node.js, Postgres, Redis",
-    "salaire": "98 000 € - 317 000 € par an",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Berlin, Allemagne, qui correspond à la localisation recherchée",
-      "Poste de développement Full-Stack / Design Engineer",
-      "CDI, ce qui correspond au type de contrat recherché",
-      "Technologies modernes et variées",
-      "Salaire compétitif",
-      "Processus de recrutement détaillé et intéressant",
-      "Culture d'entreprise axée sur la liberté et la responsabilité des ingénieurs"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre très attrayante pour un développeur junior ambitieux, avec des responsabilités élargies et une culture d'entreprise innovante.",
-    "lien": "https://de.linkedin.com/jobs/view/design-engineer-eu-at-ashby-4357622424",
-    "date_publication": "15 janvier 2026",
-    "nb_candidats": "Sois parmi les 25 premiers candidats",
-    "date_ajout": "2026-01-15T11:01:11.977Z"
-  },
-  {
     "id": "https://au.linkedin.com/jobs/view/software-development-graduate-2026-aws-sydney-at-amazon-web-services-aws-4298253517",
     "titre": "Software Development Graduate (2026, AWS), Sydney",
     "entreprise": "Amazon Web Services (AWS)",
@@ -185,5 +78,91 @@
     "date_publication": "2026-01-17T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-01-17T11:01:08.488Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
+    "titre": "Associate Software Engineer",
+    "entreprise": "Scotiabank",
+    "entreprise_url": "https://ca.linkedin.com/company/scotiabank",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Java, SQL, relational and non-relational databases",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Poste en grande ville internationale",
+      "Expérience de développement requise",
+      "Utilisation de technologies variées",
+      "Possibilités de développement et de carrière"
+    ],
+    "points_negatifs": [
+      "Pas de mention spécifique de développement Full-Stack",
+      "Pas de précision sur l'équipe junior"
+    ],
+    "commentaire": "Offre de poste en tant qu'Associate Software Engineer chez Scotiabank à Toronto, Canada. Corresponds aux critères de localisation internationale et de type de travail.",
+    "lien": "https://ca.linkedin.com/jobs/view/associate-software-engineer-at-scotiabank-4308291512",
+    "date_publication": "2026-01-17T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-01-18T11:01:17.710Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
+    "titre": "Backend Engineer, New Products",
+    "entreprise": "EvenUp",
+    "entreprise_url": "https://www.linkedin.com/company/evenup",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, TypeScript, React, Postgres, Kubernetes, Elasticsearch",
+    "salaire": "CA$125,000.00/yr - CA$173,426.00/yr",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Toronto, Canada",
+      "Poste en développement backend",
+      "Entry level",
+      "Technologies variées",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Pas de possibilité de télétravail full-time",
+      "Bureaux à San Francisco et Toronto"
+    ],
+    "commentaire": "Offre de poste en tant que Backend Engineer en entry level à EvenUp, Toronto.",
+    "lien": "https://ca.linkedin.com/jobs/view/backend-engineer-new-products-at-evenup-4359229846",
+    "date_publication": "2026-01-17",
+    "nb_candidats": "68 applicants",
+    "date_ajout": "2026-01-18T11:01:17.710Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
+    "titre": "Forward Deployed Engineer, Agentic Platform (Public Sector)",
+    "entreprise": "Cohere",
+    "entreprise_url": "https://ca.linkedin.com/company/cohere-ai",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, AI, RAG, agentic applications",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "AI",
+      "RAG",
+      "agentic applications",
+      "Environnement international"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI",
+      "Citoyenneté canadienne et sécurité requises"
+    ],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux, mais nécessite citoyenneté canadienne et sécurité",
+    "lien": "https://ca.linkedin.com/jobs/view/forward-deployed-engineer-agentic-platform-public-sector-at-cohere-4326111536",
+    "date_publication": "2026-01-17T00:00:00.000Z",
+    "nb_candidats": "60 applicants",
+    "date_ajout": "2026-01-18T11:01:17.712Z"
   }
 ]
