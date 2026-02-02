@@ -78,5 +78,186 @@
     "date_publication": "2026-01-31T00:00:00.000Z",
     "nb_candidats": "84 applicants",
     "date_ajout": "2026-02-01T11:00:33.614Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
+    "titre": "Robotics Software Engineer",
+    "entreprise": "DSO National Laboratories",
+    "entreprise_url": "https://sg.linkedin.com/company/dso-national-laboratories",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering, Science, and Research",
+    "stack": "C, C++, C#, Python",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Travail en équipe",
+      "Technologies avancées"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre pertinente pour un développeur junior ambitieux",
+    "lien": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
+    "date_publication": "2026-02-02T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-visa-4367796051",
+    "titre": "Software Engineer",
+    "entreprise": "Visa",
+    "entreprise_url": "https://www.linkedin.com/company/visa",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering",
+    "stack": "Java, J2EE, Microservices, Spring, Hibernate, REST APIs, TypeScript, ReactJS, Python, Jax, PyTorch",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Technologies variées",
+      "Entreprise mondiale"
+    ],
+    "points_negatifs": [
+      "Expérience requise de 3+ ans"
+    ],
+    "commentaire": "Offre de Software Engineer à Singapour, intéressant mais nécessite 3+ ans d'expérience",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-visa-4367796051",
+    "date_publication": "2026-02-02",
+    "nb_candidats": "107 applicants",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-vertex-holdings-4367821360",
+    "titre": "Software Engineer",
+    "entreprise": "Vertex Holdings",
+    "entreprise_url": "https://sg.linkedin.com/company/vertex-holdings",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering, Consulting, and Information Technology",
+    "stack": "Python, JavaScript, Django, FastAPI, React, PostgreSQL, Terraform, Generative AI, LangChain, LangGraph",
+    "salaire": "Non précisé",
+    "experience_requise": "0-5 ans",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Singapour, ville internationale",
+      "Expérience Full-Stack requise",
+      "Utilisation de technologies récentes comme Generative AI et LangChain",
+      "Petite équipe agile et innovante"
+    ],
+    "points_negatifs": [
+      "Expérience requise : 0-5 ans, ce qui est un peu large",
+      "Pas de mention spécifique de CDI"
+    ],
+    "commentaire": "Offre de Software Engineer à Singapour, avec focus sur Full-Stack et Generative AI. Corresponds aux critères de localisation et de type de travail.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-vertex-holdings-4367821360",
+    "date_publication": "2026-02-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4352582838",
+    "titre": "Frontend Engineer (Desktop) - Singapore",
+    "entreprise": "Plaud",
+    "entreprise_url": "https://www.linkedin.com/company/plaudai",
+    "localisation": "Singapour, Singapour",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Front-end",
+    "stack": "Vue/React, Electron, C++",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Singapour correspond aux critères",
+      "Poste en développement Front-end, correspondant aux compétences",
+      "Expérience requise 'Entry level', parfait pour un junior",
+      "Technologies intéressantes comme Electron et C++",
+      "Avantages sociaux attractifs (ESOP, outils AI, équipements, assurances)"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre très attractive pour un développeur junior ambitieux, située à Singapour avec des technologies modernes et une entreprise innovante.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4352582838",
+    "date_publication": "2026-02-02",
+    "nb_candidats": "105",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-synthesis-4368169968",
+    "titre": "Full Stack Engineer",
+    "entreprise": "Synthesis",
+    "entreprise_url": "https://sg.linkedin.com/company/synthesispartners",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, TypeScript, NodeJS, FastAPI, Flask, Express, NestJS, PostgreSQL, Google Cloud, AWS, Docker, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 7,
+    "points_positifs": [
+      "Emplacement à Singapour",
+      "Utilisation de technologies variées comme Python, TypeScript, NodeJS",
+      "Expérience avec des bases de données PostgreSQL et des cloud providers"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de 'Junior' ou 'Entry level'",
+      "Expérience avec des technologies spécifiques requise"
+    ],
+    "commentaire": "Offre de poste pour un Full Stack Engineer à Singapour, nécessitant des compétences en Python, TypeScript, NodeJS, et d'autres technologies. La localisation à Singapour et l'utilisation de technologies variées sont des points positifs.",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-synthesis-4368169968",
+    "date_publication": "2026-02-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/junior-intermediate-software-engineer-backend-at-flipster-4368174377",
+    "titre": "Junior/Intermediate Software Engineer (Backend)",
+    "entreprise": "Flipster",
+    "entreprise_url": "https://ae.linkedin.com/company/flipster-official",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Information Technology",
+    "stack": "Python, Rust",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate",
+    "score": 9,
+    "points_positifs": [
+      "Localisation à Singapour",
+      "Développement backend",
+      "Technologies : Python, Rust",
+      "Expérience Junior/Intermediate"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur backend junior/intermédiaire à Singapour, avec des technologies telles que Python et Rust.",
+    "lien": "https://sg.linkedin.com/jobs/view/junior-intermediate-software-engineer-backend-at-flipster-4368174377",
+    "date_publication": "2026-02-02",
+    "nb_candidats": "86 applicants",
+    "date_ajout": "2026-02-02T11:00:39.778Z"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
+    "titre": "Frontend Engineer (Desktop) - Singapore",
+    "entreprise": "Plaud",
+    "entreprise_url": "https://www.linkedin.com/company/plaudai",
+    "localisation": "Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Vue/React, Electron, C++",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Lieu à Singapour",
+      "Entreprise internationale",
+      "Technologies de pointe",
+      "Participation au capital de l'entreprise"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre correspondant parfaitement au profil du candidat, avec un focus sur le développement front-end et une localisation à Singapour.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
+    "date_publication": "2026-02-02",
+    "nb_candidats": "74",
+    "date_ajout": "2026-02-02T11:00:39.779Z"
   }
 ]
