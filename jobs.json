@@ -1,85 +1,5 @@
 [
   {
-    "id": "https://au.linkedin.com/jobs/view/smartcomm-developer-at-iag-4367436798",
-    "titre": "SmartComm Developer",
-    "entreprise": "IAG",
-    "entreprise_url": "https://au.linkedin.com/company/iag",
-    "localisation": "Sydney, Australie",
-    "type_contrat": "CDI",
-    "type_travail": "Développement",
-    "stack": "Java, SmartComm modules, API",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Sydney",
-      "CDI",
-      "Entry level",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur SmartComm en CDI à Sydney, Australie, pour un profil junior.",
-    "lien": "https://au.linkedin.com/jobs/view/smartcomm-developer-at-iag-4367436798",
-    "date_publication": "30 janvier 2026",
-    "nb_candidats": "Parmi les 25 premiers candidats",
-    "date_ajout": "2026-01-31T11:00:27.004Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294958460",
-    "titre": "Software Engineer, New Grad",
-    "entreprise": "Stripe",
-    "entreprise_url": "https://www.linkedin.com/company/stripe",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, Ruby, JavaScript, Scala, Go",
-    "salaire": "CA$106,400 - CA$159,600",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Grande entreprise internationale",
-      "Poste junior",
-      "Technologies variées",
-      "Salaire attractif"
-    ],
-    "points_negatifs": [
-      "Pas de possibilité de télétravail full-time"
-    ],
-    "commentaire": "Offre de poste junior en tant que Software Engineer chez Stripe, avec des technologies variées et un salaire attractif.",
-    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294958460",
-    "date_publication": "2026-01-31T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-01T11:00:33.614Z"
-  },
-  {
-    "id": "https://ca.linkedin.com/jobs/view/copilot-studio-developer-at-aecon-group-inc-4324857087",
-    "titre": "Copilot Studio Developer",
-    "entreprise": "Aecon Group Inc.",
-    "entreprise_url": "https://ca.linkedin.com/company/aecon",
-    "localisation": "Toronto, Ontario, Canada",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Microsoft Copilot Studio, Azure OpenAI, Azure AI Foundry, Python, JavaScript",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement Full-Stack",
-      "Intéressant projet AI",
-      "Utilisation de technologies modernes",
-      "Entry level"
-    ],
-    "points_negatifs": [
-      "Pas de CDI explicite",
-      "Localisation à Toronto, pas dans les villes préférées du candidat"
-    ],
-    "commentaire": "Offre de développeur Copilot Studio en entry level, intéressant mais nécessite vérification sur le type de contrat et la localisation.",
-    "lien": "https://ca.linkedin.com/jobs/view/copilot-studio-developer-at-aecon-group-inc-4324857087",
-    "date_publication": "2026-01-31T00:00:00.000Z",
-    "nb_candidats": "84 applicants",
-    "date_ajout": "2026-02-01T11:00:33.614Z"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
     "titre": "Robotics Software Engineer",
     "entreprise": "DSO National Laboratories",
@@ -259,5 +179,85 @@
     "date_publication": "2026-02-02",
     "nb_candidats": "74",
     "date_ajout": "2026-02-02T11:00:39.779Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-life-scientific-4368243460",
+    "titre": "Software Engineer",
+    "entreprise": "Life Scientific",
+    "entreprise_url": "https://ie.linkedin.com/company/life-scientific",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "CDI",
+    "type_travail": "Développement Full-Stack",
+    "stack": "TypeScript, Next.js, Bun, React, Postgres",
+    "salaire": "€80k + equity",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "Entry level",
+      "CDI",
+      "Dublin ou Cambridge",
+      "Stack moderne",
+      "Equity",
+      "Autonomie"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur Full-Stack en CDI à Dublin ou Cambridge, avec un salaire de €80k + equity.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-life-scientific-4368243460",
+    "date_publication": "2026-02-03",
+    "nb_candidats": "45 applicants",
+    "date_ajout": "2026-02-04T11:00:34.171Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4357900310",
+    "titre": "Software Engineer II",
+    "entreprise": "Mastercard",
+    "entreprise_url": "https://www.linkedin.com/company/mastercard",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "CDI",
+    "type_travail": "Ingénierie et Technologie de l'Information",
+    "stack": "Python, Shell, Jenkins, Terraform, Atlantis, Nessus, Hashicorp Vault",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Expérience Entry level",
+      "Technologies variées",
+      "Localisation internationale"
+    ],
+    "points_negatifs": [
+      "Pas de mention explicite de développement Full-Stack"
+    ],
+    "commentaire": "Offre correspondant à un profil junior, avec des responsabilités orientées vers le support technique et l'amélioration de l'infrastructure.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-ii-at-mastercard-4357900310",
+    "date_publication": "2026-02-03",
+    "nb_candidats": "80",
+    "date_ajout": "2026-02-04T11:00:34.171Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/c%2B%2B-developer-at-oliver-james-4368261824",
+    "titre": "C++ Developer",
+    "entreprise": "Oliver James",
+    "entreprise_url": "https://uk.linkedin.com/company/oliver-james-",
+    "localisation": "Dublin, Irlande",
+    "type_contrat": "CDI",
+    "type_travail": "Développement",
+    "stack": "C++",
+    "salaire": "70 000 - 90 000 €/an",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement C++",
+      "Remote en Irlande",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Pas de mention de possibilités de travail à l'international"
+    ],
+    "commentaire": "Offre de développeur C++ en remote en Irlande, avec un salaire attractif et des avantages.",
+    "lien": "https://ie.linkedin.com/jobs/view/c%2B%2B-developer-at-oliver-james-4368261824",
+    "date_publication": "2026-02-03",
+    "nb_candidats": "25",
+    "date_ajout": "2026-02-04T11:00:34.172Z"
   }
 ]
