@@ -233,5 +233,60 @@
     "date_publication": "2026-02-08T00:00:00.000Z",
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-02-09T11:00:35.519Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "titre": "Software Engineer",
+    "entreprise": "Epic",
+    "entreprise_url": "https://www.linkedin.com/company/epic1979",
+    "localisation": "Madison, WI, États-Unis",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "JS, TS, C#",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Développement de logiciels innovants dans le domaine de la santé",
+      "Utilisation de technologies modernes comme JS, TS, et C#",
+      "Environnement de travail dynamique avec des développeurs expérimentés",
+      "Avantages sociaux complets"
+    ],
+    "points_negatifs": [
+      "Recherche de candidats principalement aux États-Unis",
+      "Nécessite une relocation à Madison, WI"
+    ],
+    "commentaire": "Offre de poste pour un ingénieur logiciel en entrée de gamme chez Epic, spécialisé dans le développement de logiciels pour la santé.",
+    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
+    "date_publication": "2026-02-09",
+    "nb_candidats": "Plus de 200 applicants",
+    "date_ajout": "2026-02-10T11:00:28.599Z"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/net-full-stack-developer-at-jobs-via-dice-4370490666",
+    "titre": ".Net Full Stack Developer",
+    "entreprise": "Jobs via Dice",
+    "entreprise_url": "https://www.linkedin.com/company/jobs-via-dice",
+    "localisation": "Palmetto Bay, FL",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": ".NET, Python, SQL Server, React, Azure",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Full-stack",
+      "Entry level",
+      "Technologies variées"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI",
+      "Localisation en Floride, pas dans les villes préférées"
+    ],
+    "commentaire": "Offre de développeur Full-stack en entrée de gamme, mais pas en CDI et localisation américaine.",
+    "lien": "https://www.linkedin.com/jobs/view/net-full-stack-developer-at-jobs-via-dice-4370490666",
+    "date_publication": "2026-02-10T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-10T11:00:28.599Z"
   }
 ]
