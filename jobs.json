@@ -1,266 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/junior-software-engineer-pl-sql-fresh-graduates-at-synpulse-4363748168",
-    "titre": "Junior Software Engineer | PL/SQL (Fresh Graduates)",
-    "entreprise": "Synpulse",
-    "entreprise_url": "https://ch.linkedin.com/company/synpulsemc",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "PL/SQL, Oracle, JavaScript, HTML, XML, CSS, Angular JS",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Localisation à Singapour, ville internationale",
-      "Poste Junior/Entry level",
-      "Technologies intéressantes (PL/SQL, Oracle, etc.)",
-      "Entreprise avec une culture collaborative et innovante"
-    ],
-    "points_negatifs": [
-      "Expérience avec Avaloq est un avantage, mais pas obligatoire",
-      "Pas de mention de CDI, mais Full-time"
-    ],
-    "commentaire": "Offre de poste Junior Software Engineer à Singapour, avec des technologies intéressantes et une culture d'entreprise innovante.",
-    "lien": "https://sg.linkedin.com/jobs/view/junior-software-engineer-pl-sql-fresh-graduates-at-synpulse-4363748168",
-    "date_publication": "2026-02-08T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-developer-singapore-at-blue-wireless-4370386875",
-    "titre": "Full Stack Developer - Singapore",
-    "entreprise": "Blue Wireless",
-    "entreprise_url": "https://sg.linkedin.com/company/bluewirelessglobal",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Python, Node.js, RESTful APIs, GraphQL, SQL/NoSQL, Azure",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate (2 ans d'expérience)",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Expérience Full Stack",
-      "Technologies modernes",
-      "Opportunités de carrière"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur Full Stack à Singapour avec des technologies modernes et des opportunités de carrière.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-developer-singapore-at-blue-wireless-4370386875",
-    "date_publication": "2026-02-09",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/associate-java-developer-at-oracle-4354413936",
-    "titre": "Associate Java Developer",
-    "entreprise": "Oracle",
-    "entreprise_url": "https://www.linkedin.com/company/oracle",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology and Consulting",
-    "stack": "Java, JavaScript, Oracle SQL, PL/SQL, Java/J2EE, Webservices",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Niveau d'expérience entry level",
-      "Technologies variées"
-    ],
-    "points_negatifs": [
-      "Citoyenneté ou résidence permanente requise"
-    ],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux",
-    "lien": "https://sg.linkedin.com/jobs/view/associate-java-developer-at-oracle-4354413936",
-    "date_publication": "2026-02-08",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-ml-ai-at-shield-4322726898",
-    "titre": "Software Engineer (ML/AI)",
-    "entreprise": "SHIELD",
-    "entreprise_url": "https://www.linkedin.com/company/shield",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Python, Go (Golang), MySQL, PostgreSQL, Git, Redis, Memcached, LLM APIs, AI frameworks",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Lieu à Singapour",
-      "Entry level",
-      "Utilisation de technologies actuelles comme Python, Go, MySQL, Git"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre correspondant bien au profil, possibilité de développement dans le domaine de l'IA et de la lutte contre la fraude.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-ml-ai-at-shield-4322726898",
-    "date_publication": "2026-02-08",
-    "nb_candidats": "117 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-buyer-team-at-shopee-4340872552",
-    "titre": "Backend Engineer - Marketplace, Buyer Team",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "Java, Python, Golang, C++, MySQL, Linux",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1 an d'expérience minimum)",
-    "score": 9,
-    "points_positifs": [
-      "Développement backend",
-      "Entry level",
-      "Singapore",
-      "CDI",
-      "Technologies variées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur backend en CDI à Singapour, correspondant au profil",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-buyer-team-at-shopee-4340872552",
-    "date_publication": "2026-02-08T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/java-developer-at-bitdeer-nasdaq-btdr-4339553078",
-    "titre": "Java Developer",
-    "entreprise": "Bitdeer",
-    "entreprise_url": "https://sg.linkedin.com/company/bitdeer",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Java, Spring Boot, Spring Cloud, MyBatis/JPA, SQL, MySQL, Kafka, RabbitMQ, Redis, Tomcat, WebLogic",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Localisation à Singapour",
-      "Technologies utilisées alignées avec les compétences du candidat",
-      "Poste en développement",
-      "Entreprise cotée en bourse"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre pertinente pour un développeur junior ambitieux",
-    "lien": "https://sg.linkedin.com/jobs/view/java-developer-at-bitdeer-nasdaq-btdr-4339553078",
-    "date_publication": "2026-02-09",
-    "nb_candidats": "79",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-recommendation-campus-recruitment-2026-at-shopee-4289428384",
-    "titre": "Backend Engineer, Recommendation (Campus Recruitment 2026)",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Information Technology",
-    "stack": "C++/Golang/Python, Linux",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 9,
-    "points_positifs": [
-      "Développement backend",
-      "Recommandation",
-      "E-commerce",
-      "Technologies avancées"
-    ],
-    "points_negatifs": [],
-    "commentaire": "Offre de développeur backend en CDI à Singapour, correspondant aux critères de Aodren.",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-recommendation-campus-recruitment-2026-at-shopee-4289428384",
-    "date_publication": "2026-02-08T00:00:00.000Z",
-    "nb_candidats": "132 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/12-months-contract-frontend-developer-through-an-external-agency-payroll-provider-at-julius-baer-4299421514",
-    "titre": "Frontend Developer",
-    "entreprise": "Julius Baer",
-    "entreprise_url": "https://ch.linkedin.com/company/julius-baer",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Contract (12 months)",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "React, Typescript, Node.js, JavaScript, HTML, CSS, Unix",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Emplacement à Singapour",
-      "Technologies modernes",
-      "Environnement agile"
-    ],
-    "points_negatifs": [
-      "Contrat de 12 mois",
-      "Pas de CDI"
-    ],
-    "commentaire": "Offre de développeur frontend à Singapour avec des technologies récentes, mais sous forme de contrat de 12 mois.",
-    "lien": "https://sg.linkedin.com/jobs/view/12-months-contract-frontend-developer-through-an-external-agency-payroll-provider-at-julius-baer-4299421514",
-    "date_publication": "2026-02-08T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-09T11:00:35.519Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
-    "titre": "Software Engineer",
-    "entreprise": "Epic",
-    "entreprise_url": "https://www.linkedin.com/company/epic1979",
-    "localisation": "Madison, WI, États-Unis",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "JS, TS, C#",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Développement de logiciels innovants dans le domaine de la santé",
-      "Utilisation de technologies modernes comme JS, TS, et C#",
-      "Environnement de travail dynamique avec des développeurs expérimentés",
-      "Avantages sociaux complets"
-    ],
-    "points_negatifs": [
-      "Recherche de candidats principalement aux États-Unis",
-      "Nécessite une relocation à Madison, WI"
-    ],
-    "commentaire": "Offre de poste pour un ingénieur logiciel en entrée de gamme chez Epic, spécialisé dans le développement de logiciels pour la santé.",
-    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986116429",
-    "date_publication": "2026-02-09",
-    "nb_candidats": "Plus de 200 applicants",
-    "date_ajout": "2026-02-10T11:00:28.599Z"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/net-full-stack-developer-at-jobs-via-dice-4370490666",
-    "titre": ".Net Full Stack Developer",
-    "entreprise": "Jobs via Dice",
-    "entreprise_url": "https://www.linkedin.com/company/jobs-via-dice",
-    "localisation": "Palmetto Bay, FL",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": ".NET, Python, SQL Server, React, Azure",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Full-stack",
-      "Entry level",
-      "Technologies variées"
-    ],
-    "points_negatifs": [
-      "Pas de mention de CDI",
-      "Localisation en Floride, pas dans les villes préférées"
-    ],
-    "commentaire": "Offre de développeur Full-stack en entrée de gamme, mais pas en CDI et localisation américaine.",
-    "lien": "https://www.linkedin.com/jobs/view/net-full-stack-developer-at-jobs-via-dice-4370490666",
-    "date_publication": "2026-02-10T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-10T11:00:28.599Z"
-  },
-  {
     "id": "https://de.linkedin.com/jobs/view/backend-developer-m-w-d-at-probatix-4363222814",
     "titre": "Backend Developer (m/w/d)",
     "entreprise": "Probatix",
@@ -427,5 +166,35 @@
     "date_publication": "2026-02-11",
     "nb_candidats": "50 applicants",
     "date_ajout": "2026-02-12T11:00:34.296Z"
+  },
+  {
+    "id": "https://ae.linkedin.com/jobs/view/backend-engineer-at-alaan-%D8%A7%D9%84%D8%A2%D9%86-4371177403",
+    "titre": "Backend Engineer",
+    "entreprise": "Alaan",
+    "entreprise_url": "https://ae.linkedin.com/company/alaanpay",
+    "localisation": "Dubai, United Arab Emirates",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Node.js, NestJS, Express, Python, MySQL, MongoDB, PostgreSQL, AWS, Azure, Google Cloud, Docker, Kubernetes, Git, Redis, Memcached, Mocha, Chai, Sinon, Jest",
+    "salaire": "Competitive salary and equity",
+    "experience_requise": "2 to 4 years",
+    "score": 7,
+    "points_positifs": [
+      "Entry level",
+      "Backend Engineer",
+      "Dubai",
+      "Fintech",
+      "Significant ownership and accountability",
+      "Flexible hybrid culture"
+    ],
+    "points_negatifs": [
+      "2 to 4 years d'expérience",
+      "Pas de salaire précisé"
+    ],
+    "commentaire": "Offre de Backend Engineer à Dubai pour une fintech, avec des technologies variées et un environnement de travail attractif.",
+    "lien": "https://ae.linkedin.com/jobs/view/backend-engineer-at-alaan-%D8%A7%D9%84%D8%A2%D9%86-4371177403",
+    "date_publication": "2026-02-12T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-13T11:00:30.353Z"
   }
 ]
