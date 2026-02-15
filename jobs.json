@@ -223,5 +223,34 @@
     "date_publication": "2026-02-14",
     "nb_candidats": "59",
     "date_ajout": "2026-02-14T11:00:26.197Z"
+  },
+  {
+    "id": "https://ca.linkedin.com/jobs/view/software-engineer-at-relay-4299602923",
+    "titre": "Software Engineer",
+    "entreprise": "Relay",
+    "entreprise_url": "https://ca.linkedin.com/company/bankwithrelay",
+    "localisation": "Toronto, Ontario, Canada",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "TypeScript, React, Node.js, AWS, Terraform, Docker, GitHub, GitHub Actions, Datadog, Jira, Metabase",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (2+ ans d'expérience full-stack)",
+    "score": 7,
+    "points_positifs": [
+      "Poste en grande ville internationale",
+      "CDI",
+      "Stack Full-Stack",
+      "Environnement de travail collaboratif et dynamique",
+      "Avantages sociaux attractifs (équité, santé, vacances flexibles, etc.)"
+    ],
+    "points_negatifs": [
+      "Expérience de 2+ ans requise (un peu au-dessus de la cible)",
+      "Pas de mention spécifique de développement junior"
+    ],
+    "commentaire": "Offre de poste attractives pour un développeur full-stack junior ambitieux, malgré une légère différence dans l'expérience requise.",
+    "lien": "https://ca.linkedin.com/jobs/view/software-engineer-at-relay-4299602923",
+    "date_publication": "2026-02-14T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-15T11:00:30.344Z"
   }
 ]
