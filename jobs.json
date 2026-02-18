@@ -416,5 +416,113 @@
     "nb_candidats": "70 applicants",
     "date_ajout": "2026-02-18T10:06:42.634Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer position at StarHub. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to StarHub.\n\nWhat sets me apart is how I leverage AI tools to solve real problems and productionize prototypes. I built ValoFenua, a real estate valuation platform where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to accelerating AI/ML delivery into production at StarHub.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294949931",
+    "titre": "Software Engineer, New Grad",
+    "entreprise": "Stripe",
+    "entreprise_url": "https://www.linkedin.com/company/stripe",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Java, Ruby, JavaScript, Scala, Go",
+    "salaire": "€64,000 - €96,000",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Entry level",
+      "Grande entreprise internationale",
+      "Technologies variées",
+      "Salaire attractif"
+    ],
+    "points_negatifs": [
+      "Localisation en Irlande (hors des villes souhaitées)"
+    ],
+    "commentaire": "Offre de niveau entry-level chez Stripe, mais localisation à Dublin qui ne correspond pas aux villes souhaitées.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294949931",
+    "date_publication": "2026-02-18T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-18T11:00:22.161Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4373004730",
+    "titre": "Graduate software engineer",
+    "entreprise": "Bending Spoons",
+    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Full-stack, end-to-end, microservices architectures, gRPC, REST APIs, Kubernetes, Docker, Python, Rust",
+    "salaire": "£85,797 - £250,512",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Développement Full-Stack",
+      "CDI",
+      "Grande ville internationale",
+      "Poste Junior",
+      "Salaire compétitif",
+      "Avantages sociaux"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de développeur logiciel diplômé à Bending Spoons, correspondant aux critères de Aodren.",
+    "lien": "https://ie.linkedin.com/jobs/view/graduate-software-engineer-at-bending-spoons-4373004730",
+    "date_publication": "2026-02-17",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-18T11:00:22.161Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4373001779",
+    "titre": "Software engineer",
+    "entreprise": "Bending Spoons",
+    "entreprise_url": "https://it.linkedin.com/company/bendingspoons",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Full-stack, end-to-end, microservices architectures, gRPC, REST APIs, Kubernetes, Docker, Python, Rust",
+    "salaire": "£85,797 - £250,512",
+    "experience_requise": "Entry level",
+    "score": 9,
+    "points_positifs": [
+      "Localisation internationale",
+      "CDI",
+      "Full-stack",
+      "Entry level",
+      "Avantages sociaux (flexible hours, remote working, unlimited backing for learning and training, etc.)"
+    ],
+    "points_negatifs": [],
+    "commentaire": "Offre de poste en tant que Software engineer chez Bending Spoons, localisation à Dublin, Ireland, avec un salaire compétitif et des avantages sociaux attractifs.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-at-bending-spoons-4373001779",
+    "date_publication": "2026-02-17",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-18T11:00:22.161Z"
+  },
+  {
+    "id": "https://ie.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4374491047",
+    "titre": "Software Engineer - Solutions Engineering",
+    "entreprise": "Canonical",
+    "entreprise_url": "https://uk.linkedin.com/company/canonical",
+    "localisation": "Dublin, Ireland",
+    "type_contrat": "Full-time",
+    "type_travail": "Engineering and Information Technology",
+    "stack": "Python, Golang, Linux, Ubuntu, OpenStack, Kubernetes",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 7,
+    "points_positifs": [
+      "Travail en équipe distribué",
+      "Utilisation de technologies ouvertes",
+      "Formation continue",
+      "Environnement de travail flexible"
+    ],
+    "points_negatifs": [
+      "Pas de mention de CDI",
+      "Localisation en Irlande, pas dans les villes préférées"
+    ],
+    "commentaire": "Offre de poste en tant qu'ingénieur logiciel en solutions engineering chez Canonical, avec des opportunités de travail en équipe distribuée et des technologies ouvertes.",
+    "lien": "https://ie.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4374491047",
+    "date_publication": "2026-02-18T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-02-18T11:00:22.161Z"
   }
 ]
