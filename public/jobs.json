@@ -1,409 +1,150 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/python-developer-tester-at-avepoint-4053732901",
-    "titre": "Python Developer & Tester",
-    "entreprise": "AvePoint",
-    "entreprise_url": "https://www.linkedin.com/company/avepoint",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time (Permanent)",
-    "type_travail": "Not specified",
-    "stack": "Python, SQL, Pyspark, Linux, ETL (Informatica), Denodo, TDD, BDD, Agile, CI/CD",
+    "id": "https://sg.linkedin.com/jobs/view/low-code-engineer-at-unison-group-4376549031",
+    "titre": "Low-Code Engineer",
+    "entreprise": "Unison Group",
+    "entreprise_url": "https://www.linkedin.com/company/unison-group-sg",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time",
+    "type_travail": "Other",
+    "stack": "OutSystems, Mendix, Power Apps, Git, HTML, CSS, JavaScript, SQL, NoSQL, APIs",
     "salaire": "Non précisé",
-    "experience_requise": "Entry level (0-1 year)",
+    "experience_requise": "Entry level (2+ years mentioned)",
     "score": 7,
     "points_positifs": [
-      "Entry level idéal pour profil Junior (~1.5 ans d'expérience)",
-      "Localisation Singapour correspond exactement à la cible géographique",
-      "Stack Python/SQL aligné avec les compétences techniques",
-      "Focus sur l'automatisation (CI/CD, test automation, TDD) correspond au mindset du candidat"
+      "Entry level position based in Singapore matching target location",
+      "Strong focus on automation and workflow optimization aligning with n8n experience",
+      "Full-time permanent contract type desired",
+      "Agile methodology and CI/CD practices match current experience"
     ],
     "points_negatifs": [
-      "Over 200 applicants (très compétitif)",
-      "Exigence sur outils Big Data (Pyspark, Informatica, Denodo) non explicitement maîtrisés",
-      "Poste hybride Dev/Test nécessitant adaptation entre développement et QA pur"
+      "Requires specific low-code platforms (OutSystems, Mendix, Power Apps) not present in current stack",
+      "2+ years experience requirement may be tight though entry-level tagged"
     ],
-    "commentaire": "Bonne opportunité entry-level à Singapour avec une stack Python/SQL accessible. L'accent mis sur l'automatisation des tests et les processus Agile correspond bien à l'expérience en optimisation de déploiement du candidat, bien que les outils ETL/big data spécifiques demandent un apprentissage.",
-    "lien": "https://sg.linkedin.com/jobs/view/python-developer-tester-at-avepoint-4053732901",
-    "date_publication": "2026-02-17T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Python Developer & Tester position at AvePoint. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to AvePoint.\n\nWhat sets me apart is how I leverage AI tools to solve real problems. I built ValoFenua, a real estate valuation platform using Python and SQL where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists.\n\nI also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently. This automation mindset extends to testing and CI/CD, aligning with your Agile and DevOps practices for quality assurance.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to securing the future of digital workplaces through robust data management and quality engineering.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-samsung-latin-america-for-business-4373092604",
-    "titre": "Full Stack Engineer",
-    "entreprise": "Samsung Latin America for Business",
-    "entreprise_url": "https://br.linkedin.com/company/samsung-latam-b2b",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Not specified",
-    "stack": "React, Vue, Angular, Node.js, Python, Java, MySQL, PostgreSQL, MongoDB, Git, REST APIs, CI/CD, Cloud",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Entry level position perfectly matching 1.5 years professional experience + strong personal projects",
-      "Full-stack role requiring React and Node.js, directly aligned with ValoFenua project stack",
-      "Singapore location matching candidate's target geography",
-      "Opportunity to work on scalable applications with CI/CD and cloud infrastructure exposure"
-    ],
-    "points_negatifs": [
-      "No explicit mention of visa sponsorship policy in the job description",
-      "Company structure (Latin America division hiring for Singapore role) may indicate complex reporting lines"
-    ],
-    "commentaire": "Excellent entry-level opportunity for a junior full-stack developer in Singapore, with a tech stack perfectly aligned with Aodren's React/Node.js experience and automation background.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-at-samsung-latin-america-for-business-4373092604",
-    "date_publication": "2026-02-18T00:00:00.000Z",
+    "commentaire": "Bonne opportunité à Singapour pour un poste junior axé sur l'automatisation, bien que les plateformes low-code spécifiques demandées nécessiteront une montée en compétience rapide.",
+    "lien": "https://sg.linkedin.com/jobs/view/low-code-engineer-at-unison-group-4376549031",
+    "date_publication": "2026-02-23",
     "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Full Stack Engineer position at Samsung Latin America for Business. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Samsung.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation, handling daily automated data processing for 1,300+ real estate listings.\n\nI also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building impactful, scalable technology at Samsung.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+    "date_ajout": "2026-02-23T15:47:46.358Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Low-Code Engineer role at Unison Group. Your focus on streamlining business processes through automated workflows matches exactly what I've been building, both professionally and on my own time.\n\nAt EXAIL Robotics, I redesigned our software installation process. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I built this automation using scripting and process optimization, making complex technical steps accessible to non-technical users. I also develop core features in C++ and JavaScript, including an eye-tracking system, so I understand both the business logic and the technical implementation.\n\nOutside of work, I built ValoFenua, a real estate platform that automates daily scraping of 1,300+ listings and processes them through AI-driven workflows. I handle the full stack, from React frontend to PostgreSQL databases, and I'm comfortable with REST APIs and third-party integrations. While I haven't used OutSystems or Mendix specifically, I've built complex automation pipelines with n8n and understand how to translate business requirements into technical specifications without heavy coding.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I like the idea of helping business teams move faster without getting blocked by traditional development bottlenecks.\n\nAodren Gloux\n"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/ai-developer-at-seatrium-4282102214",
-    "titre": "AI Developer",
-    "entreprise": "Seatrium",
-    "entreprise_url": "https://www.linkedin.com/company/seatrium",
+    "id": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
+    "titre": "Robotics Software Engineer",
+    "entreprise": "DSO National Laboratories",
+    "entreprise_url": "https://sg.linkedin.com/company/dso-national-laboratories",
     "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI",
+    "type_contrat": "CDI/Permanent",
     "type_travail": "Non précisé",
-    "stack": "React.js, Node.js, TensorFlow, PyTorch, Keras, Scikit-learn, SQL/NoSQL, AWS/Azure",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (2-3 ans)",
-    "score": 7,
-    "points_positifs": [
-      "Poste AI Developer à Singapour (localisation cible)",
-      "Stack technique moderne : React.js, Node.js et frameworks ML (TensorFlow/PyTorch)",
-      "Focus sur l'IA, le NLP et l'automatisation correspondant aux projets personnels (ValoFenua, n8n)"
-    ],
-    "points_negatifs": [
-      "Exigence de 2-3 ans d'expérience (supérieur aux 1.5 ans du candidat)",
-      "Plus de 200 candidats (forte concurrence)"
-    ],
-    "commentaire": "Offre AI Developer à Singapour idéale pour le profil AI/Full-stack d'Aodren, malgré une exigence d'expérience légèrement supérieure qui reste acceptable pour un poste Entry Level.",
-    "lien": "https://sg.linkedin.com/jobs/view/ai-developer-at-seatrium-4282102214",
-    "date_publication": "17/02/2026",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the AI Developer position at Seatrium. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Seatrium.\n\nWhat sets me apart is how I leverage AI tools to solve real problems. I built ValoFenua, a real estate valuation platform where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building impactful technology.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-developer-at-avepoint-4256725863",
-    "titre": "Backend Developer",
-    "entreprise": "AvePoint",
-    "entreprise_url": "https://www.linkedin.com/company/avepoint",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "On-site",
-    "stack": "Java (Spring, Maven), PostgreSQL/Oracle, SQL, ETL, CI/CD",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 7,
-    "points_positifs": [
-      "Poste entry level parfaitement adapté à l'expérience (~1.5 an)",
-      "Localisation cible Singapour avec contrat permanent",
-      "Responsabilités ETL et data pipelines alignées avec l'expertise en automatisation d'Aodren",
-      "Base de données PostgreSQL correspondant à l'expérience Supabase/PostgreSQL"
-    ],
-    "points_negatifs": [
-      "Plus de 200 candidats (concurrence élevée)",
-      "Stack principalement Java/Spring alors que l'expérience professionnelle est davantage C++/JavaScript"
-    ],
-    "commentaire": "Excellent match pour un premier poste à Singapour. L'aspect automatisation des données (ETL) et pipelines correspond particulièrement bien au profil d'Aodren, malgré une dominante Java qu'il faudra rapidement monter en compétence.",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-developer-at-avepoint-4256725863",
-    "date_publication": "2026-02-17",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Backend Developer position at AvePoint. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to AvePoint.\n\nWhat sets me apart is how I leverage AI tools to solve real problems. I built ValoFenua, a real estate valuation platform where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists.\n\nI also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to securing the future of digital workplaces through robust data management solutions.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/cloud-software-engineer-at-dyson-4343745877",
-    "titre": "Cloud Software Engineer",
-    "entreprise": "Dyson",
-    "entreprise_url": "https://sg.linkedin.com/company/dyson",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Engineering and Information Technology",
-    "stack": "Node.js, C#/.NET Core, AWS, Docker, Microservices, Serverless, IoT",
+    "stack": "C/C++, Python, C#, Robotics, Hardware Integration, OOP",
     "salaire": "Non précisé",
     "experience_requise": "Entry level",
     "score": 8,
     "points_positifs": [
-      "Niveau Entry level parfaitement adapté au profil (~1.5 an d'expérience)",
-      "Stack incluant Node.js et Docker, correspondant aux compétences actuelles",
-      "Culture 'You build it, you run it' alignée avec l'expérience d'automatisation du déploiement",
-      "Environnement IoT et produits connectés innovants"
+      "Entry level position perfectly matching 0-3 years experience target",
+      "Direct alignment with current C++ robotics software development at EXAIL",
+      "Hardware integration and field testing experience fits the role requirements",
+      "Singapore target location"
     ],
     "points_negatifs": [
-      "Préférence pour C#/.NET Core nécessitant une adaptation rapide (mais Node.js accepté)",
-      "Volume de candidatures élevé (60 applicants)"
+      "High competition with over 200 applicants",
+      "Defense sector context may imply unstated citizenship or security clearance requirements"
     ],
-    "commentaire": "Poste Entry level idéal à Singapour chez Dyson, avec une stack technique globalement alignée (Node.js, Docker) et une forte dimension produit IoT qui valorise l'expérience système embarqué d'Aodren.",
-    "lien": "https://sg.linkedin.com/jobs/view/cloud-software-engineer-at-dyson-4343745877",
-    "date_publication": "2026-02-18T00:00:00.000Z",
-    "nb_candidats": "60 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Cloud Software Engineer position at Dyson. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Dyson.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building reliable, scalable services for Dyson's innovative connected products.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+    "commentaire": "Strong match for an entry-level robotics software role requiring C++ and hardware integration experience. The position directly leverages current work on eye-tracking systems and deployment automation.",
+    "lien": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
+    "date_publication": "2026-02-23",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-23T15:47:46.358Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Robotics Software Engineer role at DSO National Laboratories. I currently develop software in C++ and JavaScript for an eye-tracking system at EXAIL Robotics. This involves writing code that interacts directly with hardware components and sensors in the loop.\n\nI also redesigned our installation process at EXAIL. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction in deployment time. I work comfortably with hardware teams during integration tests, both in controlled environments and field deployments.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. The opportunity to build autonomous systems for air, land and maritime domains at Singapore's leading defence research organization fits my background in robotics software and hardware integration.\n\nAodren Gloux"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-index-chill-podcast-4373300129",
-    "titre": "Full Stack Engineer/Full Stack Developer",
-    "entreprise": "Index & Chill Podcast",
-    "entreprise_url": "https://uk.linkedin.com/company/indexandchillpodcast",
+    "id": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
+    "titre": "Frontend Development Engineer (App)",
+    "entreprise": "Hyphen Connect",
+    "entreprise_url": "https://www.linkedin.com/company/hyphen-connect",
     "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "On-site",
-    "stack": "React, Vue, Angular, Node.js, Python, Java, REST APIs, PostgreSQL/NoSQL, AWS/Azure/GCP, Git, CI/CD",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "Non précisé",
+    "stack": "JavaScript, React, HTML5, CSS3, Node.js, Webpack, Git",
     "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Niveau Entry level parfaitement adapté au profil (~1.5 an d'expérience professionnelle)",
-      "Stack full-stack complet (React, Node.js, bases de données) aligné avec les compétences d'Aodren",
-      "Localisation à Singapour correspondant aux critères de recherche prioritaires",
-      "Mention de CI/CD et optimisations de déploiement valorisant l'expérience en automatisation"
-    ],
-    "points_negatifs": [
-      "25 candidats déjà postulés (concurrence modérée)"
-    ],
-    "commentaire": "Offre idéale pour un profil junior full-stack : niveau entry level parfaitement adapté, stack technique complète (React, Node, DB) et localisation cible à Singapour. L'expérience en automatisation des déploiements d'Aodren est un plus pour les aspects CI/CD mentionnés.",
-    "lien": "https://sg.linkedin.com/jobs/view/full-stack-engineer-full-stack-developer-at-index-chill-podcast-4373300129",
-    "date_publication": "2026-02-18",
-    "nb_candidats": "25 applicants",
-    "date_ajout": "2026-02-18T10:06:42.633Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Full Stack Engineer position at Index & Chill Podcast. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to Index & Chill Podcast.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building impactful products in Singapore's innovative ecosystem.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/java-full-stack-engineer-at-peoplelogic-4374498033",
-    "titre": "Java Full Stack Engineer",
-    "entreprise": "PeopleLogic",
-    "entreprise_url": "https://in.linkedin.com/company/peoplelogic-business-solutions",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time/Permanent",
-    "type_travail": "On-site",
-    "stack": "Java, Angular 8+, REST APIs, HTML5, CSS3, Entity Framework, Agile/Scrum",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate (2–7 Years)",
+    "experience_requise": "Entry level (3+ ans ou profils juniors exceptionnels)",
     "score": 7,
     "points_positifs": [
-      "Full-stack Java role aligning with backend Java skills",
-      "Singapore location matches relocation target",
-      "Associate level accessible with 1.5 years experience + strong portfolio projects",
-      "REST API and database experience directly applicable"
+      "Entry level correspondant parfaitement au profil junior d'Aodren",
+      "Focus sur l'efficacité engineering et les outils internes, aligné avec l'expertise en automatisation",
+      "Stack React/JavaScript identique aux projets récents (ValoFenua, EXAIL)"
     ],
     "points_negatifs": [
-      "Angular 8+ not in current stack (React expertise transferable but requires upskilling)",
-      "Entity Framework mention unusual for Java stack (likely meant JPA/Hibernate)"
+      "Plus de 200 candidats, forte concurrence",
+      "Aucune mention de sponsorship visa dans l'offre"
     ],
-    "commentaire": "Solid opportunity for a Java full-stack role in Singapore at Associate level. Aodren's Java background and React full-stack experience provide a strong foundation to transition into Angular development.",
-    "lien": "https://sg.linkedin.com/jobs/view/java-full-stack-engineer-at-peoplelogic-4374498033",
-    "date_publication": "2026-02-18",
-    "nb_candidats": "38 applicants",
-    "date_ajout": "2026-02-18T10:06:42.634Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Java Full Stack Engineer position at PeopleLogic. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to PeopleLogic.\n\nAt EXAIL Robotics, I develop core features in Java and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building scalable enterprise applications at PeopleLogic.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+    "commentaire": "Poste d'entry level à Singapour axé sur les outils internes et l'efficacité engineering, correspondant parfaitement à l'expertise en automatisation et low-code d'Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
+    "date_publication": "2026-02-23",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-23T15:47:46.358Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Development Engineer role at Hyphen Connect. You mentioned building efficiency engineering platforms. That's exactly the work I enjoy.\n\nI currently write JavaScript and C++ at EXAIL Robotics. I rebuilt our installation process from scratch. It used to take 2 days. Now it takes 2 hours. Anyone on the team can run it. That's 85% less time wasted on deployment. I also built ValoFenua in React with Supabase backend. It handles 1,300+ daily records and generates PDF reports client-side. Beyond that, I automate complex workflows with n8n and AI agents. I build systems that remove repetitive work.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Your focus on internal tools and developer efficiency matches what I've been building on my own.\n\nAodren Gloux\n"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/java-full-stack-engineer-at-peoplelogic-4374460445",
-    "titre": "Java Full Stack Engineer",
-    "entreprise": "PeopleLogic",
-    "entreprise_url": "https://in.linkedin.com/company/peoplelogic-business-solutions",
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-infrastructure-at-exa-4376546668",
+    "titre": "Software Engineer, Infrastructure",
+    "entreprise": "Exa",
+    "entreprise_url": "https://www.linkedin.com/company/exa-ai",
     "localisation": "Singapore, Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "Java, Angular 8+, HTML5, CSS3, Entity Framework, REST API, Cloud platform",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate",
+    "stack": "Kubernetes, Rust, Ray, AWS, GPU clusters, Python",
+    "salaire": "SGD 90,000.00/yr - SGD 300,000.00/yr",
+    "experience_requise": "Entry level",
     "score": 7,
     "points_positifs": [
-      "Niveau Associate correspondant à l'expérience junior du candidat (1.5 ans)",
-      "Localisation Singapour correspondant exactement au critère de recherche",
-      "Mention explicite de l'automatisation des processus dans la description",
-      "Stack Java full-stack alignée avec les compétences backend du candidat"
+      "Entry level position matching candidate experience level",
+      "Explicit visa sponsorship mentioned for international candidates",
+      "Singapore location matching target",
+      "AI company aligned with candidate interests",
+      "Competitive salary range"
     ],
     "points_negatifs": [
-      "Exigence Angular 8+ alors que le candidat maîtrise principalement React",
-      "Poste très orienté entreprise traditionnelle (Java/Angular) vs profil plus moderne/automation du candidat"
+      "Heavy infrastructure/DevOps focus (Kubernetes, GPU clusters) diverges from candidate's core software engineering background",
+      "Requires experience with large-scale infrastructure typically associated with senior roles",
+      "29 applicants already"
     ],
-    "commentaire": "Poste d'ingénieur full-stack Java de niveau Associate à Singapour, correspondant bien au profil junior/automation du candidat malgré la différence Angular/React.",
-    "lien": "https://sg.linkedin.com/jobs/view/java-full-stack-engineer-at-peoplelogic-4374460445",
-    "date_publication": "2026-02-18T00:00:00.000Z",
-    "nb_candidats": "41 applicants",
-    "date_ajout": "2026-02-18T10:06:42.634Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Java Full Stack Engineer position at PeopleLogic. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to PeopleLogic.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to re-imagining and redesigning technology solutions to add value to business and operations.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+    "commentaire": "Entry-level infrastructure role at AI search company in Singapore with visa sponsorship. Heavy infrastructure focus but aligns with candidate's automation experience and interest in AI systems.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-infrastructure-at-exa-4376546668",
+    "date_publication": "2026-02-23T00:00:00.000Z",
+    "nb_candidats": "29 applicants",
+    "date_ajout": "2026-02-23T15:47:46.358Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer, Infrastructure role at Exa. You're building a search engine from scratch to power AI applications. That's the kind of deep technical infrastructure I want to work on.\n\nI currently develop software at EXAIL Robotics in C++ and JavaScript, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. Anyone on the team can run it. That's an 85% reduction in deployment time.\n\nOn my own time, I built ValoFenua, a real estate platform for French Polynesia. It scrapes 1,300+ listings daily and feeds them into an AI agent for price estimation. I also built an automated job search pipeline with n8n, AI agents, and an MCP server on a VPS. I know Docker and have managed VPS environments. I'm comfortable with the automation and infrastructure side.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Exa is tackling massive scale problems with GPU clusters and vector search. I want to help build that infrastructure.\n\nAodren Gloux"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-developer-react-typescript-at-the-quantum-index-4372458046",
-    "titre": "Frontend Developer (React, TypeScript)",
-    "entreprise": "The Quantum Index",
-    "entreprise_url": "https://uk.linkedin.com/company/the-quantum-index",
+    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
+    "titre": "Frontend Engineer (Desktop)",
+    "entreprise": "Plaud",
+    "entreprise_url": "https://www.linkedin.com/company/plaudai",
     "localisation": "Singapore",
-    "type_contrat": "Full-time",
+    "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "React, TypeScript, HTML5, CSS3, JavaScript ES6+, Redux/Context API/Zustand, RESTful APIs, Git",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Niveau Entry level parfaitement adapté au profil (~1.5 an d'expérience)",
-      "Localisation Singapore correspondant exactement à la cible géographique",
-      "Stack React cohérent avec le projet ValoFenua (React 19 SPA)",
-      "Contrat Full-time permanent (CDI équivalent)"
-    ],
-    "points_negatifs": [
-      "Poste frontend pur sans dimension backend/automation qui caractérise le profil",
-      "TypeScript non explicitement mentionné dans les compétences du candidat (mais implicite avec React moderne)"
-    ],
-    "commentaire": "Excellente opportunité entry-level à Singapore correspondant parfaitement au niveau d'expérience et à la stack React développée sur ValoFenua, bien que le rôle soit plus frontend-centric que le profil full-stack/automation du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-developer-react-typescript-at-the-quantum-index-4372458046",
-    "date_publication": "2026-02-18T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-18T10:06:42.634Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Developer (React, TypeScript) position at The Quantum Index. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to The Quantum Index.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript — including an eye-tracking system — while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building impactful digital products in Singapore.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-starhub-4358161241",
-    "titre": "Software Engineer",
-    "entreprise": "StarHub",
-    "entreprise_url": "https://sg.linkedin.com/company/starhub",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "On-site",
-    "stack": "Python, AI/ML, APIs, AWS/GCP/Alicloud, Backend, Data Pipelines",
+    "stack": "Electron, React/Vue, C++, JavaScript",
     "salaire": "Non précisé",
     "experience_requise": "Entry level",
     "score": 7,
     "points_positifs": [
-      "Niveau entry level parfait pour un profil junior",
-      "Focus sur l'IA et l'automatisation des pipelines de données",
-      "Localisation idéale à Singapour",
-      "Opportunité de bridge entre data science et production"
+      "Entry level position perfectly matching Aodren's experience level",
+      "Target location Singapore",
+      "Combines React (ValoFenua) and C++ (EXAIL) skills",
+      "High-growth AI company with $250M revenue run rate",
+      "Strong benefits including ESOP and best-in-class equipment"
     ],
     "points_negatifs": [
-      "Accent fort sur MLOps et data engineering plutôt que développement full-stack",
-      "Concurrence élevée avec 70 candidats"
+      "109 applicants indicates high competition",
+      "Desktop/Electron focus is a shift from current web development experience",
+      "Requires adaptation to desktop-specific performance and compatibility constraints"
     ],
-    "commentaire": "Offre entry level idéale à Singapour combinant software engineering et AI/ML production, parfaitement alignée avec l'expertise d'Aodren en automatisation et intégration d'agents IA.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-starhub-4358161241",
-    "date_publication": "2026-02-17",
-    "nb_candidats": "70 applicants",
-    "date_ajout": "2026-02-18T10:06:42.634Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer position at StarHub. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation — and I'm looking to bring that mindset to StarHub.\n\nWhat sets me apart is how I leverage AI tools to solve real problems and productionize prototypes. I built ValoFenua, a real estate valuation platform where a daily automated scraper feeds 1,300+ listings into an AI agent that computes price estimates from live market data. I also designed an automated job search pipeline using n8n workflows, AI agents, and an MCP server — systems where AI drives core functionality, not just assists. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to accelerating AI/ML delivery into production at StarHub.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/junior-engineer-frontend-at-sea-4358394668",
-    "titre": "Junior Engineer, Frontend",
-    "entreprise": "Sea",
-    "entreprise_url": "https://sg.linkedin.com/company/seagrp",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time (Permanent)",
-    "type_travail": "On-site",
-    "stack": "React/Angular/Vue, HTML, CSS, JavaScript, CI/CD, Frontend automated tools",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Entry level correspondant parfaitement au profil Junior (0-3 ans)",
-      "Localisation idéale à Singapour avec contrat permanent",
-      "Requirements incluant CI/CD et outils automatisés, alignés avec l'expertise en automation",
-      "Stack React compatible avec le projet ValoFenua",
-      "Entreprise tech majeure en Asie du Sud-Est avec opportunités de croissance"
-    ],
-    "points_negatifs": [
-      "Over 200 applicants (concurrence élevée)",
-      "Focus principalement Frontend alors que le profil est plus Full-stack/Automation",
-      "Aucune mention explicite de politique de visa sponsorship"
-    ],
-    "commentaire": "Excellent match pour un poste Junior à Singapour chez un leader tech régional. L'accent mis sur l'automatisation et les outils de déploiement dans l'offre correspond particulièrement bien à l'expérience d'Aodren en optimisation de processus.",
-    "lien": "https://sg.linkedin.com/jobs/view/junior-engineer-frontend-at-sea-4358394668",
-    "date_publication": "2026-02-18",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-19T08:55:38.534Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Junior Engineer, Frontend position at Sea. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation and I'm looking to bring that mindset to Sea.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript including an eye-tracking system, while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building innovative workplace solutions that enhance organizational capabilities at Sea.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-govtech-at-avepoint-4196532835",
-    "titre": "Software Engineer (GovTech)",
-    "entreprise": "AvePoint",
-    "entreprise_url": "https://www.linkedin.com/company/avepoint",
-    "localisation": "Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "On-site/Hybrid",
-    "stack": "JavaScript (ES5/6), Node.js, React.js, Karma/Mocha/Chai/Sinon, Selenium, Webpack/Gulp, Docker, AWS/Cloud, SQL/NoSQL databases, CI/CD",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (minimum 2 years or equivalent skill level)",
-    "score": 7,
-    "points_positifs": [
-      "Entry level avec flexibilité sur l'expérience (2 ans ou équivalent)",
-      "Stack full-stack JavaScript/Node/React aligné avec le profil et projets personnels",
-      "Opportunité GovTech à Singapour avec focus sur l'impact public",
-      "CI/CD, Docker et cloud comme nice-to-use (compétences déjà acquises)"
-    ],
-    "points_negatifs": [
-      "Plus de 200 candidats (concurrence élevée)",
-      "Exigence de 2 ans d'expérience bien que mitigée par 'or equivalent'"
-    ],
-    "commentaire": "Poste full-stack JavaScript à Singapour correspondant bien au profil d'Aodren, avec une exigence d'expérience flexible et des technologies maîtrisées (React, Node, Docker, CI/CD).",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-govtech-at-avepoint-4196532835",
-    "date_publication": "2026-02-18",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-19T08:55:38.534Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer (GovTech) position at AvePoint. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation and I'm looking to bring that mindset to AvePoint.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript including an eye-tracking system, while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to delivering impactful GovTech solutions that serve public sector needs.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-adaptive-cloud-systems-pte-ltd-4372640780",
-    "titre": "Software Engineer",
-    "entreprise": "Adaptive Cloud Systems Pte Ltd",
-    "entreprise_url": "https://sg.linkedin.com/company/adaptivecloudsystempteltd",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time/Permanent",
-    "type_travail": "On-site",
-    "stack": "C#, SQL Server, T-SQL, Entity Framework, Microservices, RESTful Web API, ASP.NET/MVC, React.js, AngularJS, Git, PostgreSQL, MySQL, MongoDB",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Entry level position parfaitement adapté au profil junior (0-3 ans)",
-      "Stack technique compatible : React, SQL/PostgreSQL, REST APIs, Git",
-      "Mention de l'IA comme avantage (added advantage) aligné avec l'expertise en automation et agents IA du candidat",
-      "Développement de solutions cloud-based (ERP/HRMS) correspondant au profil full-stack"
-    ],
-    "points_negatifs": [
-      "Stack principale C#/.NET non explicitement présente dans le profil (mais transférable depuis Java/C++)",
-      "Aucune mention de politique de visa sponsorship pour candidats internationaux"
-    ],
-    "commentaire": "Excellente opportunité d'entrée de gamme à Singapour avec une stack technique proche (React, SQL, REST) et une ouverture sur l'IA pour le développement logiciel, parfaitement alignée avec l'approche automation-first du candidat.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-adaptive-cloud-systems-pte-ltd-4372640780",
-    "date_publication": "2026-02-19",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-19T08:55:38.534Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer position at Adaptive Cloud Systems. I'm a Software Engineer who builds full-stack platforms powered by AI agents and automation and I'm looking to bring that mindset to Adaptive Cloud Systems.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript including an eye-tracking system, while maintaining product stability through ongoing bug resolution. I also built ValoFenua, a full-stack React platform with Supabase authentication, PostgreSQL database, and client-side PDF generation. I also automated installation processes at EXAIL, cutting deployment time from ~2 days to ~2 hours (85% reduction) and enabling non-technical staff to perform deployments independently.\n\nI'm completing my M.S. in Information Systems Engineering (expected 2026) and I'm eager to contribute to building scalable cloud-based HRMS and ERP solutions at Adaptive Cloud Systems.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-developer-up-to-270-000-sgd-base-%2B-bonus-%2B-benefits-at-hunter-bond-4372622074",
-    "titre": "Software Developer - Up to 270,000 SGD base + Bonus + Benefits",
-    "entreprise": "Hunter Bond",
-    "entreprise_url": "https://uk.linkedin.com/company/hunter-bond",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time/Permanent",
-    "type_travail": "Hybrid",
-    "stack": "Python, Java, C++, trading systems, automation frameworks",
-    "salaire": "Up to 270,000 SGD base + Bonus + Benefits",
-    "experience_requise": "Associate (1+ years)",
-    "score": 8,
-    "points_positifs": [
-      "Niveau Associate (1+ an) correspond parfaitement au profil avec 1.5 ans d'expérience professionnelle",
-      "Stack C++/Python/Java et focus sur l'automatisation des workflows alignés avec les compétences clés",
-      "Environnement trading temps réel valorise l'expérience eye-tracking en C++ chez EXAIL Robotics",
-      "Localisation Singapour et contrat full-time correspondent exactement aux critères de recherche"
-    ],
-    "points_negatifs": [
-      "Environnement de trading à haute fréquence potentiellement très exigeant et stressant",
-      "Rémunération élevée suggère des attentes très élevées en performance et disponibilité"
-    ],
-    "commentaire": "Poste parfaitement adapté au profil Associate avec forte correspondance sur la stack technique (C++, automation) et l'expérience temps réel. Opportunité idéale à Singapour dans la finance technologique.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-developer-up-to-270-000-sgd-base-%2B-bonus-%2B-benefits-at-hunter-bond-4372622074",
-    "date_publication": "2026-02-18",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-19T12:33:49.206Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Developer role supporting your trading and research systems. The automation focus and real-time requirements caught my attention.\n\nAt EXAIL Robotics, I develop an eye-tracking system in C++ and JavaScript. It's real-time software, not unlike trading infrastructure. I also rebuilt our deployment process. We went from 2 days to 2 hours. That's an 85% reduction.\n\nOutside of work, I built automated systems with n8n and AI agents. My real estate platform ValoFenua scrapes 1,300+ daily listings and runs an AI agent to estimate prices from live data. I build systems where automation drives the business logic.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. A high-performance, merit-based culture is exactly where I want to contribute.\n\nAodren Gloux"
+    "commentaire": "Poste entry level idéal à Singapour dans une scale-up AI profitable. Le profil C++/React d'Aodren correspond bien, bien que l'orientation Desktop/Electron nécessite une adaptation.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
+    "date_publication": "2026-02-23T00:00:00.000Z",
+    "nb_candidats": "109 applicants",
+    "date_ajout": "2026-02-23T15:47:46.358Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Engineer (Desktop) role at Plaud. Your work on AI-powered note-taking solutions sits at the intersection of software engineering and practical AI integration. That is exactly where I want to build.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. That is an 85% reduction in deployment time, and anyone on the team can run it now. On my own time, I built ValoFenua, a React application with Supabase and PostgreSQL that processes 1,300+ daily data points through AI agents.\n\nYou are looking for someone comfortable with both Electron and C++. I have shipped production C++ code and built complex React applications. I can handle the performance constraints of desktop applications while keeping the UI responsive and intuitive.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. Plaud's approach to capturing and utilizing intelligence through hardware-software combinations is compelling. I would welcome the chance to contribute to your desktop architecture.\n\nAodren Gloux"
   }
 ]
