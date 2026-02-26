@@ -1,150 +1,92 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/low-code-engineer-at-unison-group-4376549031",
-    "titre": "Low-Code Engineer",
-    "entreprise": "Unison Group",
-    "entreprise_url": "https://www.linkedin.com/company/unison-group-sg",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "Full-time",
-    "type_travail": "Other",
-    "stack": "OutSystems, Mendix, Power Apps, Git, HTML, CSS, JavaScript, SQL, NoSQL, APIs",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (2+ years mentioned)",
-    "score": 7,
-    "points_positifs": [
-      "Entry level position based in Singapore matching target location",
-      "Strong focus on automation and workflow optimization aligning with n8n experience",
-      "Full-time permanent contract type desired",
-      "Agile methodology and CI/CD practices match current experience"
-    ],
-    "points_negatifs": [
-      "Requires specific low-code platforms (OutSystems, Mendix, Power Apps) not present in current stack",
-      "2+ years experience requirement may be tight though entry-level tagged"
-    ],
-    "commentaire": "Bonne opportunité à Singapour pour un poste junior axé sur l'automatisation, bien que les plateformes low-code spécifiques demandées nécessiteront une montée en compétience rapide.",
-    "lien": "https://sg.linkedin.com/jobs/view/low-code-engineer-at-unison-group-4376549031",
-    "date_publication": "2026-02-23",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-02-23T15:47:46.358Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Low-Code Engineer role at Unison Group. Your focus on streamlining business processes through automated workflows matches exactly what I've been building, both professionally and on my own time.\n\nAt EXAIL Robotics, I redesigned our software installation process. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I built this automation using scripting and process optimization, making complex technical steps accessible to non-technical users. I also develop core features in C++ and JavaScript, including an eye-tracking system, so I understand both the business logic and the technical implementation.\n\nOutside of work, I built ValoFenua, a real estate platform that automates daily scraping of 1,300+ listings and processes them through AI-driven workflows. I handle the full stack, from React frontend to PostgreSQL databases, and I'm comfortable with REST APIs and third-party integrations. While I haven't used OutSystems or Mendix specifically, I've built complex automation pipelines with n8n and understand how to translate business requirements into technical specifications without heavy coding.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I like the idea of helping business teams move faster without getting blocked by traditional development bottlenecks.\n\nAodren Gloux\n"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
-    "titre": "Robotics Software Engineer",
-    "entreprise": "DSO National Laboratories",
-    "entreprise_url": "https://sg.linkedin.com/company/dso-national-laboratories",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "Non précisé",
-    "stack": "C/C++, Python, C#, Robotics, Hardware Integration, OOP",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Entry level position perfectly matching 0-3 years experience target",
-      "Direct alignment with current C++ robotics software development at EXAIL",
-      "Hardware integration and field testing experience fits the role requirements",
-      "Singapore target location"
-    ],
-    "points_negatifs": [
-      "High competition with over 200 applicants",
-      "Defense sector context may imply unstated citizenship or security clearance requirements"
-    ],
-    "commentaire": "Strong match for an entry-level robotics software role requiring C++ and hardware integration experience. The position directly leverages current work on eye-tracking systems and deployment automation.",
-    "lien": "https://sg.linkedin.com/jobs/view/robotics-software-engineer-at-dso-national-laboratories-4260006109",
-    "date_publication": "2026-02-23",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-23T15:47:46.358Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Robotics Software Engineer role at DSO National Laboratories. I currently develop software in C++ and JavaScript for an eye-tracking system at EXAIL Robotics. This involves writing code that interacts directly with hardware components and sensors in the loop.\n\nI also redesigned our installation process at EXAIL. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction in deployment time. I work comfortably with hardware teams during integration tests, both in controlled environments and field deployments.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. The opportunity to build autonomous systems for air, land and maritime domains at Singapore's leading defence research organization fits my background in robotics software and hardware integration.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
-    "titre": "Frontend Development Engineer (App)",
-    "entreprise": "Hyphen Connect",
-    "entreprise_url": "https://www.linkedin.com/company/hyphen-connect",
-    "localisation": "Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "Non précisé",
-    "stack": "JavaScript, React, HTML5, CSS3, Node.js, Webpack, Git",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (3+ ans ou profils juniors exceptionnels)",
-    "score": 7,
-    "points_positifs": [
-      "Entry level correspondant parfaitement au profil junior d'Aodren",
-      "Focus sur l'efficacité engineering et les outils internes, aligné avec l'expertise en automatisation",
-      "Stack React/JavaScript identique aux projets récents (ValoFenua, EXAIL)"
-    ],
-    "points_negatifs": [
-      "Plus de 200 candidats, forte concurrence",
-      "Aucune mention de sponsorship visa dans l'offre"
-    ],
-    "commentaire": "Poste d'entry level à Singapour axé sur les outils internes et l'efficacité engineering, correspondant parfaitement à l'expertise en automatisation et low-code d'Aodren.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
-    "date_publication": "2026-02-23",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-02-23T15:47:46.358Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Development Engineer role at Hyphen Connect. You mentioned building efficiency engineering platforms. That's exactly the work I enjoy.\n\nI currently write JavaScript and C++ at EXAIL Robotics. I rebuilt our installation process from scratch. It used to take 2 days. Now it takes 2 hours. Anyone on the team can run it. That's 85% less time wasted on deployment. I also built ValoFenua in React with Supabase backend. It handles 1,300+ daily records and generates PDF reports client-side. Beyond that, I automate complex workflows with n8n and AI agents. I build systems that remove repetitive work.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Your focus on internal tools and developer efficiency matches what I've been building on my own.\n\nAodren Gloux\n"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-infrastructure-at-exa-4376546668",
-    "titre": "Software Engineer, Infrastructure",
-    "entreprise": "Exa",
-    "entreprise_url": "https://www.linkedin.com/company/exa-ai",
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-triple-a-4378330724",
+    "titre": "Software Engineer",
+    "entreprise": "Triple-A",
+    "entreprise_url": "https://www.linkedin.com/company/triple-a-technology",
     "localisation": "Singapore, Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "Kubernetes, Rust, Ray, AWS, GPU clusters, Python",
-    "salaire": "SGD 90,000.00/yr - SGD 300,000.00/yr",
-    "experience_requise": "Entry level",
+    "stack": "Golang, TypeScript/JavaScript, Java, PostgreSQL, MySQL, CockroachDB, Docker, AWS, Kubernetes, Blockchain, Temporal, VueJS, SvelteKit",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate / Junior to Mid-Senior",
     "score": 7,
     "points_positifs": [
-      "Entry level position matching candidate experience level",
-      "Explicit visa sponsorship mentioned for international candidates",
-      "Singapore location matching target",
-      "AI company aligned with candidate interests",
-      "Competitive salary range"
+      "Poste ouvert aux niveaux Junior et Mid-Senior (Associate)",
+      "Stack JavaScript/TypeScript et PostgreSQL aligné avec le profil d'Aodren",
+      "Mention de workflow execution (Temporal) correspondant à l'expertise n8n et automation",
+      "Entreprise régulée (MAS Singapore) avec mission concrète de paiement digital"
     ],
     "points_negatifs": [
-      "Heavy infrastructure/DevOps focus (Kubernetes, GPU clusters) diverges from candidate's core software engineering background",
-      "Requires experience with large-scale infrastructure typically associated with senior roles",
-      "29 applicants already"
+      "Blockchain technology mentionné comme requis sans expérience spécifique préalable",
+      "49 candidats déjà sur l'offre",
+      "Kubernetes et Golang non maîtrisés mais mentionnés comme compétences clés"
     ],
-    "commentaire": "Entry-level infrastructure role at AI search company in Singapore with visa sponsorship. Heavy infrastructure focus but aligns with candidate's automation experience and interest in AI systems.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-infrastructure-at-exa-4376546668",
-    "date_publication": "2026-02-23T00:00:00.000Z",
-    "nb_candidats": "29 applicants",
-    "date_ajout": "2026-02-23T15:47:46.358Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer, Infrastructure role at Exa. You're building a search engine from scratch to power AI applications. That's the kind of deep technical infrastructure I want to work on.\n\nI currently develop software at EXAIL Robotics in C++ and JavaScript, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. Anyone on the team can run it. That's an 85% reduction in deployment time.\n\nOn my own time, I built ValoFenua, a real estate platform for French Polynesia. It scrapes 1,300+ listings daily and feeds them into an AI agent for price estimation. I also built an automated job search pipeline with n8n, AI agents, and an MCP server on a VPS. I know Docker and have managed VPS environments. I'm comfortable with the automation and infrastructure side.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Exa is tackling massive scale problems with GPU clusters and vector search. I want to help build that infrastructure.\n\nAodren Gloux"
+    "commentaire": "Opportunité solide dans la fintech crypto à Singapour pour un profil junior. L'expérience en automation et workflows d'Aodren (n8n, agents IA) est transposable aux besoins en orchestration (Temporal) mentionnés dans l'offre.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-triple-a-4378330724",
+    "date_publication": "2026-02-26",
+    "nb_candidats": "49 applicants",
+    "date_ajout": "2026-02-26T15:50:18.523Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Triple-A. Your work bridging traditional finance and digital currencies caught my attention, particularly the focus on stablecoin payments that eliminate volatility for businesses.\n\nI have practical experience with automation workflows and full-stack development. At EXAIL Robotics, I rebuilt our installation process and cut deployment time from 2 days to 2 hours. That's an 85% reduction, and now anyone on the team can run it without technical help. I also built ValoFenua, a real estate platform that processes 1,300+ daily listings through automated scraping and AI agents, using React, Supabase, and PostgreSQL. You mentioned Temporal for workflow execution. I've built similar event-driven automation pipelines using n8n and AI agents, so I understand the logic of reliable task orchestration.\n\nI'm proficient in JavaScript and relational databases, and I'm completing my M.S. in Information Systems Engineering. Working on payment systems at a licensed institution like Triple-A, where the infrastructure has real regulatory stakes, is exactly the kind of concrete engineering challenge I want to tackle next.\n\nAodren Gloux"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
-    "titre": "Frontend Engineer (Desktop)",
-    "entreprise": "Plaud",
-    "entreprise_url": "https://www.linkedin.com/company/plaudai",
-    "localisation": "Singapore",
+    "id": "https://sg.linkedin.com/jobs/view/ai-engineer-at-seatrium-4361578068",
+    "titre": "AI Engineer",
+    "entreprise": "Seatrium",
+    "entreprise_url": "https://www.linkedin.com/company/seatrium",
+    "localisation": "Singapore, Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "Electron, React/Vue, C++, JavaScript",
+    "stack": "Python, TensorRT, ONNX, AWS, Azure, GitHub, REST APIs, CI/CD",
     "salaire": "Non précisé",
     "experience_requise": "Entry level",
     "score": 7,
     "points_positifs": [
-      "Entry level position perfectly matching Aodren's experience level",
-      "Target location Singapore",
-      "Combines React (ValoFenua) and C++ (EXAIL) skills",
-      "High-growth AI company with $250M revenue run rate",
-      "Strong benefits including ESOP and best-in-class equipment"
+      "Poste entry level correspondant parfaitement à l'expérience (1.5 an)",
+      "Focus sur l'IA et l'automatisation des pipelines (MLOps)",
+      "Localisation cible à Singapour",
+      "Contrat full-time permanent"
     ],
     "points_negatifs": [
-      "109 applicants indicates high competition",
-      "Desktop/Electron focus is a shift from current web development experience",
-      "Requires adaptation to desktop-specific performance and compatibility constraints"
+      "Plus de 200 candidats (forte compétition)",
+      "Outils ML spécifiques (TensorRT, ONNX, quantization) non maîtrisés mais apprenables",
+      "Secteur maritime spécifique"
     ],
-    "commentaire": "Poste entry level idéal à Singapour dans une scale-up AI profitable. Le profil C++/React d'Aodren correspond bien, bien que l'orientation Desktop/Electron nécessite une adaptation.",
-    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-desktop-singapore-at-plaud-4351866939",
-    "date_publication": "2026-02-23T00:00:00.000Z",
-    "nb_candidats": "109 applicants",
-    "date_ajout": "2026-02-23T15:47:46.358Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Engineer (Desktop) role at Plaud. Your work on AI-powered note-taking solutions sits at the intersection of software engineering and practical AI integration. That is exactly where I want to build.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. That is an 85% reduction in deployment time, and anyone on the team can run it now. On my own time, I built ValoFenua, a React application with Supabase and PostgreSQL that processes 1,300+ daily data points through AI agents.\n\nYou are looking for someone comfortable with both Electron and C++. I have shipped production C++ code and built complex React applications. I can handle the performance constraints of desktop applications while keeping the UI responsive and intuitive.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. Plaud's approach to capturing and utilizing intelligence through hardware-software combinations is compelling. I would welcome the chance to contribute to your desktop architecture.\n\nAodren Gloux"
+    "commentaire": "Poste entry level en AI/MLOps idéalement situé à Singapour. Correspond bien à l'expérience en automation et intégration d'IA du candidat, bien qu'une montée en compétence sur les outils d'optimisation ML spécifiques soit nécessaire.",
+    "lien": "https://sg.linkedin.com/jobs/view/ai-engineer-at-seatrium-4361578068",
+    "date_publication": "2026-02-26T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-02-26T15:50:18.523Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the AI Engineer role at Seatrium. The intersection of industrial maritime systems and AI automation is exactly where I want to build.\n\nI built ValoFenua, a real estate platform that runs a daily scraper collecting 1,300+ listings and feeds them into an AI agent that calculates price estimates from live market data. I also built a job search automation pipeline with n8n, AI agents, and an MCP server. These systems handle end-to-end data flow, not just model training.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Building AI pipelines for maritime operations sounds like a concrete way to apply automation to complex physical systems.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/backend-software-engineer-tiktok-shop-trading-at-tiktok-4376776866",
+    "titre": "Backend Software Engineer, TikTok Shop (Trading)",
+    "entreprise": "TikTok",
+    "entreprise_url": "https://www.linkedin.com/company/tiktok",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "Full-time/Permanent",
+    "type_travail": "On-site",
+    "stack": "Java/Golang, Linux, MySQL, Redis, RocketMQ, backend services",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (0-3 years)",
+    "score": 7,
+    "points_positifs": [
+      "Associate level perfectly matches 1.5 years professional experience",
+      "Java backend stack aligns with candidate's technical skills",
+      "Singapore location matches candidate's target",
+      "ValoFenua project demonstrates relevant transaction platform experience"
+    ],
+    "points_negatifs": [
+      "High competition with 60 applicants",
+      "Professional e-commerce experience limited compared to preference",
+      "High-traffic scalability at TikTok scale is a stretch for current experience level"
+    ],
+    "commentaire": "Strong match for an Associate-level backend role in Singapore. The Java requirement fits Aodren's profile, and his automation/optimization experience (85% deployment reduction) aligns well with TikTok's performance focus.",
+    "lien": "https://sg.linkedin.com/jobs/view/backend-software-engineer-tiktok-shop-trading-at-tiktok-4376776866",
+    "date_publication": "2026-02-25T00:00:00.000Z",
+    "nb_candidats": "60 applicants",
+    "date_ajout": "2026-02-26T15:50:18.523Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Backend Software Engineer role in TikTok Shop's Trading domain. Building transaction systems that handle high traffic with low latency is exactly the kind of challenge I want to tackle.\n\nI currently develop software at EXAIL Robotics using C++ and JavaScript, and I have solid experience with Java from my academic and personal projects. I built ValoFenua, a real estate transaction platform that processes 1,300+ daily listings with automated pricing calculations. It uses PostgreSQL, REST APIs, and handles concurrent data processing similar to e-commerce flows.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction in deployment time. I shipped this improvement while maintaining core product features and fixing critical bugs.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. TikTok Shop's scale and your focus on reliable, efficient transactions is where I want to apply my backend skills next.\n\nAodren Gloux\n"
   }
 ]
