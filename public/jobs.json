@@ -6,26 +6,53 @@
     "entreprise_url": "https://id.linkedin.com/company/ratesg",
     "localisation": "Singapore",
     "type_contrat": "CDI/Permanent",
-    "type_travail": "",
-    "stack": "Automated testing tools, Agile methodologies",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Quality assurance metrics",
     "salaire": "Non précisé",
-    "experience_requise": "1-3 years",
+    "experience_requise": "1-3 ans",
     "score": 7,
     "points_positifs": [
       "Poste orienté vers l'automatisation des tests et l'amélioration de l'efficacité",
-      "Niveau d'expérience (1-3 ans) correspondant parfaitement au profil",
+      "Niveau d'expérience 'Associate' (1-3 ans) correspondant parfaitement au profil",
       "Secteur dynamique (Shopping & Retail)"
     ],
     "points_negatifs": [
-      "Le profil est plus orienté Software Engineer que Test Engineer pur",
-      "Nécessite un visa pour Singapour"
+      "Poste très focalisé sur le testing/QA plutôt que sur le développement de fonctionnalités pures"
     ],
-    "commentaire": "L'offre correspond bien au niveau d'expérience d'Aodren. Son expertise en automatisation est un atout direct pour maintenir et améliorer les frameworks de test de RateS.",
+    "commentaire": "Une excellente opportunité pour un profil junior qui maîtrise l'automatisation. Les compétences en scripting et en workflows d'Aodren sont directement transférables à la mise en place de frameworks de tests automatisés.",
     "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
-    "date_publication": "2026-03-02T00:00:00.000Z",
+    "date_publication": "2026-03-02",
     "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-03T10:58:57.156Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. I saw you are looking for someone to maintain testing frameworks and improve efficiency. My experience in both software development and process automation fits this need perfectly.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I can apply this same focus on reliability and speed to your QA metrics.\n\nOn my own time, I built ValoFenua, a full-stack React app with Supabase. It uses a daily scraper and an AI pipeline to process 1,300+ listings. This project required strict testing of data flows to ensure accurate price estimations. I'm used to handling complex systems and debugging defects in fast-paced environments.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I'd like to help RateS ensure its retail platform remains reliable as you scale.\n\nAodren Gloux"
+    "date_ajout": "2026-03-03T12:58:09.470Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns with my background in automating technical workflows. I am very interested in how RateS ensures reliability for its retail platform.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. I also redesigned the installation process at my current company. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. These types of efficiency gains are exactly what I enjoy implementing.\n\nOn my own time, I built ValoFenua, a full-stack React app with Supabase. It includes an automated daily scraper for 1,300+ listings. This project taught me how to handle complex data and ensure reliability across the entire system. I'm used to working with Agile methodologies and tracking performance metrics.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm excited about the possibility of helping RateS level up its market position through high-quality software testing.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378839419",
+    "titre": "Machine Learning Engineer(A83328A)",
+    "entreprise": "Xiaomi Technology",
+    "entreprise_url": "https://cn.linkedin.com/company/xiaomi-technology",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Java, Machine Learning, NLP, Search systems, Multimodal techniques",
+    "salaire": "Non précisé",
+    "experience_requise": "1 year",
+    "score": 7,
+    "points_positifs": [
+      "Poste Entry level correspondant aux 1.5 ans d'expérience d'Aodren",
+      "Forte composante IA/Automation qui match avec les projets personnels",
+      "Utilisation de Java, langage maîtrisé par le candidat"
+    ],
+    "points_negatifs": [
+      "Mention de la maîtrise du Mandarin comme un plus (collaboration avec la Chine)",
+      "Demande une expérience spécifique en systèmes de recommandation/search"
+    ],
+    "commentaire": "Une excellente opportunité chez un géant de la tech pour un profil junior. Le projet ValoFenua et l'automatisation n8n démontrent exactement la capacité à manipuler des données et des agents IA demandée ici.",
+    "lien": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378839419",
+    "date_publication": "2026-03-02",
+    "nb_candidats": "Less than 25",
+    "date_ajout": "2026-03-03T12:58:14.573Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Machine Learning Engineer position at Xiaomi. Your focus on optimizing recommendation quality through NLP and user profiling aligns perfectly with the automation systems I build. I have a solid background in Java and software architecture, which I understand is core to this role.\n\nI recently built ValoFenua, a real estate platform for French Polynesia. The system uses a daily scraper to collect over 1,300 listings and feeds them into an AI agent that estimates prices based on live market data. I also developed an automated job search pipeline using n8n and AI agents to process large datasets. These projects allowed me to manage the exact type of data flows and ML integrations you are looking for at Mi.com.\n\nAt my current company, I redesigned the installation process. It used to take about 2 days for the team to complete. Now it takes 2 hours and anyone can run it. This was an 85% reduction in deployment time that significantly improved our team's efficiency.\n\nI am currently finishing my M.S. in Information Systems Engineering. I am very interested in how Xiaomi scales recommendation engines for millions of users and would love to discuss how my automation experience fits your team.\n\nAodren Gloux"
   },
   {
     "id": "https://sg.linkedin.com/jobs/view/software-developer-python-sql-at-unison-group-4378130334",
@@ -34,54 +61,27 @@
     "entreprise_url": "https://www.linkedin.com/company/unison-group-sg",
     "localisation": "Singapore, Singapore",
     "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Python, SQL, R, Machine Learning, Power BI, Qlik, MS Access, Excel, VBA",
+    "type_travail": "On-site/Remote/Hybrid",
+    "stack": "Python, SQL, R, Power BI, Qlik, MS Access, VBA",
     "salaire": "Non précisé",
-    "experience_requise": "0.5 à 2 ans",
+    "experience_requise": "1 to 2 years (6 months considered)",
     "score": 8,
     "points_positifs": [
-      "Niveau d'expérience junior (6 mois acceptés) correspondant parfaitement au profil",
-      "Focus important sur l'automatisation de rapports et le machine learning",
-      "Stack Python/SQL maîtrisée par le candidat"
+      "Parfaite adéquation avec le niveau d'expérience (1-2 ans)",
+      "Forte composante automatisation et données",
+      "Utilisation centrale de Python et SQL",
+      "Ouverture aux outils d'IA et modèles ML"
     ],
     "points_negatifs": [
-      "Mention de Power BI/Qlik comme avantage (non listés dans le profil d'Aodren)",
-      "Secteur bancaire/AML très spécifique"
+      "Mention de VBA et MS Access (technologies vieillissantes)",
+      "Pas de mention explicite du travail hybride ou remote"
     ],
-    "commentaire": "Une excellente opportunité junior qui valorise l'automatisation de données et le développement Python, ce qui résonne avec les projets de scraping et d'IA d'Aodren.",
+    "commentaire": "L'offre correspond idéalement au profil d'Aodren. Elle demande du Python/SQL pour automatiser des rapports et travailler sur des modèles de données, ce qui fait écho à ses projets personnels et son expérience chez Exail.",
     "lien": "https://sg.linkedin.com/jobs/view/software-developer-python-sql-at-unison-group-4378130334",
     "date_publication": "2026-03-03T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-03T10:59:07.267Z",
-    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Software Developer role at Unison Group. Your focus on building automated reporting systems and integrating machine learning for AML matches my experience in Python and data processing. I thrive in roles where manual data tasks are replaced by efficient code.\n\nI built ValoFenua, a real estate platform for French Polynesia. It runs a daily scraper that collects 1,300+ property listings and feeds them into an AI agent that estimates prices from live market data. I also built an automated job search pipeline with n8n, AI agents, and a dedicated server. These systems handle the entire data lifecycle from scraping to final reporting.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I am comfortable working with SQL and Python to transform complex datasets into clear business insights.\n\nI am currently finishing my M.S. in Information Systems Engineering. I follow Unison Group's work in the financial sector and would appreciate the chance to discuss how my automation skills can support your data initiatives.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378839419",
-    "titre": "Machine Learning Engineer (A83328A)",
-    "entreprise": "Xiaomi Technology",
-    "entreprise_url": "https://cn.linkedin.com/company/xiaomi-technology",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "",
-    "stack": "Java, NLP, Machine Learning, Search Systems, Recommendation Algorithms",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1 year mentioned)",
-    "score": 7,
-    "points_positifs": [
-      "Poste Entry level ouvert aux jeunes diplômés",
-      "Forte dimension technique sur l'automatisation de données et l'IA",
-      "Utilisation de Java, un langage maîtrisé par le candidat"
-    ],
-    "points_negatifs": [
-      "La maîtrise du Mandarin est un plus (collaboration avec la Chine)",
-      "Demande une expérience spécifique en systèmes de recommandation/search"
-    ],
-    "commentaire": "Une excellente opportunité de type Entry Level dans une Big Tech à Singapour. Le profil d'Aodren avec ses projets n8n et son scraper automatisé matche bien avec les besoins en traitement de données et backend Java.",
-    "lien": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378839419",
-    "date_publication": "2026-03-02",
-    "nb_candidats": "Less than 25",
-    "date_ajout": "2026-03-03T10:59:12.275Z",
-    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Machine Learning Engineer position at Xiaomi Technology. Your focus on optimizing recommendation quality for Mi.com through NLP and modern ML techniques aligns perfectly with the automated data systems I develop. I have a strong foundation in Java and experience building end-to-end data pipelines.\n\nI built ValoFenua, a real estate platform for French Polynesia. It runs a daily scraper that collects 1,300+ property listings and feeds them into an AI agent that estimates prices from live market data. I also built an automated job search pipeline with n8n, AI agents, and an MCP server. These are systems where AI does the heavy lifting, not just assists.\n\nI also redesigned the installation process at my current company, EXAIL Robotics. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time. I am used to solving complex efficiency problems using clean code and smart automation.\n\nI am currently finishing my M.S. in Information Systems Engineering. I follow Xiaomi's growth in the global market closely and would like to help improve the shopping experience for your millions of users.\n\nAodren Gloux"
+    "date_ajout": "2026-03-03T12:58:20.179Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Developer role at Unison Group. Your focus on generating automated reports and using Python to solve business questions matches my background in workflow automation. I enjoy turning raw data into structured, actionable insights.\n\nI built ValoFenua, a real estate platform. It runs a daily scraper that collects over 1,300 property listings and feeds them into an AI agent to estimate market prices. I also redesigned the installation process at my current company, Exail Robotics. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. This was an 85% reduction in deployment time.\n\nI am currently completing my M.S. in Information Systems Engineering. I have strong experience with Python and SQL, and I am ready to apply these skills to Unison's data initiatives and fraud detection models.\n\nAodren Gloux"
   },
   {
     "id": "https://sg.linkedin.com/jobs/view/quality-automation-engineer-at-vdl-etg-singapore-4380190973",
@@ -91,82 +91,24 @@
     "localisation": "Singapore, Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "Python, Power Automate, SQL, APIs, System Integration",
+    "stack": "Python, Power Automate, SQL, APIs",
     "salaire": "Non précisé",
     "experience_requise": "2-5 years",
     "score": 7,
     "points_positifs": [
-      "Forte dimension automatisation et intégration de systèmes",
-      "Utilisation de Python et SQL correspondant au profil",
-      "Niveau Associate/Junior (2-5 ans)",
-      "Focus sur l'optimisation des workflows opérationnels"
+      "Forte emphase sur l'automatisation de workflows et l'intégration de systèmes",
+      "Utilisation d'outils familiers comme Python, SQL et le développement d'APIs",
+      "Niveau Associate correspondant bien au profil d'Aodren"
     ],
     "points_negatifs": [
-      "Requiert des connaissances en métrologie et processus Quality (MRB)",
-      "Besoin de visa non mentionné (-1 point)"
+      "Le candidat n'a pas encore le diplôme d'ingénieur complété (en cours 2026)",
+      "Demande un minimum de 2 ans d'expérience"
     ],
-    "commentaire": "L'offre est très axée sur l'automatisation de processus industriels et la réduction des délais d'exécution, ce qui matche parfaitement avec l'expérience d'Aodren chez EXAIL Robotics.",
+    "commentaire": "Ce poste est une excellente opportunité pour appliquer les compétences en automatisation de workflows et en scripting. L'expérience d'Aodren avec n8n et le scraping est très transférable au besoin de numérisation de la supply chain de VDL.",
     "lien": "https://sg.linkedin.com/jobs/view/quality-automation-engineer-at-vdl-etg-singapore-4380190973",
     "date_publication": "2026-03-03T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-03T10:59:17.179Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Quality Automation Engineer role at VDL ETG Singapore. Your focus on integrating inspection tools and streamlining data flow caught my attention. I specialize in building scripts and APIs that bridge the gap between manual operations and automated systems.\n\nIn my current role at EXAIL Robotics, I redesigned the installation process for our core software. It used to take about 2 days for a technician to complete. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I also built a personal automation pipeline using n8n and AI agents to handle complex data scraping and real-time processing.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've worked extensively with Python and SQL to automate workflows and maintain data integrity. My background in C++ and JavaScript helps me debug system communications quickly when integrating new hardware or APIs.\n\nI'm impressed by VDL ETG's commitment to digital transformation in supply chain quality. Looking forward to discussing how my automation background can help your local operations.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378829527",
-    "titre": "Machine Learning Engineer(A83328A)",
-    "entreprise": "Xiaomi Technology",
-    "entreprise_url": "https://cn.linkedin.com/company/xiaomi-technology",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Java, Machine Learning, NLP, Search systems, Algorithms",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1 year preferred)",
-    "score": 7,
-    "points_positifs": [
-      "Poste Entry level ouvert aux profils juniors",
-      "Forte dimension technique sur l'automatisation et l'IA",
-      "Correspondance avec les compétences Java et Algorithmique",
-      "L'aspect automatisation de données (scraping/processing) d'Aodren est un plus pour les profils utilisateurs"
-    ],
-    "points_negatifs": [
-      "La maîtrise du Mandarin est un plus (non détenue par le candidat)",
-      "Focalisation spécifique sur les systèmes de recommandation/search"
-    ],
-    "commentaire": "Une excellente opportunité en 'Entry Level' chez un géant de la tech où les compétences d'Aodren en traitement de données et IA (via n8n et ses projets perso) peuvent être valorisées sur la partie NLP et profilage.",
-    "lien": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378829527",
-    "date_publication": "2026-03-02",
-    "nb_candidats": "Less than 25",
-    "date_ajout": "2026-03-03T10:59:28.020Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Machine Learning Engineer role at Xiaomi. Your focus on optimizing recommendation quality on Mi.com caught my attention, especially the need for strong Java fundamentals and NLP integration.\n\nI built ValoFenua, a real estate platform that runs a daily scraper collecting 1,300+ listings. I use an AI agent to process this data and estimate prices based on live market trends. This project taught me how to handle large datasets and turn them into actionable insights, similar to how you refine user profiles.\n\nI also redesigned the installation process at my current company, EXAIL Robotics. It used to take about 2 days for the team to set up. Now it takes 2 hours and anyone can run it. This was an 85% reduction in deployment time through automation.\n\nI'm finishing my M.S. in Information Systems Engineering and I'm ready to apply my Java skills to improve the shopping experience for Xiaomi users.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378848281",
-    "titre": "Machine Learning Engineer (A83328A)",
-    "entreprise": "Xiaomi Technology",
-    "entreprise_url": "https://cn.linkedin.com/company/xiaomi-technology",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Java, Machine Learning, NLP, Multimodal techniques, Search systems, Algorithms",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level (1 year suggested)",
-    "score": 7,
-    "points_positifs": [
-      "Poste Entry level ouvert aux jeunes diplômés",
-      "Forte dimension IA/Automatisation correspondant aux projets personnels",
-      "Compétence Java demandée et maîtrisée par le candidat"
-    ],
-    "points_negatifs": [
-      "La maîtrise du Mandarin est un plus (collaboration avec la Chine)",
-      "Besoin probable de sponsorship"
-    ],
-    "commentaire": "Une opportunité idéale chez un grand constructeur pour appliquer des compétences en IA et Java sur des systèmes de recommandation à grande échelle.",
-    "lien": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-a83328a-at-xiaomi-technology-4378848281",
-    "date_publication": "2026-03-02T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-03T10:59:32.927Z",
-    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Machine Learning Engineer position at Xiaomi Technology. Your focus on optimizing recommendation quality on Mi.com through NLP and ranking systems aligns perfectly with my recent work in automated data processing and AI agents.\n\nI built ValoFenua, a real estate platform for French Polynesia. It runs a daily scraper that collects 1,300+ property listings and feeds them into an AI agent that estimates prices from live market data. I also built an automated job search pipeline with n8n, AI agents, and a dedicated MCP server. These projects required me to design systems where AI handles complex data flows efficiently.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I have a strong foundation in Java and algorithms, which I am ready to apply to your search and recall systems.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am excited about the chance to improve the shopping experience for Xiaomi's global user base through better recommendation metrics.\n\nAodren Gloux"
+    "date_ajout": "2026-03-03T12:58:26.688Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Quality Automation Engineer role at VDL ETG Singapore. Your focus on integrating inspection tools and streamlining quality processes through automation matches my background in building efficient, data-driven systems.\n\nAt EXAIL Robotics, I redesigned the software installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. This 85% reduction in deployment time shows how I approach automation to make complex workflows accessible and fast.\n\nI also built an automated job search pipeline using n8n and Python scripts on a VPS. This system handles data capture and processing autonomously, much like the automated results and real-time dashboards you need for your metrology equipment. I am comfortable working with SQL databases and APIs to ensure data integrity across different platforms.\n\nI'm finishing my M.S. in Information Systems Engineering. Your mission to drive digital transformation in Quality Operations is the exact type of challenge I enjoy solving with code. \n\nAodren Gloux"
   }
 ]
