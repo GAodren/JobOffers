@@ -1,93 +1,272 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-rapsodo-4378804004",
-    "titre": "Software Engineer",
-    "entreprise": "Rapsodo",
-    "entreprise_url": "https://www.linkedin.com/company/rapsodo",
-    "localisation": "Singapore, Singapore",
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "C++, Linux, Python, Bash, Computer Vision, Embedded Systems",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
     "salaire": "Non précisé",
-    "experience_requise": "3 ans (Associate level)",
+    "experience_requise": "1-3 years",
     "score": 7,
     "points_positifs": [
-      "Poste basé à Singapour (objectif géographique principal)",
-      "Stack technique aligné : C++, vision par ordinateur, systèmes embarqués",
-      "Niveau Associate (pas Senior strict)",
-      "Contexte produit hardware/software concret avec impact sportif",
-      "Premiers candidats (moins de 25 postulants)"
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
     ],
     "points_negatifs": [
-      "3 ans d'expérience requis contre 1.5 ans réel (mais niveau Associate)",
-      "Pas de mention du télétravail ou flexibilité"
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
     ],
-    "commentaire": "Poste de Software Engineer C++ à Singapour chez Rapsodo. Malgré l'exigence de 3 ans d'expérience, le niveau Associate et la stack (C++, computer vision) correspondent bien au profil d'Aodren, notamment son expérience en eye-tracking chez EXAIL.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-rapsodo-4378804004",
-    "date_publication": "2026-03-02",
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
     "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-02T16:54:24.129Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Rapsodo. Your work with computer vision in sports analytics connects directly with my recent experience building an eye-tracking system.\n\nI currently write C++ and JavaScript for a robotics product at EXAIL. I redesigned our installation process there. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction, and anyone on the team can run it.\n\nI also built ValoFenua, a real estate platform that scrapes 1,300+ listings daily and runs an AI agent for price estimation. It taught me end-to-end product development, from data pipelines to user interface.\n\nI'm finishing my M.S. in Information Systems Engineering. Rapsodo's use of real-time data to improve athletic performance is exactly the kind of practical engineering I want to work on.\n\nAodren Gloux"
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
   },
   {
-    "id": "https://sg.linkedin.com/jobs/view/ai-engineer-at-metacomp-4378808062",
-    "titre": "AI Engineer",
-    "entreprise": "MetaComp",
-    "entreprise_url": "https://sg.linkedin.com/company/metacompsg",
-    "localisation": "Singapore, Singapore",
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
     "type_contrat": "CDI/Permanent",
     "type_travail": "On-site",
-    "stack": "Python, AI tools (LLMs, automation tools), n8n",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
     "salaire": "Non précisé",
-    "experience_requise": "Entry level",
-    "score": 8,
-    "points_positifs": [
-      "Entry level parfaitement adapté au profil junior (0-1.5 ans)",
-      "Fort accent sur l'automatisation et les outils IA (n8n, LLMs)",
-      "Environnement fintech régulé MAS avec focus sur l'innovation",
-      "Opportunité de croissance en IA appliquée dans un secteur financier",
-      "Accepte les candidats avec peu d'expérience formelle mais forte capacité analytique"
-    ],
-    "points_negatifs": [
-      "Profil académique cible très orienté Maths/Physique (vs Ingénierie Informatique)",
-      "147 candidats (concurrence élevée)",
-      "Pas de mention de visa sponsorship (nécessaire pour un Français)"
-    ],
-    "commentaire": "Poste Entry Level idéal pour Singapour avec un focus rare sur l'IA appliquée et l'automatisation. L'expertise concrète d'Aodren en workflows n8n, agents IA et Python correspond exactement au besoin de MetaComp, malgré un profil académique plus technique que théorique.",
-    "lien": "https://sg.linkedin.com/jobs/view/ai-engineer-at-metacomp-4378808062",
-    "date_publication": "2026-03-02",
-    "nb_candidats": "147 applicants",
-    "date_ajout": "2026-03-02T16:54:24.129Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the AI Engineer role at MetaComp. Your work bridging traditional finance and digital assets through AI-driven automation caught my attention, particularly the focus on building practical solutions for real business use cases.\n\nI build systems where AI handles the heavy lifting. At EXAIL Robotics, I cut deployment time by 85%, reducing a 2-day process to 2 hours using automated scripts. On my own time, I developed ValoFenua, a real estate platform that runs a daily scraper collecting 1,300+ listings and feeds them into an n8n workflow with AI agents that calculate live price estimates from market data. I also built an autonomous job search pipeline using Python, n8n, and LLM integrations. These are concrete implementations of AI solving business problems, not just research experiments.\n\nI'm completing my M.S. in Information Systems Engineering with a strong foundation in statistics and optimization. I work with Python daily and I'm comfortable moving from theoretical models to production code quickly.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-promotion-at-shopee-4300227231",
-    "titre": "Backend Engineer - Marketplace, Promotion",
-    "entreprise": "Shopee",
-    "entreprise_url": "https://sg.linkedin.com/company/shopee",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Java, Python, Golang, C++, MySQL, Linux, PostgreSQL",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level",
+    "experience_requise": "1-3 years",
     "score": 7,
     "points_positifs": [
-      "Entry level parfaitement adapté au profil Junior (1.5 ans d'expérience)",
-      "Stack technique aligné : C++, Java et Python maîtrisés, expérience bases de données relationnelles",
-      "Plateforme marketplace à forte charge, excellent pour développer l'expertise backend",
-      "Localisation cible : Singapour"
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
     ],
     "points_negatifs": [
-      "Entreprise privilégie explicitement les candidats avec droit de travail local (visa sponsorship unlikely)",
-      "Plus de 200 candidats, concurrence très forte",
-      "Poste backend pur sans dimension automation ou IA explicite"
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
     ],
-    "commentaire": "Poste Entry Level idéal pour le profil technique (C++, Java) et l'objectif géographique Singapour, mais risque majeur sur l'obtention du visa puisque Shopee priorise les candidats locaux.",
-    "lien": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-promotion-at-shopee-4300227231",
-    "date_publication": "2026-03-02",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-03-02T16:54:24.129Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Backend Engineer role on your Marketplace Promotion team. I'm particularly interested in working on systems that handle vouchers and flash sales at scale.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. I also redesigned our installation process. It used to take about 2 days. Now it takes 2 hours. That's an 85% reduction in deployment time.\n\nOn my own time, I built ValoFenua, a real estate platform that runs a daily scraper processing 1,300+ listings. The system uses PostgreSQL for data storage and generates PDF reports on demand. It handles concurrent data processing and user authentication via Supabase.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. Working on Shopee's promotion mechanisms would be a great way to apply my backend skills to high-traffic marketplace systems.\n\nAodren Gloux"
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste Associate (Junior) correspondant parfaitement à l'expérience du candidat",
+      "Forte dimension automatisation et amélioration des processus",
+      "Entreprise dans le secteur Retail/E-commerce à Singapour"
+    ],
+    "points_negatifs": [
+      "Le candidat n'a pas un profil 'pure QA', son expérience est plus orientée Software Engineering"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'accent mis par RateS sur l'amélioration de l'efficacité via les outils d'automatisation permet de valoriser les projets personnels et l'expérience chez EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4377748801",
+    "date_publication": "2026-03-02T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-03T10:36:59.971Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in automating complex workflows.\n\nAt EXAIL Robotics, I develop core features in C++ and JavaScript. I also redesigned our installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This practical experience in identifying bottlenecks and building scripts to solve them is exactly what I want to bring to your QA processes.\n\nOn the side, I built ValoFenua, a full-stack React platform. It uses a daily scraper for 1,300+ listings and an AI agent to calculate price estimates. Managing these data pipelines taught me how to track metrics and ensure system reliability under real conditions.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed the growth of RateS in the social commerce space and would love to help ensure the quality of your platform as you scale.\n\nAodren Gloux\n"
   }
 ]
