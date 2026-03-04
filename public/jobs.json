@@ -139,5 +139,89 @@
     "nb_candidats": "134 applicants",
     "date_ajout": "2026-03-04T07:01:01.854Z",
     "cover_letter": "Dear Hiring Team,\n\nI am applying for the Frontend Engineer position within Shopee's Data Infrastructure team. Your focus on building large scale data platforms for analysts and ML teams aligns with my experience in creating tools that simplify complex data workflows.\n\nI currently develop core features at EXAIL Robotics using JavaScript and C++. On my own time, I built ValoFenua, a full stack React 19 application that handles over 1,300 daily property listings. I implemented the entire frontend and backend integration, which matches your requirements for building high quality UIs and designing data interfaces. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time.\n\nI am finishing my M.S. in Information Systems Engineering. I am particularly interested in how Shopee manages real time data processing and would love to help optimize the frontend performance of your infrastructure tools.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-pwc-singapore-4367579179",
+    "titre": "Software Engineer",
+    "entreprise": "PwC Singapore",
+    "entreprise_url": "https://sg.linkedin.com/company/pwc-singapore",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Microsoft Power Platform, Python, .NET, C#, JavaScript, MSSQL, Azure, SharePoint",
+    "salaire": "Non précisé",
+    "experience_requise": "3+ years (Fresh graduates welcome to apply)",
+    "score": 8,
+    "points_positifs": [
+      "L'offre accepte explicitement les jeunes diplômés (Fresh graduates welcome to apply)",
+      "Forte dimension automatisation (Power Automate, Copilot Studio) qui matche avec l'expertise n8n d'Aodren",
+      "Stack variée incluant Python, JavaScript et SQL"
+    ],
+    "points_negatifs": [
+      "Forte orientation vers l'écosystème Microsoft/Low-code (Power Platform) par rapport au dev pur C++/React",
+      "Le candidat n'a pas les certifications PL-900 ou AZ-900 mentionnées en préférence"
+    ],
+    "commentaire": "Une excellente opportunité chez un Big Four qui accepte les profils juniors. La demande en automatisation et en Python correspond parfaitement au profil d'Aodren, même si le poste est très orienté écosystème Microsoft.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-pwc-singapore-4367579179",
+    "date_publication": "2026-03-04T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-03-04T14:19:33.157Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at PwC Singapore. Your focus on building reusable solutions and using Power Automate to solve internal challenges aligns perfectly with my background in technical automation and workflow optimization.\n\nI have a strong track record of automating complex tasks. I built a job search pipeline with n8n and AI agents that handles scraping and data processing daily. I also developed ValoFenua, a real estate platform that uses a Python scraper to process 1,300+ listings and an AI agent to generate market estimates. I am comfortable with JavaScript, Python, and SQL, which allows me to bridge the gap between low-code tools and custom backend logic.\n\nAt my current role with EXAIL Robotics, I redesigned the installation process for our eye-tracking software. It used to take about 2 days for a technician to set up. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time through smart automation.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I value the diverse community of solvers at PwC and look forward to helping the Firmwide Corporate Services team scale their internal tools.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-autodesk-4371103831",
+    "titre": "Software Engineer",
+    "entreprise": "Autodesk",
+    "entreprise_url": "https://www.linkedin.com/company/autodesk",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "C++, C#, TypeScript, AI-powered workflows",
+    "salaire": "Non précisé",
+    "experience_requise": "2-5 years (Associate level)",
+    "score": 8,
+    "points_positifs": [
+      "Match technologique parfait avec C++ et TypeScript",
+      "Forte valorisation de l'automatisation et des workflows IA",
+      "Poste de niveau Associate correspondant bien au profil",
+      "Dimension internationale avec des équipes à Singapour et Shanghai"
+    ],
+    "points_negatifs": [
+      "Demande 2 ans d'expérience minimum, le candidat en a 1.5 en cumulé"
+    ],
+    "commentaire": "L'offre est idéale car elle combine le C++ (coeur de l'expérience actuelle d'Aodren) avec des missions d'automatisation et d'IA, ce qui correspond exactement à ses projets personnels récents.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-autodesk-4371103831",
+    "date_publication": "2026-03-04T00:00:00.000Z",
+    "nb_candidats": "113 applicants",
+    "date_ajout": "2026-03-04T14:19:37.760Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Autodesk. Your focus on building data services for Fusion360 and integrating AI workflows caught my attention. My background in C++ and TypeScript matches your technical needs, and I enjoy solving complex performance challenges.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. I also redesigned the installation process at my company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. \n\nOn the AI side, I built an automated agent using n8n and LLM integrations for a real estate platform. It processes 1,300+ daily listings to generate market estimates. I am comfortable building these types of automated systems where technology handles the heavy lifting directly.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've long admired how Autodesk tools turn complex ideas into reality, and I'd like to help your team maintain that standard for Fusion360.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/game-programmer-at-garena-4364913778",
+    "titre": "Game Programmer",
+    "entreprise": "Garena",
+    "entreprise_url": "https://sg.linkedin.com/company/garena",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "C++, C#, Unity, Unreal Engine",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Poste Entry level correspondant parfaitement au profil junior",
+      "Utilisation intensive du C++ qui est une compétence forte du candidat",
+      "Focalisation sur la résolution de bugs et la performance système"
+    ],
+    "points_negatifs": [
+      "Forte concurrence (plus de 200 candidats)",
+      "Le candidat n'a pas de projet de jeu vidéo pur dans son portfolio actuel"
+    ],
+    "commentaire": "Une excellente opportunité junior chez un leader du jeu vidéo à Singapour. Le profil technique en C++ (Exail Robotics) et la capacité à automatiser des outils internes correspondent aux besoins de Garena en efficacité de développement.",
+    "lien": "https://sg.linkedin.com/jobs/view/game-programmer-at-garena-4364913778",
+    "date_publication": "2026-03-04T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-03-04T14:19:46.621Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Game Programmer role at Garena. My background in C++ development and my focus on building efficient, automated systems align with your need for stable gameplay and improved development tools.\n\nI currently develop and maintain core software features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase and daily web scrapers. These projects taught me how to handle complex data and ensure system stability under load.\n\nI also redesigned the installation process at my current company. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I want to apply this same drive for efficiency to Garena's development pipelines and shared tools.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed Garena's growth in the competitive gaming space and would welcome the chance to help build your next generation of playable builds.\n\nAodren Gloux"
   }
 ]
