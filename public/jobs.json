@@ -223,5 +223,119 @@
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-03-04T14:19:46.621Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Game Programmer role at Garena. My background in C++ development and my focus on building efficient, automated systems align with your need for stable gameplay and improved development tools.\n\nI currently develop and maintain core software features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase and daily web scrapers. These projects taught me how to handle complex data and ensure system stability under load.\n\nI also redesigned the installation process at my current company. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I want to apply this same drive for efficiency to Garena's development pipelines and shared tools.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed Garena's growth in the competitive gaming space and would welcome the chance to help build your next generation of playable builds.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/graduate-hiring-front-end-engineer-at-matrixport-official-4330629243",
+    "titre": "Graduate Hiring - Front-end Engineer",
+    "entreprise": "Matrixport Official",
+    "entreprise_url": "https://sg.linkedin.com/company/matrixport",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "JavaScript, HTML, CSS, Vue, React, web3.js, Node.JS, PHP, Golang",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (Fresh Graduates or under 2 years experience)",
+    "score": 8,
+    "points_positifs": [
+      "Parfaitement adapté au profil Junior (0-2 ans d'expérience)",
+      "Forte correspondance technique avec React, Node.js et les APIs",
+      "Poste orienté Web3 et innovation, en lien avec les projets persos du candidat"
+    ],
+    "points_negatifs": [
+      "Nécessite un visa (score réduit de 1)",
+      "Compétition élevée (plus de 200 candidats)",
+      "La maîtrise du Mandarin est un plus non possédé"
+    ],
+    "commentaire": "Une opportunité graduate idéale chez une licorne de la fintech. Le profil d'Aodren avec ValoFenua et ses automations montre sa capacité à gérer des projets de bout en bout.",
+    "lien": "https://sg.linkedin.com/jobs/view/graduate-hiring-front-end-engineer-at-matrixport-official-4330629243",
+    "date_publication": "2026-03-05",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-03-05T07:00:32.698Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Graduate Front-end Engineer role at Matrixport. Your focus on building scalable digital financial services for the next billion users matches my interest in creating high-performance web applications. I have experience with React and Node.js through both professional work and complex personal projects.\n\nI recently built ValoFenua, a real estate platform for French Polynesia. It is a React SPA that uses Supabase for authentication and PostgreSQL for data management. I integrated a daily scraper that tracks over 1,300 listings and uses an AI agent to calculate price ranges. This project required balancing performance with smooth user interaction, similar to the requirements for your web and H5 platforms.\n\nAt EXAIL Robotics, I currently develop core features in C++ and JavaScript. I also redesigned the installation process for our software. It used to take about 2 days for the technical team to deploy. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am excited about the chance to apply my technical skills to the crypto and DeFi ecosystem at Matrixport.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-developer-at-cygnify-4378598388",
+    "titre": "Software Developer",
+    "entreprise": "Cygnify",
+    "entreprise_url": "https://sg.linkedin.com/company/cygnify",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "C# .NET, MS SQL, Angular, Microservices, Generative AI, AI Agents",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Poste ouvert aux profils Entry level",
+      "Forte dimension automatisation et IA générative/agents",
+      "Correspondance avec l'expérience en C++ et SQL",
+      "Secteur robotique/manufacturing en lien avec EXAIL"
+    ],
+    "points_negatifs": [
+      "Demande spécifiquement du C# .NET et Angular alors que le candidat est plus C++/React",
+      "Besoin de visa non mentionné"
+    ],
+    "commentaire": "L'offre est idéale car elle combine le développement de systèmes complexes (manufacturing) avec l'intégration d'agents IA, ce qui correspond exactement aux projets personnels d'Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-developer-at-cygnify-4378598388",
+    "date_publication": "2026-03-04T00:00:00.000Z",
+    "nb_candidats": "36 applicants",
+    "date_ajout": "2026-03-05T07:00:37.291Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Software Developer role at Cygnify. My background in developing core features for robotics and my recent work with AI agents align well with your focus on intelligent production planning and enterprise automation.\n\nI recently built an automated job search pipeline using n8n and AI agents hosted on a VPS. I also developed ValoFenua, a real estate platform that uses a daily scraper for 1,300 listings to feed an AI agent for price estimation. These projects show how I integrate Generative AI into functional workflows to solve complex data challenges.\n\nAt EXAIL Robotics, I redesigned our installation process. It used to take about 2 days to complete. I reduced this to 2 hours, making the deployment 85% faster and accessible to everyone on the team. I am comfortable working with C-family languages and SQL to build reliable systems.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am particularly interested in how Cygnify applies agentic AI to manufacturing and would enjoy discussing how my automation experience fits your current projects.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/graduate-hiring-qa-engineer-at-matrixport-official-4331562202",
+    "titre": "Graduate Hiring - QA Engineer",
+    "entreprise": "Matrixport Official",
+    "entreprise_url": "https://sg.linkedin.com/company/matrixport",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Python, Go, Java, Distributed Systems, Databases",
+    "salaire": "Non précisé",
+    "experience_requise": "Fresh Graduate / Under 2 years experience",
+    "score": 8,
+    "points_positifs": [
+      "Parfaitement adapté au niveau d'expérience d'Aodren (Graduate program)",
+      "Forte emphase sur l'automatisation des tests et la programmation (Python/Java)",
+      "Matrixport est une licorne majeure dans la Fintech/Web3 à Singapour"
+    ],
+    "points_negatifs": [
+      "Le poste est orienté QA/Testing alors qu'Aodren a un profil plus orienté Software Engineer pur",
+      "Compétition élevée (plus de 200 candidats)"
+    ],
+    "commentaire": "Une excellente opportunité de 'Graduate' à Singapour dans une entreprise de premier plan. Le profil d'Aodren en automatisation (n8n, Python) colle parfaitement aux besoins en tests automatisés.",
+    "lien": "https://sg.linkedin.com/jobs/view/graduate-hiring-qa-engineer-at-matrixport-official-4331562202",
+    "date_publication": "2026-03-05T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-03-05T07:00:51.533Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Graduate QA Engineer position at Matrixport. I saw your focus on building secure and scalable digital financial services, and I want to apply my background in automation and software reliability to your quality assurance processes.\n\nI built an automated job search pipeline using n8n and AI agents, which involves daily scraping and data processing. This project required constant monitoring and debugging to ensure data integrity, much like the reliability testing mentioned in your requirements. I also developed ValoFenua, a React and Supabase platform that handles real-time data scraping for over 1,300 daily listings, where I implemented rigorous data validation to ensure accurate price estimations.\n\nAt EXAIL Robotics, I redesigned the installation and deployment process. It used to take about 2 days, but it now takes 2 hours. This 85% reduction in deployment time made the process reliable and accessible for the whole team. This experience taught me how to identify bottlenecks and automate manual tasks to improve overall product quality.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am excited about the prospect of joining a leader in the crypto ecosystem like Matrixport and contributing to the stability of your Web3 products.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/net-backend-developer-at-frontline-data-solutions-4378983541",
+    "titre": ".NET Backend Developer",
+    "entreprise": "Frontline Data Solutions",
+    "entreprise_url": "https://www.linkedin.com/company/frontline-data-solutions",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "Remote",
+    "stack": "C#, .NET Core, SQL, Entity Framework, REST APIs, Elasticsearch",
+    "salaire": "$28,000.00/yr - $32,000.00/yr",
+    "experience_requise": "Entry level",
+    "score": 8,
+    "points_positifs": [
+      "Poste Entry level correspondant parfaitement aux 0-3 ans d'expérience",
+      "Stack technique orientée Backend (C#, SQL, APIs) totalement compatible",
+      "Entreprise travaillant sur des problématiques de sécurité et conformité"
+    ],
+    "points_negatifs": [
+      "Rémunération affichée relativement basse pour Singapour",
+      "Le candidat n'a pas listé C#/.NET explicitement, bien qu'il maîtrise le C++ et le Java"
+    ],
+    "commentaire": "Une excellente opportunité en 'Entry Level' pour un profil backend. La transition du C++/Java vers le C# est naturelle et les compétences en bases de données et APIs d'Aodren sont très pertinentes.",
+    "lien": "https://sg.linkedin.com/jobs/view/net-backend-developer-at-frontline-data-solutions-4378983541",
+    "date_publication": "2026-03-04T00:00:00.000Z",
+    "nb_candidats": "29 applicants",
+    "date_ajout": "2026-03-05T07:01:01.371Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the .NET Backend Developer role at Frontline Data Solutions. Your focus on modernizing monolithic architectures into service-oriented systems caught my attention, as I enjoy building clean and scalable backend logic.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app using Supabase and PostgreSQL with daily automated scraping and PDF report generation. I am very comfortable with relational databases and designing RESTful APIs that handle real-world data.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time and a huge improvement in team autonomy.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed Frontline's work in safety and compliance, and I'd like to help improve the data workflows that protect your customers' employees.\n\nAodren Gloux"
   }
 ]
