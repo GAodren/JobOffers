@@ -337,5 +337,177 @@
     "nb_candidats": "29 applicants",
     "date_ajout": "2026-03-05T07:01:01.371Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the .NET Backend Developer role at Frontline Data Solutions. Your focus on modernizing monolithic architectures into service-oriented systems caught my attention, as I enjoy building clean and scalable backend logic.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app using Supabase and PostgreSQL with daily automated scraping and PDF report generation. I am very comfortable with relational databases and designing RESTful APIs that handle real-world data.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time and a huge improvement in team autonomy.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed Frontline's work in safety and compliance, and I'd like to help improve the data workflows that protect your customers' employees.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/ola-trainee-back-end-engineer-at-ola-chat-4380223617",
+    "titre": "Ola Trainee - Back-End Engineer",
+    "entreprise": "Ola Chat",
+    "entreprise_url": "https://sg.linkedin.com/company/ola-chat-official",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Go, PHP, Java, MySQL, Redis, Linux, Docker, AI-driven development",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level / Fresh graduates",
+    "score": 7,
+    "points_positifs": [
+      "Poste ouvert aux débutants (Entry level)",
+      "Stack technique très compatible (PHP, MySQL, Docker)",
+      "Valorisation explicite de l'usage de l'IA pour la productivité",
+      "Missions centrées sur le backend et les APIs"
+    ],
+    "points_negatifs": [
+      "La maîtrise du Mandarin est exigée pour échanger avec le HQ en Chine",
+      "Besoin de visa pour Singapour"
+    ],
+    "commentaire": "L'offre correspond parfaitement au niveau d'expérience et aux compétences techniques (PHP/SQL/Docker). Le point bloquant potentiel est l'exigence du Mandarin, mais le profil technique sur l'automatisation IA est un avantage compétitif majeur ici.",
+    "lien": "https://sg.linkedin.com/jobs/view/ola-trainee-back-end-engineer-at-ola-chat-4380223617",
+    "date_publication": "2026-03-06T00:00:00.000Z",
+    "nb_candidats": "48 applicants",
+    "date_ajout": "2026-03-06T07:00:31.967Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Back-End Engineer role at Ola Chat. Your focus on AI-driven development and solid backend architecture caught my attention, as I focus on building efficient systems that bridge complex logic with clean code.\n\nI currently work at EXAIL Robotics developing core features in C++ and JavaScript. I recently redesigned our installation process, which used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. For my personal projects, I built ValoFenua, a full-stack platform using React and Supabase that handles daily scrapers and PostgreSQL database management.\n\nI also have experience with automation and AI agents. I built a pipeline using n8n and an MCP server to manage data workflows. I use AI tools to speed up my coding and documentation process while ensuring the output remains maintainable. My background in PHP and MySQL matches your core stack perfectly.\n\nI'm finishing my M.S. in Information Systems Engineering. I'm excited about the possibility of bringing my automation mindset to help Ola Chat scale its server-side services.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-rockwell-automation-4381451095",
+    "titre": "Software Engineer",
+    "entreprise": "Rockwell Automation",
+    "entreprise_url": "https://www.linkedin.com/company/rockwell-automation",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "C#, .NET Core, ASP.NET, SQL Server, C++, WCF, HTTP/HTTPS",
+    "salaire": "Non précisé",
+    "experience_requise": "2-3 ans",
+    "score": 8,
+    "points_positifs": [
+      "Niveau Entry level officiellement affiché",
+      "Stack technique accessible (C++ et SQL)",
+      "Entreprise industrielle majeure correspondant au background technique du candidat",
+      "Appréciation du profil 'maker' et 'problem solver'"
+    ],
+    "points_negatifs": [
+      "Demande spécifique pour le C#/.NET alors que le candidat est plus C++/JS",
+      "Mention de l'avantage Mandarin pour la collaboration avec la Chine"
+    ],
+    "commentaire": "Une excellente opportunité dans une entreprise leader de l'automatisation industrielle. Le profil d'Aodren (C++ chez Exail Robotics) matche bien avec les besoins en développement de produits logiciels industriels.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-rockwell-automation-4381451095",
+    "date_publication": "2026-03-05",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-06T07:00:36.550Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Rockwell Automation. My background in developing core features for robotics systems at EXAIL matches your focus on making manufacturers more productive and agile through robust software.\n\nI currently develop and maintain a software product in C++ and JavaScript, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase auth, PostgreSQL, and automated PDF report generation. I am comfortable with relational databases and debugging complex algorithms in a product development environment.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy finding these kinds of efficiency gains in existing workflows.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I've followed Rockwell's work in industrial automation for a while and would appreciate the chance to discuss how my technical skills can support your Singapore engineering team.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-web-developer-at-rockwell-automation-4381430969",
+    "titre": "Software Engineer (Web Developer)",
+    "entreprise": "Rockwell Automation",
+    "entreprise_url": "https://www.linkedin.com/company/rockwell-automation",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "JavaScript, TypeScript, HTML, CSS, Angular, RESTful APIs, .NET Core",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level / 2-3 years",
+    "score": 8,
+    "points_positifs": [
+      "Poste Entry level ouvert aux profils juniors",
+      "Stack technique pertinente (JavaScript, APIs REST, .NET)",
+      "Entreprise industrielle majeure avec des enjeux de productivité concrets"
+    ],
+    "points_negatifs": [
+      "La maîtrise du Mandarin est un avantage mentionné pour collaborer avec la Chine",
+      "L'offre mentionne 2-3 ans d'expérience web spécifique alors que le profil est plus généraliste"
+    ],
+    "commentaire": "Une excellente opportunité dans une boîte d'automation industrielle. Le profil d'Aodren en robotique (Exail) et ses projets full-stack collent parfaitement à l'esprit technique de Rockwell.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-web-developer-at-rockwell-automation-4381430969",
+    "date_publication": "2026-03-05T00:00:00.000Z",
+    "nb_candidats": "91 applicants",
+    "date_ajout": "2026-03-06T07:00:41.198Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer (Web Developer) role at Rockwell Automation. Your focus on making manufacturers more productive resonates with my background in industrial robotics and process optimization.\n\nI currently develop web components and core features in C++ and JavaScript at EXAIL Robotics. On my own time, I built ValoFenua, a full-stack React app with Supabase auth and PostgreSQL. This project includes a daily scraper and automated PDF generation, which aligns with your need for developers who can integrate RESTful APIs and build scalable UI components. \n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy solving these types of efficiency problems.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed Rockwell's work in industrial automation for a while and would appreciate the chance to discuss how my technical skills can support your Singapore team.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-frontend-at-epam-systems-4379854214",
+    "titre": "Software Engineer (Frontend)",
+    "entreprise": "EPAM Systems",
+    "entreprise_url": "https://www.linkedin.com/company/epam-systems",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "React, TypeScript, Node.js, JavaScript, HTML, CSS, Unix, Bash, CI/CD",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (1-3 ans)",
+    "score": 8,
+    "points_positifs": [
+      "Parfait match avec la stack React/TypeScript/Node.js",
+      "Niveau Associate correspondant à l'expérience du candidat",
+      "Forte culture d'apprentissage et de mentorat mentionnée",
+      "Localisation cible (Singapour)"
+    ],
+    "points_negatifs": [
+      "Besoin de visa mentionné implicitement par la localisation",
+      "Secteur financier (Trading) nouveau pour le candidat"
+    ],
+    "commentaire": "Excellente opportunité car la stack technique est identique aux projets personnels d'Aodren (React, Node, TypeScript). Le niveau 'Associate' est le positionnement idéal.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-frontend-at-epam-systems-4379854214",
+    "date_publication": "2026-03-05T00:00:00.000Z",
+    "nb_candidats": "58 applicants",
+    "date_ajout": "2026-03-06T07:00:45.876Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer (Frontend) role at EPAM Systems. I saw you are looking for someone to build trading platform features using React and TypeScript. My experience with these exact tools on complex personal projects makes me a great fit for this position.\n\nI built ValoFenua, a full-stack React SPA for real estate data. It uses a PostgreSQL backend and handles automated data scraping daily. I also develop core features in C++ and JavaScript at EXAIL Robotics, where I focus on performance and clean code. I'm very comfortable with Node.js and Unix environments, which align with your requirements.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy making technical processes simple and efficient for the whole team.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed EPAM's growth in Singapore and would love to help scale your financial products with high-quality frontend code.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/frontend-engineer-at-mixue-group-4381914496",
+    "titre": "Frontend Engineer",
+    "entreprise": "MIXUE Group",
+    "entreprise_url": "https://cn.linkedin.com/company/%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "",
+    "stack": "HTML5, CSS, Vue.js, JavaScript, Node.js, Bootstrap, Webpack, Gulp, Flutter",
+    "salaire": "Non précisé",
+    "experience_requise": "3 ans",
+    "score": 7,
+    "points_positifs": [
+      "Poste orienté Frontend et optimisation de performance",
+      "Usage de Vue.js et Node.js correspondant aux compétences",
+      "Bonus pour l'intégration de l'IA et des LLM dans le workflow de développement",
+      "L'entreprise cherche un profil autonome capable de gérer l'implémentation de bout en bout"
+    ],
+    "points_negatifs": [
+      "Demande 3 ans d'expérience minimum (Aodren en a 1.5 + projets)",
+      "Mention de technologies hybrides (H5/Native) plus spécifiques que le profil type"
+    ],
+    "commentaire": "L'offre est intéressante car elle valorise l'intégration de l'IA dans le workflow, ce qui est une force d'Aodren. Malgré les 3 ans demandés, ses projets personnels comme ValoFenua démontrent une autonomie sur le cycle complet de développement.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-engineer-at-mixue-group-4381914496",
+    "date_publication": "2026-03-06",
+    "nb_candidats": "42",
+    "date_ajout": "2026-03-06T07:00:56.103Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Engineer role at MIXUE Group. Your focus on optimizing platforms for global markets and integrating AI into development workflows caught my attention. I specialize in building responsive, data-driven interfaces that scale.\n\nI built ValoFenua, a full-stack React SPA with Supabase and PostgreSQL. It features a daily scraper for 1,300+ listings and an AI agent to calculate property estimates. I also develop core features in C++ and JavaScript at EXAIL Robotics, where I redesigned our installation process. It used to take 2 days, but now it takes 2 hours. This 85% reduction in deployment time made the system accessible to our entire team.\n\nI am currently completing my M.S. in Information Systems Engineering. I have strong experience with Vue.js, Node.js, and responsive layouts. My background in automation helps me focus on performance and clean, maintainable code.\n\nI look forward to the possibility of discussing how my technical skills can support MIXUE's global frontend initiatives.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-for-digital-manufacturing-at-globalfoundries-4381423256",
+    "titre": "Machine Learning Engineer for Digital Manufacturing",
+    "entreprise": "GlobalFoundries",
+    "entreprise_url": "https://www.linkedin.com/company/globalfoundries",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "PyTorch, Scikit-Learn, LangChain, MLOps, CI/CD, AWS",
+    "salaire": "Non précisé",
+    "experience_requise": "Entry level (2 years mentioned in description)",
+    "score": 8,
+    "points_positifs": [
+      "Poste orienté AI Integration et GenAI qui correspond parfaitement aux projets personnels (n8n, agents IA)",
+      "Niveau Entry level affiché par LinkedIn",
+      "Forte dimension automatisation et déploiement"
+    ],
+    "points_negatifs": [
+      "Demande 2 ans d'expérience spécifique en ML (Aodren a 1.5 ans en software général)",
+      "Mention de AWS spécifique alors qu'Aodren utilise plutôt des VPS/Supabase"
+    ],
+    "commentaire": "Excellent match car l'offre demande des compétences en intégration d'IA et en déploiement (MLOps), ce qui rejoint directement ses projets personnels automatisés et son expérience en optimisation de process chez Exail.",
+    "lien": "https://sg.linkedin.com/jobs/view/machine-learning-engineer-for-digital-manufacturing-at-globalfoundries-4381423256",
+    "date_publication": "2026-03-05T00:00:00.000Z",
+    "nb_candidats": "27 applicants",
+    "date_ajout": "2026-03-06T07:01:05.916Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Machine Learning Engineer position at GlobalFoundries. Your focus on building and scaling AI/ML projects for digital manufacturing caught my attention, especially the need for practical model deployment and MLOps.\n\nI built an automated job search pipeline using n8n and AI agents hosted on a VPS. It uses a custom MCP server to manage live data and browser automation. I also developed ValoFenua, where a daily scraper processes 1,300+ property listings through an AI agent to generate real-time market estimates. These projects allowed me to solve the exact type of unstructured data problems mentioned in your job description.\n\nAt my current role with EXAIL Robotics, I redesigned the installation process for our core software. It used to take about 2 days for a technician to set up. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time through automation.\n\nI am finishing my M.S. in Information Systems Engineering and I am ready to apply this automation mindset to your AI Integration team. I am particularly interested in how GlobalFoundries scales these solutions across its global manufacturing footprint.\n\nAodren Gloux"
   }
 ]
