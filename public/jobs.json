@@ -588,5 +588,171 @@
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-03-25T07:02:04.704Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Developer role at Julius Baer. I saw that you are looking for someone to maintain trading platforms and improve core libraries using React and TypeScript, which aligns perfectly with my recent full-stack projects.\n\nI currently develop and maintain a software product in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase auth and PostgreSQL. This project handles complex data flows and generates automated reports for users. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I am particularly interested in how Julius Baer integrates agile workflows with high-quality financial software. I look forward to the possibility of helping your team build more efficient trading tools.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4390232246",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "",
+    "stack": "Automated testing tools, Agile, QA metrics",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Positionnée comme rôle Associate (parfait pour le profil junior)",
+      "Focus important sur l'automatisation des tests et l'amélioration de l'efficience",
+      "Correspondance exacte avec la fourchette d'expérience (1-3 ans)"
+    ],
+    "points_negatifs": [
+      "Poste orienté QA/Test plutôt que pur Software Engineering",
+      "Localisation à Singapour sans mention de visa"
+    ],
+    "commentaire": "Une excellente opportunité pour valoriser les compétences en automatisation dans un environnement retail dynamique. L'expérience en déploiement et en scripting d'Aodren est directement transférable au test automatisé.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4390232246",
+    "date_publication": "2026-03-25T00:00:00.000Z",
+    "nb_candidats": "29 applicants",
+    "date_ajout": "2026-03-26T07:00:49.461Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in software automation and quality assurance.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics, where I also redesigned the software installation process. It used to take about 2 days to deploy. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This mindset of optimizing manual processes is exactly what I want to apply to your testing pipelines.\n\nTo manage my own projects, I built a custom pipeline using n8n and AI agents that scrapes data and monitors system health daily. I am also comfortable with React and PostgreSQL through my platform ValoFenua, which helps me understand the full-stack architecture I would be testing.\n\nI am completing my M.S. in Information Systems Engineering. I follow RateS's growth in the social commerce space and look forward to helping ensure your platform remains reliable as you scale.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/junior-software-engineer-pl-sql-fresh-graduates-at-synpulse-4390311686",
+    "titre": "Junior Software Engineer | PL/SQL (Fresh Graduates)",
+    "entreprise": "Synpulse",
+    "entreprise_url": "https://ch.linkedin.com/company/synpulsemc",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Oracle, PL/SQL, JavaScript, HTML, XML, CSS, Angular JS",
+    "salaire": "Non précisé",
+    "experience_requise": "Fresh Graduates",
+    "score": 8,
+    "points_positifs": [
+      "Cible explicitement les jeunes diplômés",
+      "Stack technique correspondant aux compétences (SQL, JS, HTML, CSS)",
+      "Forte culture d'automatisation et de transformation chez Synpulse"
+    ],
+    "points_negatifs": [
+      "Mention de l'expérience Avaloq comme avantage (spécifique au secteur bancaire)",
+      "Pas de mention du visa dans l'offre"
+    ],
+    "commentaire": "Une excellente opportunité pour un profil junior. L'offre valorise l'esprit entrepreneurial et les compétences en bases de données relationnelles, ce qui colle parfaitement avec les projets personnels et l'expérience en C++/SQL d'Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/junior-software-engineer-pl-sql-fresh-graduates-at-synpulse-4390311686",
+    "date_publication": "2026-03-25T00:00:00.000Z",
+    "nb_candidats": "81 applicants",
+    "date_ajout": "2026-03-26T07:01:00.776Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Junior Software Engineer role at Synpulse. I saw you are looking for fresh graduates with strong foundations in SQL and web technologies to transform banking systems. My background in computer science and my work with complex data systems align well with your focus on financial technology.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. On my own time, I built ValoFenua, a real estate platform with a PostgreSQL database and a daily scraper processing over 1,300 listings. I also redesigned the installation process at my current company. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm impressed by Synpulse's entrepreneurial spirit and would love to help build the next generation of digital banking solutions.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-vibrant-occasions-4390547054",
+    "titre": "Software Engineer",
+    "entreprise": "Vibrant Occasions",
+    "entreprise_url": "https://in.linkedin.com/company/vibrant-occasions",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "Hybrid",
+    "stack": "Java, Python, JavaScript, C#, Spring Boot, Node.js, React, Angular, MySQL, PostgreSQL, MongoDB, AWS, Azure, GCP",
+    "salaire": "Non précisé",
+    "experience_requise": "2-5 ans",
+    "score": 7,
+    "points_positifs": [
+      "Poste Full-stack correspondant parfaitement aux compétences (React, Node, SQL)",
+      "Localisation cible à Singapour",
+      "Entreprise en croissance avec des solutions scalables",
+      "Possibilité de travail hybride"
+    ],
+    "points_negatifs": [
+      "L'expérience requise (2-5 ans) est légèrement au-dessus du profil junior, mais reste acceptable"
+    ],
+    "commentaire": "L'offre correspond bien à la polyvalence d'Aodren. Bien que demandant 2 ans d'expérience, ses projets personnels complexes et son alternance chez Exail Robotics comblent cet écart.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-vibrant-occasions-4390547054",
+    "date_publication": "2026-03-26",
+    "nb_candidats": "Moins de 25",
+    "date_ajout": "2026-03-26T07:01:05.303Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Vibrant Occasions. Your focus on building scalable digital solutions across Asia caught my attention. My background in developing full-stack applications with React and Node.js aligns well with your team's technical requirements.\n\nI currently develop and maintain software at EXAIL Robotics using C++ and JavaScript, including an eye-tracking system. On the side, I built ValoFenua, a full-stack platform using React and Supabase. It uses a daily scraper for 1,300 listings and an AI agent for price estimations. This project taught me a lot about managing data pipelines and system performance.\n\nI also redesigned the installation process at my current company. It used to take about 2 days to complete. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. \n\nI'm finishing my M.S. in Information Systems Engineering. I'm impressed by the collaborative environment at Vibrant Occasions and would like to help build your next generation of software products.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/automation-engineer-wes-wcs-at-fairprice-group-4390417455",
+    "titre": "Automation Engineer (WES/WCS)",
+    "entreprise": "FairPrice Group",
+    "entreprise_url": "https://sg.linkedin.com/company/fairprice-group",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "WCS, WES, SQL, Scripting, Monitoring tools",
+    "salaire": "Non précisé",
+    "experience_requise": "2 years",
+    "score": 8,
+    "points_positifs": [
+      "Forte dimension automatisation et scripting",
+      "Niveau d'expérience junior (2 ans) correspondant parfaitement au profil",
+      "L'entreprise est un acteur majeur à Singapour (FairPrice Group)"
+    ],
+    "points_negatifs": [
+      "Poste très orienté opérations/maintenance système (WCS/WES) plutôt que pur développement software",
+      "Nécessite une flexibilité sur les horaires (24/7 environment)"
+    ],
+    "commentaire": "L'offre est un excellent match pour un profil d'ingénieur en automatisation junior. Le candidat peut valoriser son expérience en robotique chez EXAIL et son expertise en scripts.",
+    "lien": "https://sg.linkedin.com/jobs/view/automation-engineer-wes-wcs-at-fairprice-group-4390417455",
+    "date_publication": "2026-03-26",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-26T07:01:09.957Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Automation Engineer position at FairPrice Group. I saw that you need someone to monitor dashboards and troubleshoot system interfaces for WCS and WES. This aligns perfectly with my background in robotics and automated systems.\n\nI currently work at EXAIL Robotics, where I develop features in C++ and JavaScript. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I am used to technical environments where system uptime is critical and documentation must be precise.\n\nOn my own time, I built an automated pipeline using n8n and AI agents to scrape and process large datasets. I am comfortable with SQL and scripting, which helps me identify errors in logs and resolve system issues quickly. I thrive in fast-paced settings where real-time problem-solving is necessary to keep operations running.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I would welcome the chance to help FairPrice Group maintain its high service levels and optimize warehouse performance.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-application-engineer-mes-applications-at-persol-apac-4390144223",
+    "titre": "Software Application Engineer (MES Applications)",
+    "entreprise": "PERSOL APAC",
+    "entreprise_url": "https://sg.linkedin.com/company/persolapac",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Java, Python, SQL, PL/SQL",
+    "salaire": "Non précisé",
+    "experience_requise": "Minimum 1 year",
+    "score": 8,
+    "points_positifs": [
+      "Match parfait sur la stack technique (Java, Python, SQL)",
+      "Niveau d'expérience 'Associate' idéal pour le profil",
+      "Forte emphase sur l'optimisation des processus métier"
+    ],
+    "points_negatifs": [
+      "Offre provenant d'un cabinet de recrutement, attention au process de visa"
+    ],
+    "commentaire": "L'offre correspond parfaitement au profil d'Aodren avec un focus sur le développement Java/Python et l'optimisation de systèmes internes, ce qui résonne avec son expérience chez Exail.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-application-engineer-mes-applications-at-persol-apac-4390144223",
+    "date_publication": "2026-03-25",
+    "nb_candidats": "37",
+    "date_ajout": "2026-03-26T07:01:14.840Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Application Engineer role at PERSOL APAC. I saw that you are looking for someone with hands-on experience in Java and Python to support business operations and shopfloor systems. My background in developing core features and automating complex workflows fits this need perfectly.\n\nI currently develop and maintain a software product in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase auth, PostgreSQL, and PDF report generation. I am very comfortable with SQL scripting and ensuring reliable code through structured SDLC processes.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy finding these kinds of efficiency gains in technical systems.\n\nI'm finishing my M.S. in Information Systems Engineering. I'm excited about the possibility of applying my problem-solving skills to your manufacturing and supply chain applications. \n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/product-associate-at-morrow-4390698497",
+    "titre": "Product Associate",
+    "entreprise": "MORROW",
+    "entreprise_url": "https://sg.linkedin.com/company/morrowofficial",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "APIs, cloud compute, frontend, backend",
+    "salaire": "Non précisé",
+    "experience_requise": "Associate (Junior/Mid-level)",
+    "score": 8,
+    "points_positifs": [
+      "Poste hybride entre product management et développement hands-on",
+      "Forte composante intégration API et plateformes tierces",
+      "Entreprise innovante dans la Health-Tech à Singapour"
+    ],
+    "points_negatifs": [
+      "Nécessite une forte dimension de gestion de projet en plus du code"
+    ],
+    "commentaire": "Ce poste est une excellente passerelle pour un profil technique qui aime l'automatisation et les intégrations API tout en restant proche du produit.",
+    "lien": "https://sg.linkedin.com/jobs/view/product-associate-at-morrow-4390698497",
+    "date_publication": "2026-03-26",
+    "nb_candidats": "Less than 25",
+    "date_ajout": "2026-03-26T07:01:19.609Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Product Associate role at MORROW. Your focus on integrating wearable data and third party APIs caught my attention, as I enjoy building systems that connect different data sources to create a seamless user experience.\n\nI currently work at EXAIL Robotics where I develop core features in C++ and JavaScript. I also redesigned our installation process, reducing deployment time from 2 days to 2 hours. This 85% reduction made the system accessible to everyone on the team, not just technical experts.\n\nOn the side, I built ValoFenua, a full-stack real estate platform. It uses a daily scraper to collect data from over 1,300 listings and processes them through an AI agent to generate price estimates. This project required managing a React frontend, a PostgreSQL database on Supabase, and multiple automated workflows via n8n.\n\nI am finishing my M.S. in Information Systems Engineering and have a strong foundation in Computer Science. I am excited about the possibility of helping MORROW scale its digital health platform and improve member engagement through smart API integrations.\n\nAodren Gloux"
   }
 ]
