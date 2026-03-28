@@ -1,118 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-university-graduate-at-google-4365589164",
-    "titre": "Software Engineer, University Graduate",
-    "entreprise": "Google",
-    "entreprise_url": "https://www.linkedin.com/company/google",
-    "localisation": "Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Python, C, C++, Java, JavaScript, Unix/Linux, Distributed Systems, ML",
-    "salaire": "Non précisé",
-    "experience_requise": "Entry level / University Graduate",
-    "score": 8,
-    "points_positifs": [
-      "Candidat en Master (Preferred qualification)",
-      "Maîtrise de C++ et JavaScript (Core languages demandés)",
-      "Expérience concrète en développement système et web"
-    ],
-    "points_negatifs": [
-      "Priorité explicite aux résidents/personnes sans besoin de sponsorship (-1 point)"
-    ],
-    "commentaire": "Poste idéal pour un jeune diplômé. Bien que Google privilégie les locaux, le profil d'Aodren avec son Master en cours et son expérience chez Exail correspond parfaitement aux critères techniques.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-university-graduate-at-google-4365589164",
-    "date_publication": "2026-03-24",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-03-25T07:00:42.615Z",
-    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Software Engineer (University Graduate) role at Google in Singapore. Your focus on building large-scale systems and AI integration matches my technical background in C++ development and automated data processing.\n\nI currently develop core features in C++ and JavaScript for eye-tracking systems at EXAIL Robotics. I also redesigned our installation process, which previously took about 2 days. Now it takes 2 hours and anyone on the team can run it. This 85% reduction in deployment time shows my focus on building efficient and accessible tools.\n\nOn my own time, I built ValoFenua. It is a full-stack React app that uses a daily scraper to collect 1,300+ listings. An AI agent then processes this live market data to estimate property prices. I enjoy solving complex problems where software needs to handle information at scale.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am ready to apply my experience in automation and full-stack development to the next generation of Google products.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-open-source-4388880292",
-    "titre": "Software Engineer",
-    "entreprise": "Open Source",
-    "entreprise_url": "https://uk.linkedin.com/company/open-source-projects-global",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "Hybrid",
-    "stack": "Java, Python, C#, JavaScript, Spring Boot, React, Angular, .NET, MySQL, PostgreSQL, MongoDB, Git, CI/CD",
-    "salaire": "Non précisé",
-    "experience_requise": "2–5 years",
-    "score": 7,
-    "points_positifs": [
-      "Poste Full-stack correspondant parfaitement à la polyvalence du candidat",
-      "Stack technique (Python, JS, PostgreSQL) très alignée",
-      "Offre en CDI à Singapour",
-      "Mention de CI/CD et Agile"
-    ],
-    "points_negatifs": [
-      "Demande 2 à 5 ans d'expérience alors qu'Aodren a 1.5 ans",
-      "Préférence pour une expérience dans l'écosystème tech de Singapour"
-    ],
-    "commentaire": "L'offre demande un peu plus d'expérience que le profil actuel, mais la polyvalence technique d'Aodren et ses projets personnels solides compensent ce décalage pour un poste orienté développement produit.",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-open-source-4388880292",
-    "date_publication": "2026-03-25T00:00:00.000Z",
-    "nb_candidats": "Be among the first 25 applicants",
-    "date_ajout": "2026-03-25T07:00:47.217Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Open Source. Your focus on scalable software and efficient code caught my attention, especially as I enjoy working across both frontend and backend systems.\n\nI currently develop features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On the side, I built ValoFenua, a full-stack React app with Supabase and PostgreSQL that uses a daily scraper to track 1,300 property listings. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering. I'm excited about the possibility of joining your Singapore team and contributing to Open Source's digital products.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/junior-field-application-engineer-robotics-at-autolife-robotics-pte-ltd-4389889312",
-    "titre": "Junior Field Application Engineer (Robotics)",
-    "entreprise": "Autolife Robotics Pte Ltd",
-    "entreprise_url": "https://www.linkedin.com/company/autolife-robotics",
-    "localisation": "Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Python, C++, Linux, Git, Robotics systems",
-    "salaire": "3000 SGD to 3500 SGD",
-    "experience_requise": "Entry level / Fresh graduates",
-    "score": 8,
-    "points_positifs": [
-      "Parfaitement adapté au profil Junior",
-      "Forte dimension robotique correspondant à l'expérience chez EXAIL Robotics",
-      "Utilisation de Python, C++ et Linux",
-      "Focus sur l'automatisation des tests et diagnostics"
-    ],
-    "points_negatifs": [
-      "Mention de la communication en Mandarin pour collaborer avec les équipes en Chine (barrière potentielle)",
-      "Salaire dans la fourchette basse pour Singapour"
-    ],
-    "commentaire": "Une excellente opportunité pour un premier poste à Singapour dans la robotique. L'expérience d'Aodren chez EXAIL Robotics sur des systèmes d'eye-tracking et l'automatisation de déploiement est un atout direct pour ce rôle de Field Engineer.",
-    "lien": "https://sg.linkedin.com/jobs/view/junior-field-application-engineer-robotics-at-autolife-robotics-pte-ltd-4389889312",
-    "date_publication": "2026-03-25T00:00:00.000Z",
-    "nb_candidats": "Moins de 25",
-    "date_ajout": "2026-03-25T07:00:52.525Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Junior Field Application Engineer role at Autolife Robotics. My current work at EXAIL Robotics involves developing core features for eye-tracking systems and managing complex hardware-software interactions, which aligns perfectly with your humanoid robot deployment needs.\n\nI currently develop and maintain software products in C++ and JavaScript. At EXAIL, I also redesigned the installation process. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I'm comfortable using Python for scripting and Linux command-line tools to diagnose technical issues in the field.\n\nOn my own time, I built ValoFenua, a full-stack platform that uses automated scrapers and AI agents to process real estate data. This project helped me master PostgreSQL, Git, and automated workflows. I enjoy being hands-on and solving technical problems where software meets the physical world.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm excited about the possibility of helping Autolife Robotics scale its humanoid systems and improve field reliability through better diagnostics.\n\nAodren Gloux"
-  },
-  {
-    "id": "https://sg.linkedin.com/jobs/view/software-engineer-ai-python-at-epam-systems-4355420038",
-    "titre": "Software Engineer (AI / Python)",
-    "entreprise": "EPAM Systems",
-    "entreprise_url": "https://www.linkedin.com/company/epam-systems",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Python, pytest, LangChain, LangGraph, LLM, Azure, Kubernetes, Git, GitLab CI/CD, Java Spring Boot, React",
-    "salaire": "Non précisé",
-    "experience_requise": "Associate (Junior/Mid)",
-    "score": 8,
-    "points_positifs": [
-      "Parfait alignement avec l'expertise n8n et les agents AI",
-      "Niveau Associate correspondant aux 1.5 ans d'expérience",
-      "Stack secondaire (React/Java) maîtrisée par le candidat"
-    ],
-    "points_negatifs": [
-      "Mention explicite 'No visa sponsorship available'",
-      "Forte concurrence (plus de 200 candidats)"
-    ],
-    "commentaire": "L'offre est idéale techniquement car elle demande spécifiquement des compétences en orchestration d'agents IA et Python, ce qui correspond exactement aux projets personnels d'Aodren (n8n, agents, scraping).",
-    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-ai-python-at-epam-systems-4355420038",
-    "date_publication": "2026-03-24T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-03-25T07:00:58.331Z",
-    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Software Engineer (AI / Python) role at EPAM Systems. I saw that you are looking for someone with hands-on experience in agentic AI systems and LLM orchestration, which is exactly what I build in my current projects.\n\nI developed an automated job search pipeline using n8n and AI agents hosted on a VPS. It uses a custom MCP server to scrape data and process it through LLMs. I also built ValoFenua, a real estate platform that runs a daily scraper for 1,300+ listings and uses AI to generate price estimates. These projects rely on the same multi-agent workflow principles and prompt engineering you mentioned in the job description.\n\nAt my current role with EXAIL Robotics, I redesigned the installation process for our core software. It used to take about 2 days to complete. I automated it so it now takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time.\n\nI am finishing my M.S. in Information Systems Engineering and I am very interested in how EPAM scales AI-driven workflows for global clients. I would love to discuss how my experience with Python and agentic systems can help your team.\n\nAodren Gloux\n"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/backend-engineer-marketplace-promotion-at-shopee-4300227231",
     "titre": "Backend Engineer - Marketplace, Promotion",
     "entreprise": "Shopee",
@@ -670,5 +557,144 @@
     "nb_candidats": "56 applicants",
     "date_ajout": "2026-03-27T07:03:25.889Z",
     "cover_letter": "Dear Hiring Team,\n\nI am applying for the AI / Data Science Engineer role at PERSOL APAC. Your focus on building machine learning infrastructure and managing data pipelines caught my attention. I have spent the last year building autonomous systems that handle real world data at scale.\n\nI built ValoFenua, a real estate platform for French Polynesia. It runs a daily scraper that collects 1,300+ property listings and feeds them into an AI agent that estimates prices from live market data. I also built an automated job search pipeline with n8n, AI agents, and an MCP server. These are systems where AI does the heavy lifting, not just assists. I am comfortable managing the full lifecycle of an AI project, from data collection to infrastructure.\n\nI also redesigned the installation process at my current company, EXAIL Robotics. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy making complex technical processes reliable and efficient for the whole team.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am ready to apply my experience in automation and AI development to your upcoming projects in Singapore.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4390997317",
+    "titre": "Test Engineer",
+    "entreprise": "RateS",
+    "entreprise_url": "https://id.linkedin.com/company/ratesg",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Automated testing tools, Agile, Software Testing, Quality Assurance",
+    "salaire": "Non précisé",
+    "experience_requise": "1-3 years",
+    "score": 7,
+    "points_positifs": [
+      "Poste orienté automatisation et tests",
+      "Niveau d'expérience 'Associate' correspondant parfaitement",
+      "Focus sur l'amélioration de l'efficacité via les outils"
+    ],
+    "points_negatifs": [
+      "Poste focalisé sur le Test/QA plutôt que le développement pur",
+      "Besoin potentiel de visa"
+    ],
+    "commentaire": "Une excellente opportunité car le poste valorise l'automatisation et l'efficacité, ce qui permet de mettre en avant ton expérience de réduction drastique des temps de déploiement.",
+    "lien": "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4390997317",
+    "date_publication": "2026-03-27T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-03-28T07:00:37.176Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Test Engineer role at RateS. Your focus on maintaining testing frameworks and improving efficiency through new tools aligns perfectly with my background in software automation.\n\nCurrently, I develop core features in C++ and JavaScript at EXAIL Robotics. I also redesigned our installation process there. It used to take about 2 days for the team to complete. I automated the entire workflow so it now takes only 2 hours. This 85% reduction in deployment time made the system accessible to everyone, not just technical staff.\n\nFor my personal projects, I built an automated job search pipeline using n8n and AI agents. I also developed ValoFenua, a full-stack React app that scrapes 1,300 daily listings to provide price estimates. These projects required me to design robust logic and handle complex data, similar to the requirements for tracking quality assurance metrics at RateS.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm ready to help RateS maintain its product quality and improve your testing workflows.\n\nAodren Gloux\n"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-a26102-at-activate-interactive-4392026878",
+    "titre": "Software Engineer - A26102",
+    "entreprise": "Activate Interactive",
+    "entreprise_url": "https://sg.linkedin.com/company/activate-interactive-pte-ltd",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "React.js, TypeScript, Node.js, Python, Terraform, GitLab CI/CD",
+    "salaire": "Non précisé",
+    "experience_requise": "3+ years",
+    "score": 7,
+    "points_positifs": [
+      "Parfaite correspondance Full-Stack (React, Node.js, Python)",
+      "Forte dimension automatisation et cloud landing zones",
+      "Poste orienté Engineering Excellence au sein des agences gouvernementales de Singapour"
+    ],
+    "points_negatifs": [
+      "L'offre demande 3 ans d'expérience alors qu'Aodren a 1.5 ans",
+      "Contrat initial de 1 an mentionné (fixed term), mais reste un poste permanent au sens professionnel"
+    ],
+    "commentaire": "L'offre est idéale car elle combine React et l'automatisation Backend (Node/Python). Malgré la demande de 3 ans d'expérience, les projets personnels d'Aodren sur n8n et le scraping démontrent une maturité technique qui compense largement.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-a26102-at-activate-interactive-4392026878",
+    "date_publication": "2026-03-28",
+    "nb_candidats": "Less than 25",
+    "date_ajout": "2026-03-28T07:00:41.833Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Activate Interactive. Your focus on building the Government Commercial Cloud and self-service portals caught my attention, as I specialize in bridging the gap between complex backend automation and intuitive React interfaces.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. I also built ValoFenua, a full-stack React app with Supabase and PostgreSQL. It uses a daily scraper to process 1,300+ listings through an AI agent for market estimation. These projects require the same focus on reliability and clean APIs that you need for the GCC platform.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy turning manual, slow procedures into fast, automated workflows.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm excited about the possibility of contributing to Singapore's digital government services and learning from the experts at Activate.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/digital-transformation-engineer-at-vdl-etg-singapore-4390911250",
+    "titre": "Digital Transformation, Engineer",
+    "entreprise": "VDL ETG Singapore",
+    "entreprise_url": "https://sg.linkedin.com/company/vdl-etg-singapore",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "SQL, Python, Excel VBA, Power BI, Power Automate, AI/ML, RPA",
+    "salaire": "Non précisé",
+    "experience_requise": "Minimum 3 years",
+    "score": 7,
+    "points_positifs": [
+      "Focus fort sur l'automatisation et la transformation digitale",
+      "Stack technique incluant Python, SQL et l'IA",
+      "Poste 'Associate' accessible malgré la mention des 3 ans"
+    ],
+    "points_negatifs": [
+      "Mention explicite de Microsoft Power Platform (Power BI/Apps/Automate) peu présente dans le profil",
+      "Préférence pour le secteur manufacturier"
+    ],
+    "commentaire": "L'offre correspond bien à ton expertise en automatisation et IA appliquée. Ton expérience chez Exail Robotics dans un contexte industriel est un atout majeur pour ce poste chez VDL ETG.",
+    "lien": "https://sg.linkedin.com/jobs/view/digital-transformation-engineer-at-vdl-etg-singapore-4390911250",
+    "date_publication": "2026-03-27",
+    "nb_candidats": "Moins de 25",
+    "date_ajout": "2026-03-28T07:00:53.902Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Digital Transformation Engineer position at VDL ETG Singapore. I saw that you are looking for someone to bridge the gap between technology and business goals through automation. My background in software engineering and my focus on streamlining complex workflows match this objective.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. I also redesigned our installation process, which used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time. This experience taught me how to deliver concrete operational efficiency in an industrial environment.\n\nI have a strong interest in RPA and AI integration. I built an automated job search pipeline using n8n and AI agents to handle data scraping and processing. I also developed ValoFenua, a full-stack platform that uses an AI agent to analyze real estate market data. I am comfortable working with SQL and Python to turn raw data into actionable tools.\n\nI am finishing my M.S. in Information Systems Engineering in 2024. I am impressed by VDL ETG's leadership in high-tech manufacturing and would like to help scale your digital initiatives. \n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-testing-quality-assurance-at-equinix-4380263025",
+    "titre": "Software Engineer (Testing & Quality Assurance)",
+    "entreprise": "Equinix",
+    "entreprise_url": "https://www.linkedin.com/company/equinix",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site/Hybrid",
+    "stack": "Java, Spring Boot, REST APIs, Kafka, Microservices, SQL",
+    "salaire": "Non précisé",
+    "experience_requise": "2–4 years (Associate)",
+    "score": 7,
+    "points_positifs": [
+      "Poste axé sur le backend et l'automatisation de tests",
+      "Utilisation de Java, microservices et Kafka qui correspondent au profil technique",
+      "Niveau Associate (1-3 ans réels) accessible avec l'alternance et les projets personnels"
+    ],
+    "points_negatifs": [
+      "Forte orientation QA/Testing alors que le candidat préfère le développement pur",
+      "Demande 2-4 ans d'expérience (le candidat en a ~1.5)"
+    ],
+    "commentaire": "L'offre est intéressante car elle se concentre sur l'automatisation de tests backend et de workflows Kafka. C'est une excellente porte d'entrée chez un leader mondial de l'infrastructure numérique comme Equinix.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-testing-quality-assurance-at-equinix-4380263025",
+    "date_publication": "2026-03-27",
+    "nb_candidats": "140 applicants",
+    "date_ajout": "2026-03-28T07:00:58.660Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer (Testing & QA) role at Equinix. I've followed your work in digital infrastructure and I'm interested in how you manage reliability for Java-based microservices and Kafka workflows at scale.\n\nI currently develop and maintain core software features in C++ and JavaScript at EXAIL Robotics. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I enjoy the challenge of making complex systems more stable and easier to test.\n\nOn my own time, I built ValoFenua, a web platform that uses a daily scraper to collect 1,300+ listings. I've had to manage data consistency and reliable API integrations for this project, much like the migration and integration testing you've described. I'm comfortable working with Java, SQL, and automated workflows to ensure backend stability.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'd like to bring my automation mindset to the Equinix platform engineering team in Singapore.\n\nAodren Gloux"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-at-wsa-%E2%80%93-wonderful-sound-for-all-4390946407",
+    "titre": "Software Engineer",
+    "entreprise": "WSA – Wonderful Sound for All",
+    "entreprise_url": "https://dk.linkedin.com/company/wonderfulsoundforall",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "C#, React.js, ASP.NET Core, SQL, gRPC, Azure, Docker, Kubernetes, Generative AI",
+    "salaire": "Non précisé",
+    "experience_requise": "Not Applicable (Junior friendly)",
+    "score": 8,
+    "points_positifs": [
+      "Utilisation d'outils d'IA pour l'efficacité du développement",
+      "Stack hybride web/desktop correspondant au profil C++/JS d'Aodren",
+      "Entreprise internationale majeure basée à Singapour"
+    ],
+    "points_negatifs": [
+      "L'offre mentionne C#/.NET alors qu'Aodren est plus orienté C++/Python/Node.js"
+    ],
+    "commentaire": "L'offre est idéale car elle recherche un profil adaptable intéressé par l'IA et le développement d'applications web et desktop, ce qui correspond parfaitement au parcours hybride d'Aodren.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-at-wsa-%E2%80%93-wonderful-sound-for-all-4390946407",
+    "date_publication": "2026-03-27T00:00:00.000Z",
+    "nb_candidats": "Moins de 25",
+    "date_ajout": "2026-03-28T07:01:05.093Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer position at WSA. Your focus on integrating AI tools to improve development productivity caught my attention. I already use AI agents and LLM integrations in my personal projects to solve complex automation problems.\n\nI currently develop features in C++ and JavaScript at EXAIL Robotics, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with a PostgreSQL database and an automated scraper. I also redesigned the installation process at my current company. It used to take about 2 days, but now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I'm excited about the possibility of applying my background in software efficiency and automation to help WSA improve its hearing care solutions.\n\nAodren Gloux"
   }
 ]
