@@ -63,5 +63,9 @@
     "action": "liked",
     "timestamp": "2026-03-31T13:11:39.220Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/ai-specialist-at-care-setu-4394076265": {
+    "action": "passed",
+    "timestamp": "2026-03-31T13:11:47.003Z"
   }
 }
