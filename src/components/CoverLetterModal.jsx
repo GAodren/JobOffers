@@ -10,38 +10,28 @@ function generateCoverLetterPDF(job) {
   const contentWidth = pageWidth - marginLeft - marginRight;
   let y = 25;
 
-  // Colors
   const dark = [40, 40, 40];
   const medium = [100, 100, 100];
-  const accent = [108, 92, 231]; // #6c5ce7
+  const accent = [79, 70, 229]; // #4F46E5
 
-  // Header - Name
   doc.setFont("helvetica", "bold");
   doc.setFontSize(22);
   doc.setTextColor(...dark);
   doc.text("Aodren Gloux", pageWidth / 2, y, { align: "center" });
   y += 8;
 
-  // Contact line
   doc.setFont("helvetica", "normal");
   doc.setFontSize(9);
   doc.setTextColor(...medium);
-  const contactParts = [
-    "aodren.gloux@gmail.com",
-    "linkedin.com/in/aodren-gloux",
-    "github.com/GAodren",
-  ];
-  const contactLine = contactParts.join("  |  ");
+  const contactLine = "aodren.gloux@gmail.com  |  linkedin.com/in/aodren-gloux  |  github.com/GAodren";
   doc.text(contactLine, pageWidth / 2, y, { align: "center" });
   y += 6;
 
-  // Accent divider
   doc.setDrawColor(...accent);
   doc.setLineWidth(0.6);
   doc.line(marginLeft, y, pageWidth - marginRight, y);
   y += 12;
 
-  // Date
   const today = new Date();
   const dateStr = today.toLocaleDateString("en-US", {
     year: "numeric",
@@ -54,13 +44,11 @@ function generateCoverLetterPDF(job) {
   doc.text(dateStr, marginLeft, y);
   y += 14;
 
-  // Greeting
   doc.setFont("helvetica", "bold");
   doc.setFontSize(11);
   doc.text("Dear Hiring Team,", marginLeft, y);
   y += 10;
 
-  // Body
   doc.setFont("helvetica", "normal");
   doc.setFontSize(10);
   doc.setTextColor(...dark);
@@ -79,10 +67,9 @@ function generateCoverLetterPDF(job) {
       doc.text(line, marginLeft, y);
       y += lineHeight;
     }
-    y += 4; // paragraph spacing
+    y += 4;
   }
 
-  // Signature
   y += 6;
   if (y + 20 > pageHeight - 20) {
     doc.addPage();
@@ -108,7 +95,6 @@ export default function CoverLetterModal({ job, onClose }) {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     } catch {
-      // Fallback
       const ta = document.createElement("textarea");
       ta.value = job.cover_letter;
       document.body.appendChild(ta);
@@ -142,16 +128,16 @@ export default function CoverLetterModal({ job, onClose }) {
       onClick={onClose}
     >
       {/* Backdrop */}
-      <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" />
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" />
 
       {/* Modal */}
       <div
-        className="relative bg-bg-card border border-white/10 rounded-2xl max-w-2xl w-full max-h-[85vh] flex flex-col shadow-2xl"
+        className="relative bg-bg-card border border-border rounded-2xl max-w-2xl w-full max-h-[85vh] flex flex-col shadow-2xl"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header */}
-        <div className="px-6 py-4 border-b border-white/5 flex-shrink-0">
-          <h2 className="text-lg font-semibold">{job.titre}</h2>
+        <div className="px-6 py-4 border-b border-border flex-shrink-0">
+          <h2 className="text-lg font-semibold text-text-primary">{job.titre}</h2>
           <p className="text-sm text-text-secondary">{job.entreprise}</p>
         </div>
 
@@ -163,16 +149,16 @@ export default function CoverLetterModal({ job, onClose }) {
         </div>
 
         {/* Footer */}
-        <div className="px-6 py-4 border-t border-white/5 flex justify-end gap-3 flex-shrink-0">
+        <div className="px-6 py-4 border-t border-border flex justify-end gap-3 flex-shrink-0">
           <button
             onClick={onClose}
-            className="px-4 py-2 rounded-lg text-sm text-text-secondary bg-white/5 hover:bg-white/10 border border-white/10 transition-colors cursor-pointer"
+            className="px-4 py-2 rounded-lg text-sm text-text-secondary bg-bg-overlay hover:bg-border border border-border transition-colors cursor-pointer"
           >
             Close
           </button>
           <button
             onClick={() => generateCoverLetterPDF(job)}
-            className="px-4 py-2 rounded-lg text-sm font-medium bg-white/10 hover:bg-white/15 text-white border border-white/10 transition-colors cursor-pointer"
+            className="px-4 py-2 rounded-lg text-sm font-medium bg-bg-overlay hover:bg-border text-text-primary border border-border transition-colors cursor-pointer"
           >
             Download PDF
           </button>
@@ -180,7 +166,7 @@ export default function CoverLetterModal({ job, onClose }) {
             onClick={handleCopy}
             className={`px-4 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer ${
               copied
-                ? "bg-score-high text-white"
+                ? "bg-like text-white"
                 : "bg-accent hover:bg-accent-hover text-white"
             }`}
           >

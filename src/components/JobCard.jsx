@@ -1,78 +1,113 @@
-import ScoreBadge from "./ScoreBadge";
-import TagList from "./TagList";
+import { getScoreClass } from "../utils/helpers";
 import { formatRelativeDate } from "../utils/helpers";
 
-export default function JobCard({ job, onOpenCoverLetter }) {
+export default function JobCard({ job }) {
+  const tags = job.stack
+    ? job.stack.split(",").map((t) => t.trim()).filter(Boolean)
+    : [];
+
   return (
-    <div className="group bg-bg-card border border-white/5 rounded-xl p-5 flex flex-col gap-3 transition-all hover:border-accent/30 hover:-translate-y-0.5 hover:shadow-lg hover:shadow-accent/5">
-      {/* Top: score + title */}
+    <div className="bg-bg-card rounded-2xl shadow-lg border border-border p-6 flex flex-col gap-3 w-full max-w-[500px]">
+      {/* Score + Title */}
       <div className="flex items-start gap-3">
-        <ScoreBadge score={job.score} />
+        <div
+          className={`inline-flex items-baseline gap-0.5 px-3 py-1.5 rounded-xl font-mono font-bold ${getScoreClass(job.score)}`}
+        >
+          <span className="text-2xl leading-none">{job.score}</span>
+          <span className="text-xs opacity-60">/10</span>
+        </div>
         <div className="min-w-0 flex-1">
-          <h3 className="font-semibold text-[15px] leading-snug truncate">
+          <h3 className="font-bold text-lg leading-snug text-text-primary">
             {job.titre}
           </h3>
-          <div className="flex items-center gap-2 mt-1 text-sm text-text-secondary">
-            <span className="font-medium">{job.entreprise}</span>
-            <span className="text-text-muted">·</span>
-            <span className="truncate">{job.localisation}</span>
+          <div className="flex items-center gap-1.5 mt-0.5 text-sm text-text-secondary">
+            {job.entreprise_url ? (
+              <a
+                href={job.entreprise_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-accent hover:underline"
+              >
+                {job.entreprise}
+              </a>
+            ) : (
+              <span className="font-medium">{job.entreprise}</span>
+            )}
           </div>
         </div>
       </div>
 
-      {/* Meta row */}
-      <div className="flex items-center gap-2 text-xs text-text-muted">
-        <span className="font-mono">
-          {formatRelativeDate(job.date_publication)}
-        </span>
-        {job.type_contrat && (
-          <>
-            <span>·</span>
-            <span>{job.type_contrat}</span>
-          </>
+      {/* Info rows */}
+      <div className="flex flex-wrap gap-2 text-sm text-text-secondary">
+        {job.localisation && (
+          <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-lg bg-bg-overlay text-xs">
+            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="2">
+              <path d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z" />
+              <path d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 0 1 15 0Z" />
+            </svg>
+            {job.localisation}
+          </span>
         )}
-        {job.salaire && job.salaire !== "Non précisé" && (
-          <>
-            <span>·</span>
-            <span className="text-score-high">{job.salaire}</span>
-          </>
+        {job.type_contrat && (
+          <span className="px-2.5 py-1 rounded-lg bg-bg-overlay text-xs">
+            {job.type_contrat}
+          </span>
+        )}
+        {job.type_travail && (
+          <span className="px-2.5 py-1 rounded-lg bg-bg-overlay text-xs">
+            {job.type_travail}
+          </span>
+        )}
+        {job.experience_requise && (
+          <span className="px-2.5 py-1 rounded-lg bg-bg-overlay text-xs">
+            {job.experience_requise}
+          </span>
         )}
       </div>
 
-      {/* Stack tags */}
-      <TagList stack={job.stack} />
+      {/* Salary */}
+      {job.salaire && job.salaire !== "Non précisé" && (
+        <div className="text-sm font-semibold text-score-high">
+          {job.salaire}
+        </div>
+      )}
 
-      {/* Comment */}
+      {/* Stack tags */}
+      {tags.length > 0 && (
+        <div className="flex gap-1.5 flex-wrap">
+          {tags.map((tag) => (
+            <span
+              key={tag}
+              className="px-2.5 py-0.5 rounded-full bg-accent/10 text-accent text-xs font-medium"
+            >
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      {/* Applicants + Date */}
+      <div className="flex items-center gap-3 text-xs text-text-muted font-mono">
+        {job.nb_candidats && <span>{job.nb_candidats}</span>}
+        <span>{formatRelativeDate(job.date_publication)}</span>
+      </div>
+
+      {/* AI Comment */}
       {job.commentaire && (
-        <p className="text-xs text-text-secondary leading-relaxed line-clamp-2">
+        <p className="text-sm text-text-secondary leading-relaxed italic border-l-2 border-accent/30 pl-3">
           {job.commentaire}
         </p>
       )}
 
-      {/* Bottom row */}
-      <div className="flex items-center justify-between mt-auto pt-2 border-t border-white/5">
-        <span className="text-xs text-text-muted font-mono">
-          {job.nb_candidats || "Unknown"}
-        </span>
-        <div className="flex gap-2">
-          {job.cover_letter && (
-            <button
-              onClick={() => onOpenCoverLetter(job)}
-              className="px-3 py-1.5 rounded-lg text-xs font-medium bg-white/5 text-text-secondary hover:bg-white/10 border border-white/10 transition-colors cursor-pointer"
-            >
-              Cover Letter
-            </button>
-          )}
-          <a
-            href={job.lien}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-3 py-1.5 rounded-lg text-xs font-medium bg-accent hover:bg-accent-hover text-white transition-colors"
-          >
-            Apply
-          </a>
-        </div>
-      </div>
+      {/* Link to offer */}
+      <a
+        href={job.lien}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-xs text-accent hover:underline mt-auto self-end"
+      >
+        View on LinkedIn →
+      </a>
     </div>
   );
 }

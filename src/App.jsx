@@ -1,37 +1,51 @@
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { useJobs } from "./hooks/useJobs";
+import { useSwipeHistory } from "./hooks/useSwipeHistory";
 import Header from "./components/Header";
-import FilterBar from "./components/FilterBar";
-import JobGrid from "./components/JobGrid";
-import EmptyState from "./components/EmptyState";
+import SwipeView from "./components/SwipeView";
+import LikedList from "./components/LikedList";
+import Pipeline from "./components/Pipeline";
 import CoverLetterModal from "./components/CoverLetterModal";
-import Footer from "./components/Footer";
 
 export default function App() {
+  const { jobs, loading: jobsLoading, error } = useJobs();
   const {
-    jobs,
-    filtered,
-    loading,
-    error,
-    search,
-    setSearch,
-    scoreFilter,
-    setScoreFilter,
-    companyFilter,
-    setCompanyFilter,
-    sort,
-    setSort,
-    companies,
-  } = useJobs();
+    swipes,
+    loading: swipesLoading,
+    swipedIds,
+    likedIds,
+    recordSwipe,
+    updateStatus,
+  } = useSwipeHistory();
 
+  const [activeTab, setActiveTab] = useState("swipe");
   const [modalJob, setModalJob] = useState(null);
+
+  const loading = jobsLoading || swipesLoading;
+
+  const unswipedJobs = useMemo(() => {
+    return jobs
+      .filter((job) => !swipedIds.includes(job.id))
+      .sort((a, b) => (b.score || 0) - (a.score || 0));
+  }, [jobs, swipedIds]);
+
+  const stats = useMemo(() => {
+    const applied = Object.values(swipes).filter(
+      (s) => s.action === "liked" && s.status === "applied"
+    ).length;
+    return {
+      newOffers: unswipedJobs.length,
+      liked: likedIds.length,
+      applied,
+    };
+  }, [unswipedJobs, likedIds, swipes]);
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center bg-bg-primary">
         <div className="flex items-center gap-3 text-text-secondary">
           <div className="w-5 h-5 border-2 border-accent border-t-transparent rounded-full animate-spin" />
-          <span className="font-mono text-sm">Loading jobs...</span>
+          <span className="font-mono text-sm">Loading...</span>
         </div>
       </div>
     );
@@ -39,9 +53,9 @@ export default function App() {
 
   if (error) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center bg-bg-primary">
         <div className="text-center">
-          <p className="text-score-low font-mono text-sm">Error: {error}</p>
+          <p className="text-pass font-mono text-sm">Error: {error}</p>
           <button
             onClick={() => window.location.reload()}
             className="mt-3 px-4 py-2 rounded-lg text-sm bg-accent text-white hover:bg-accent-hover transition-colors cursor-pointer"
@@ -54,31 +68,38 @@ export default function App() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col">
-      <Header jobs={jobs} />
+    <div className="min-h-screen flex flex-col bg-bg-primary">
+      <Header
+        activeTab={activeTab}
+        onTabChange={setActiveTab}
+        stats={stats}
+      />
 
-      <main className="flex-1 max-w-7xl mx-auto w-full px-4 sm:px-6 py-6 space-y-6">
-        <FilterBar
-          search={search}
-          setSearch={setSearch}
-          scoreFilter={scoreFilter}
-          setScoreFilter={setScoreFilter}
-          companyFilter={companyFilter}
-          setCompanyFilter={setCompanyFilter}
-          sort={sort}
-          setSort={setSort}
-          companies={companies}
-          resultCount={filtered.length}
+      {activeTab === "swipe" && (
+        <SwipeView
+          jobs={unswipedJobs}
+          onLike={(id) => recordSwipe(id, "liked")}
+          onPass={(id) => recordSwipe(id, "passed")}
         />
+      )}
 
-        {filtered.length > 0 ? (
-          <JobGrid jobs={filtered} onOpenCoverLetter={setModalJob} />
-        ) : (
-          <EmptyState />
-        )}
-      </main>
+      {activeTab === "liked" && (
+        <LikedList
+          jobs={jobs}
+          swipes={swipes}
+          onOpenCoverLetter={setModalJob}
+          onUpdateStatus={updateStatus}
+        />
+      )}
 
-      <Footer />
+      {activeTab === "pipeline" && (
+        <Pipeline
+          jobs={jobs}
+          swipes={swipes}
+          onUpdateStatus={updateStatus}
+          onOpenCoverLetter={setModalJob}
+        />
+      )}
 
       {modalJob && (
         <CoverLetterModal job={modalJob} onClose={() => setModalJob(null)} />
