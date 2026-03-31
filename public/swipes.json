@@ -71,5 +71,13 @@
   "https://sg.linkedin.com/jobs/view/product-test-engineer-at-silicon-labs-4277358138": {
     "action": "passed",
     "timestamp": "2026-03-31T13:11:52.603Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-engineer-at-aem-4392150457": {
+    "action": "passed",
+    "timestamp": "2026-03-31T13:12:09.786Z"
+  },
+  "https://sg.linkedin.com/jobs/view/outsystem-low-code-engineer-at-itcan-pte-ltd-4391816133": {
+    "action": "passed",
+    "timestamp": "2026-03-31T13:12:10.553Z"
   }
 }
