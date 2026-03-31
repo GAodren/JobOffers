@@ -66,5 +66,10 @@
   "https://sg.linkedin.com/jobs/view/ai-specialist-at-care-setu-4394076265": {
     "action": "passed",
     "timestamp": "2026-03-31T13:19:28.118Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-engineer-at-aem-4392150457": {
+    "action": "liked",
+    "timestamp": "2026-03-31T13:45:32.696Z",
+    "status": "to_apply"
   }
 }
