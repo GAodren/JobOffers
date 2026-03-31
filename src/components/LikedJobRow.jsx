@@ -1,6 +1,6 @@
 import { getScoreClass, formatRelativeDate } from "../utils/helpers";
 
-export default function LikedJobRow({ job, swipeData, onOpenCoverLetter, onMoveToApplied }) {
+export default function LikedJobRow({ job, swipeData, onOpenCoverLetter, onMoveToApplied, onDismiss }) {
   return (
     <div className="bg-bg-card border border-border rounded-xl p-4 flex flex-col sm:flex-row sm:items-center gap-3 hover:shadow-md transition-shadow">
       {/* Score */}
@@ -50,6 +50,13 @@ export default function LikedJobRow({ job, swipeData, onOpenCoverLetter, onMoveT
           className="px-3 py-1.5 rounded-lg text-xs font-medium bg-like/10 text-like hover:bg-like/20 border border-like/20 transition-colors cursor-pointer"
         >
           Move to Applied
+        </button>
+        <button
+          onClick={() => onDismiss(job.id)}
+          className="px-3 py-1.5 rounded-lg text-xs font-medium bg-pass/10 text-pass hover:bg-pass/20 border border-pass/20 transition-colors cursor-pointer"
+          title="Dismiss (e.g. expired offer)"
+        >
+          Dismiss
         </button>
       </div>
     </div>

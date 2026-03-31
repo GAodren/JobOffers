@@ -102,6 +102,20 @@ export function useSwipeHistory() {
     [debouncedPush]
   );
 
+  const dismissJob = useCallback(
+    (jobId) => {
+      setSwipes((prev) => {
+        const updated = {
+          ...prev,
+          [jobId]: { ...prev[jobId], action: "dismissed" },
+        };
+        debouncedPush(updated);
+        return updated;
+      });
+    },
+    [debouncedPush]
+  );
+
   const likedIds = Object.entries(swipes)
     .filter(([, v]) => v.action === "liked")
     .map(([id]) => id);
@@ -115,5 +129,6 @@ export function useSwipeHistory() {
     likedIds,
     recordSwipe,
     updateStatus,
+    dismissJob,
   };
 }

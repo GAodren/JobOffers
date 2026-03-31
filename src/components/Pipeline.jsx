@@ -8,6 +8,7 @@ export default function Pipeline({
   swipes,
   onUpdateStatus,
   onOpenCoverLetter,
+  onDismiss,
 }) {
   const columns = useMemo(() => {
     const grouped = {};
@@ -39,6 +40,7 @@ export default function Pipeline({
             swipes={swipes}
             onStatusChange={onUpdateStatus}
             onOpenCoverLetter={onOpenCoverLetter}
+            onDismiss={onDismiss}
           />
         ))}
       </div>

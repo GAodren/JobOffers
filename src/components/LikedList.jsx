@@ -6,6 +6,7 @@ export default function LikedList({
   swipes,
   onOpenCoverLetter,
   onUpdateStatus,
+  onDismiss,
 }) {
   const [sortBy, setSortBy] = useState("date");
 
@@ -69,6 +70,7 @@ export default function LikedList({
             swipeData={swipes[job.id]}
             onOpenCoverLetter={onOpenCoverLetter}
             onMoveToApplied={(id) => onUpdateStatus(id, "applied")}
+            onDismiss={onDismiss}
           />
         ))}
       </div>

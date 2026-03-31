@@ -7,7 +7,7 @@ const STATUS_OPTIONS = [
   { value: "result", label: "Result" },
 ];
 
-export default function PipelineCard({ job, swipeData, onStatusChange, onOpenCoverLetter }) {
+export default function PipelineCard({ job, swipeData, onStatusChange, onOpenCoverLetter, onDismiss }) {
   return (
     <div className="bg-bg-card border border-border rounded-xl p-3 hover:shadow-md transition-shadow">
       <div className="flex items-start gap-2 mb-2">
@@ -58,6 +58,13 @@ export default function PipelineCard({ job, swipeData, onStatusChange, onOpenCov
         >
           Link
         </a>
+        <button
+          onClick={() => onDismiss(job.id)}
+          className="text-[11px] text-pass hover:underline cursor-pointer shrink-0"
+          title="Dismiss"
+        >
+          ✕
+        </button>
       </div>
     </div>
   );

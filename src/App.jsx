@@ -16,6 +16,7 @@ export default function App() {
     likedIds,
     recordSwipe,
     updateStatus,
+    dismissJob,
   } = useSwipeHistory();
 
   const [activeTab, setActiveTab] = useState("swipe");
@@ -89,6 +90,7 @@ export default function App() {
           swipes={swipes}
           onOpenCoverLetter={setModalJob}
           onUpdateStatus={updateStatus}
+          onDismiss={dismissJob}
         />
       )}
 
@@ -98,6 +100,7 @@ export default function App() {
           swipes={swipes}
           onUpdateStatus={updateStatus}
           onOpenCoverLetter={setModalJob}
+          onDismiss={dismissJob}
         />
       )}
 

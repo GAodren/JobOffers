@@ -13,6 +13,7 @@ export default function PipelineColumn({
   swipes,
   onStatusChange,
   onOpenCoverLetter,
+  onDismiss,
 }) {
   const style = COLUMN_STYLES[status];
 
@@ -41,6 +42,7 @@ export default function PipelineColumn({
               swipeData={swipes[job.id]}
               onStatusChange={onStatusChange}
               onOpenCoverLetter={onOpenCoverLetter}
+              onDismiss={onDismiss}
             />
           ))
         )}
