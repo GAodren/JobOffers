@@ -44,5 +44,10 @@
   "https://sg.linkedin.com/jobs/view/research-engineer-at-sea-4311353327": {
     "action": "passed",
     "timestamp": "2026-03-31T13:09:47.803Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-developer-%2383456-at-anradus-pte-ltd-4392368735": {
+    "action": "liked",
+    "timestamp": "2026-03-31T13:09:55.903Z",
+    "status": "to_apply"
   }
 }
