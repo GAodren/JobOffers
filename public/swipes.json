@@ -54,5 +54,9 @@
     "action": "liked",
     "timestamp": "2026-03-31T13:10:02.870Z",
     "status": "applied"
+  },
+  "https://sg.linkedin.com/jobs/view/artificial-intelligence-engineer-at-toronto-climate-week-tocw-4392318617": {
+    "action": "passed",
+    "timestamp": "2026-03-31T13:11:35.153Z"
   }
 }
