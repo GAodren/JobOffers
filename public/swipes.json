@@ -32,5 +32,9 @@
   "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4390997317": {
     "action": "passed",
     "timestamp": "2026-03-31T13:09:40.087Z"
+  },
+  "https://sg.linkedin.com/jobs/view/digital-transformation-engineer-at-vdl-etg-singapore-4390911250": {
+    "action": "passed",
+    "timestamp": "2026-03-31T13:09:42.603Z"
   }
 }
