@@ -16,7 +16,7 @@
     "timestamp": "2026-03-31T13:08:55.937Z"
   },
   "https://sg.linkedin.com/jobs/view/ai-software-engineer-at-webot-singapore-4393262419": {
-    "action": "liked",
+    "action": "dismissed",
     "timestamp": "2026-03-31T13:09:03.237Z",
     "status": "applied"
   },
@@ -46,12 +46,12 @@
     "timestamp": "2026-03-31T13:09:47.803Z"
   },
   "https://sg.linkedin.com/jobs/view/software-developer-%2383456-at-anradus-pte-ltd-4392368735": {
-    "action": "liked",
+    "action": "dismissed",
     "timestamp": "2026-03-31T13:09:55.903Z",
     "status": "applied"
   },
   "https://sg.linkedin.com/jobs/view/backend-engineer-java-and-net-at-user-experience-researchers-pte-ltd-singapore-4391662138": {
-    "action": "liked",
+    "action": "dismissed",
     "timestamp": "2026-03-31T13:10:02.870Z",
     "status": "applied"
   },
@@ -68,8 +68,60 @@
     "timestamp": "2026-03-31T13:19:28.118Z"
   },
   "https://sg.linkedin.com/jobs/view/software-engineer-at-aem-4392150457": {
-    "action": "liked",
+    "action": "dismissed",
     "timestamp": "2026-03-31T13:45:32.696Z",
     "status": "applied"
+  },
+  "https://sg.linkedin.com/jobs/view/software-engineer-testing-quality-assurance-at-equinix-4380263025": {
+    "action": "liked",
+    "timestamp": "2026-03-31T13:46:50.029Z",
+    "status": "applied"
+  },
+  "https://sg.linkedin.com/jobs/view/outsystem-low-code-engineer-at-itcan-pte-ltd-4391816133": {
+    "action": "passed",
+    "timestamp": "2026-03-31T14:40:22.334Z"
+  },
+  "https://sg.linkedin.com/jobs/view/product-test-engineer-at-silicon-labs-4277358138": {
+    "action": "passed",
+    "timestamp": "2026-03-31T14:40:26.184Z"
+  },
+  "https://sg.linkedin.com/jobs/view/ai-developer-at-seatrium-4282102214": {
+    "action": "passed",
+    "timestamp": "2026-04-01T07:43:29.740Z"
+  },
+  "https://sg.linkedin.com/jobs/view/ai-engineer-ii-at-mastercard-4382071867": {
+    "action": "dismissed",
+    "timestamp": "2026-04-01T07:43:44.940Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/senior-software-engineer-data2evidence-at-data4life-4392440368": {
+    "action": "dismissed",
+    "timestamp": "2026-04-01T07:43:45.540Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/autonomous-systems-test-engineer-at-kerry-consulting-4396273005": {
+    "action": "passed",
+    "timestamp": "2026-04-01T07:43:47.173Z"
+  },
+  "https://sg.linkedin.com/jobs/view/manufacturing-design-engineer-computing-engineering-at-kla-4396445155": {
+    "action": "passed",
+    "timestamp": "2026-04-01T07:43:49.273Z"
+  },
+  "https://sg.linkedin.com/jobs/view/core-engineering-applied-ai-ai-ml-quant-research-engineer-associate-singapore-at-goldman-sachs-4392809998": {
+    "action": "passed",
+    "timestamp": "2026-04-01T07:43:51.306Z"
+  },
+  "https://sg.linkedin.com/jobs/view/tasor-developer-c%23-react-sql-at-td-4393577790": {
+    "action": "liked",
+    "timestamp": "2026-04-01T08:02:41.303Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/aug-sept-2026-software-engineer-healthtech-associate-programme-at-synapxe-4365787221": {
+    "action": "passed",
+    "timestamp": "2026-04-01T08:02:46.619Z"
+  },
+  "https://sg.linkedin.com/jobs/view/back-end-developer-at-risewave-consulting-inc-4392807467": {
+    "action": "passed",
+    "timestamp": "2026-04-01T08:02:49.086Z"
   }
 }
