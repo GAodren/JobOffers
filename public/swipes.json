@@ -123,5 +123,10 @@
   "https://sg.linkedin.com/jobs/view/back-end-developer-at-risewave-consulting-inc-4392807467": {
     "action": "passed",
     "timestamp": "2026-04-01T08:02:49.086Z"
+  },
+  "https://sg.linkedin.com/jobs/view/frontend-engineer-compliance-tech-at-binance-4327782942": {
+    "action": "liked",
+    "timestamp": "2026-04-01T08:03:23.919Z",
+    "status": "to_apply"
   }
 }
