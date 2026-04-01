@@ -77,8 +77,6 @@ export default function PipelineColumn({
                 key={job.id}
                 job={job}
                 swipeData={swipes[job.id]}
-                currentStatus={status}
-                onStatusChange={onStatusChange}
                 onOpenCoverLetter={onOpenCoverLetter}
                 onDismiss={onDismiss}
               />

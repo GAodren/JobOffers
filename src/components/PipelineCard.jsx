@@ -2,20 +2,13 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import { formatRelativeDate } from "../utils/helpers";
 
-const STATUSES = ["to_apply", "applied", "interview", "result"];
-
 export default function PipelineCard({
   job,
   swipeData,
-  currentStatus,
-  onStatusChange,
   onOpenCoverLetter,
   onDismiss,
 }) {
   const [showConfirmDismiss, setShowConfirmDismiss] = useState(false);
-  const statusIndex = STATUSES.indexOf(currentStatus);
-  const canMoveLeft = statusIndex > 0;
-  const canMoveRight = statusIndex < STATUSES.length - 1;
 
   return (
     <motion.div
@@ -49,36 +42,6 @@ export default function PipelineCard({
       {/* Date */}
       <div className="text-xs text-text-muted font-mono mb-3">
         {formatRelativeDate(swipeData?.timestamp)}
-      </div>
-
-      {/* Move arrows */}
-      <div className="flex items-center gap-2 mb-3">
-        <button
-          onClick={() => canMoveLeft && onStatusChange(job.id, STATUSES[statusIndex - 1])}
-          disabled={!canMoveLeft}
-          className={`flex-1 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer flex items-center justify-center gap-1 ${
-            canMoveLeft
-              ? "bg-bg-overlay hover:bg-border text-text-secondary border border-border"
-              : "bg-bg-overlay/50 text-text-muted/40 border border-transparent cursor-not-allowed"
-          }`}
-        >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="2">
-            <path d="M15 19l-7-7 7-7" />
-          </svg>
-        </button>
-        <button
-          onClick={() => canMoveRight && onStatusChange(job.id, STATUSES[statusIndex + 1])}
-          disabled={!canMoveRight}
-          className={`flex-1 py-2 rounded-lg text-sm font-medium transition-all cursor-pointer flex items-center justify-center gap-1 ${
-            canMoveRight
-              ? "bg-accent/10 hover:bg-accent/20 text-accent border border-accent/20"
-              : "bg-bg-overlay/50 text-text-muted/40 border border-transparent cursor-not-allowed"
-          }`}
-        >
-          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth="2">
-            <path d="M9 5l7 7-7 7" />
-          </svg>
-        </button>
       </div>
 
       {/* Action buttons */}
