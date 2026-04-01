@@ -1,16 +1,8 @@
-import { getScoreClass, formatRelativeDate } from "../utils/helpers";
+import { formatRelativeDate } from "../utils/helpers";
 
 export default function LikedJobRow({ job, swipeData, onOpenCoverLetter, onMoveToApplied, onDismiss }) {
   return (
     <div className="bg-bg-card border border-border rounded-xl p-4 flex flex-col sm:flex-row sm:items-center gap-3 hover:shadow-md transition-shadow">
-      {/* Score */}
-      <div
-        className={`inline-flex items-baseline gap-0.5 px-2.5 py-1 rounded-lg font-mono font-bold shrink-0 ${getScoreClass(job.score)}`}
-      >
-        <span className="text-lg leading-none">{job.score}</span>
-        <span className="text-[10px] opacity-60">/10</span>
-      </div>
-
       {/* Info */}
       <div className="flex-1 min-w-0">
         <h4 className="font-semibold text-sm text-text-primary truncate">

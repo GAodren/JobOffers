@@ -1,9 +1,3 @@
-export function getScoreClass(score) {
-  if (score >= 8) return "bg-score-high/15 text-score-high border-score-high/30";
-  if (score >= 7) return "bg-score-mid/15 text-score-mid border-score-mid/30";
-  return "bg-score-low/15 text-score-low border-score-low/30";
-}
-
 export function formatRelativeDate(dateStr) {
   if (!dateStr) return "";
   const date = new Date(dateStr);

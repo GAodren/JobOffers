@@ -1,4 +1,4 @@
-import { getScoreClass, formatRelativeDate } from "../utils/helpers";
+import { formatRelativeDate } from "../utils/helpers";
 
 const STATUS_OPTIONS = [
   { value: "to_apply", label: "To Apply" },
@@ -10,20 +10,13 @@ const STATUS_OPTIONS = [
 export default function PipelineCard({ job, swipeData, onStatusChange, onOpenCoverLetter, onDismiss }) {
   return (
     <div className="bg-bg-card border border-border rounded-xl p-3 hover:shadow-md transition-shadow">
-      <div className="flex items-start gap-2 mb-2">
-        <div
-          className={`inline-flex items-baseline gap-0.5 px-2 py-0.5 rounded-md font-mono font-bold text-sm ${getScoreClass(job.score)}`}
-        >
-          {job.score}
-        </div>
-        <div className="min-w-0 flex-1">
-          <h4 className="font-semibold text-xs text-text-primary leading-snug truncate">
-            {job.titre}
-          </h4>
-          <p className="text-[11px] text-text-secondary truncate">
-            {job.entreprise}
-          </p>
-        </div>
+      <div className="mb-2">
+        <h4 className="font-semibold text-xs text-text-primary leading-snug truncate">
+          {job.titre}
+        </h4>
+        <p className="text-[11px] text-text-secondary truncate">
+          {job.entreprise}
+        </p>
       </div>
 
       <div className="text-[11px] text-text-muted font-mono mb-2">

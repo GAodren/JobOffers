@@ -1,4 +1,3 @@
-import { getScoreClass } from "../utils/helpers";
 import { formatRelativeDate } from "../utils/helpers";
 
 export default function JobCard({ job }) {
@@ -8,18 +7,11 @@ export default function JobCard({ job }) {
 
   return (
     <div className="bg-bg-card rounded-2xl shadow-lg border border-border p-6 flex flex-col gap-3 w-full max-w-[500px]">
-      {/* Score + Title */}
-      <div className="flex items-start gap-3">
-        <div
-          className={`inline-flex items-baseline gap-0.5 px-3 py-1.5 rounded-xl font-mono font-bold ${getScoreClass(job.score)}`}
-        >
-          <span className="text-2xl leading-none">{job.score}</span>
-          <span className="text-xs opacity-60">/10</span>
-        </div>
-        <div className="min-w-0 flex-1">
-          <h3 className="font-bold text-lg leading-snug text-text-primary">
-            {job.titre}
-          </h3>
+      {/* Title */}
+      <div>
+        <h3 className="font-bold text-lg leading-snug text-text-primary">
+          {job.titre}
+        </h3>
           <div className="flex items-center gap-1.5 mt-0.5 text-sm text-text-secondary">
             {job.entreprise_url ? (
               <a
@@ -34,7 +26,6 @@ export default function JobCard({ job }) {
               <span className="font-medium">{job.entreprise}</span>
             )}
           </div>
-        </div>
       </div>
 
       {/* Info rows */}
