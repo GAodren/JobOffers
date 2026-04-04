@@ -163,5 +163,22 @@
     "action": "liked",
     "timestamp": "2026-04-04T08:45:28.018Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/full-stack-software-developer-at-ls-2-holdings-limited-4395767045": {
+    "action": "liked",
+    "timestamp": "2026-04-04T08:45:30.830Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/csv-engineer-at-antaes-asia-4383953183": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:32.284Z"
+  },
+  "https://sg.linkedin.com/jobs/view/t-t-software-developer-outsystems-at-deloitte-4304021557": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:33.853Z"
+  },
+  "https://sg.linkedin.com/jobs/view/data-scientist-data-analyst-at-espa%C3%B1ol-por-dentro-4397811026": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:35.302Z"
   }
 }
