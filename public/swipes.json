@@ -132,5 +132,36 @@
   "https://sg.linkedin.com/jobs/view/java-developer-at-avepoint-4039760488": {
     "action": "passed",
     "timestamp": "2026-04-02T07:10:52.493Z"
+  },
+  "https://sg.linkedin.com/jobs/view/backend-engineer-dex-python-node-js-at-hyphen-connect-4382429040": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:20.099Z"
+  },
+  "https://sg.linkedin.com/jobs/view/quality-assurance-engineer-at-contrato-humano-py-4396943738": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:21.655Z"
+  },
+  "https://sg.linkedin.com/jobs/view/new-product-introduction-npi-planning-engineer-at-micron-technology-4330920438": {
+    "action": "liked",
+    "timestamp": "2026-04-04T08:45:23.254Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/backend-developer-at-avepoint-4384206630": {
+    "action": "liked",
+    "timestamp": "2026-04-04T08:45:24.418Z",
+    "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/test-engineer-at-rates-4392898336": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:25.533Z"
+  },
+  "https://sg.linkedin.com/jobs/view/product-test-engineer-at-cisco-4394371943": {
+    "action": "passed",
+    "timestamp": "2026-04-04T08:45:26.878Z"
+  },
+  "https://sg.linkedin.com/jobs/view/backend-engineer-net-java-1-4-years-experience-2-months-contract-at-rhino-partners-4392843266": {
+    "action": "liked",
+    "timestamp": "2026-04-04T08:45:28.018Z",
+    "status": "to_apply"
   }
 }
