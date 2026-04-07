@@ -206,5 +206,9 @@
     "action": "liked",
     "timestamp": "2026-04-07T09:09:48.686Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/machine-learning-engineer-at-apple-4382218154": {
+    "action": "passed",
+    "timestamp": "2026-04-07T09:09:51.152Z"
   }
 }
