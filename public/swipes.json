@@ -197,5 +197,14 @@
     "action": "liked",
     "timestamp": "2026-04-07T09:09:44.019Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/product-engineer-vision-inspection-systems-%2369795-at-anradus-pte-ltd-4397479899": {
+    "action": "passed",
+    "timestamp": "2026-04-07T09:09:46.719Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-engineer-simulation-at-intrinsic-4345600385": {
+    "action": "liked",
+    "timestamp": "2026-04-07T09:09:48.686Z",
+    "status": "to_apply"
   }
 }
