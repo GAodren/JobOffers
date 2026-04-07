@@ -192,5 +192,10 @@
   "https://sg.linkedin.com/jobs/view/engineer-senior-engineer-frontend-at-sea-4376560325": {
     "action": "passed",
     "timestamp": "2026-04-07T09:09:41.386Z"
+  },
+  "https://sg.linkedin.com/jobs/view/engineer-frontend-at-sea-4344781215": {
+    "action": "liked",
+    "timestamp": "2026-04-07T09:09:44.019Z",
+    "status": "to_apply"
   }
 }
