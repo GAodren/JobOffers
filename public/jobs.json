@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/engineer-frontend-at-sea-4344781215",
-    "titre": "Engineer, Frontend",
-    "entreprise": "Sea",
-    "entreprise_url": "https://sg.linkedin.com/company/seagrp",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "React, JavaScript, HTML, CSS, CI/CD",
-    "salaire": "Non précisé",
-    "experience_requise": "2+ years",
-    "score": 7,
-    "commentaire": "Good match for a junior-to-mid role focused on frontend and CI/CD optimization, though it asks for 2+ years of experience.",
-    "lien": "https://sg.linkedin.com/jobs/view/engineer-frontend-at-sea-4344781215",
-    "date_publication": "2026-04-04T00:00:00.000Z",
-    "nb_candidats": "Over 200 applicants",
-    "date_ajout": "2026-04-05T06:00:57.422Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Engineer role at Sea. I saw that you're looking for someone to optimize CI/CD pipelines and drive development efficiency, which aligns perfectly with my background in automating complex workflows.\n\nI currently develop features in C++ and JavaScript at EXAIL Robotics. I also redesigned our installation process, which used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. Outside of work, I built ValoFenua, a real estate platform using React 19 and Supabase. The app handles everything from auth to automated PDF report generation.\n\nI've also built an automated job search pipeline with n8n and AI agents to manage data scraping and processing. I enjoy building tools that make development faster and more reliable, just like the shared frontend tools mentioned in your description.\n\nI'm finishing my M.S. in Information Systems Engineering. I've followed Sea's growth in the digital services space and would love to help scale your enterprise products.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/software-specialist-digital-factory-at-singapore-pools-4315127505",
     "titre": "Software Specialist, Digital Factory",
     "entreprise": "Singapore Pools",
@@ -245,5 +226,24 @@
     "nb_candidats": "Be among the first 25 applicants",
     "date_ajout": "2026-04-07T06:02:04.446Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Associate Test Engineer role at KLA. My current work at Exail Robotics involves maintaining core features for complex hardware systems, which aligns with the precision required for SWIFT and Altair technologies.\n\nI develop and maintain software in C++ and JavaScript, including an eye-tracking system. On my own time, I built ValoFenua, a full-stack React app with Supabase and daily scrapers. These projects taught me how to handle large datasets and ensure 24/7 reliability.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time and a major improvement in our testing workflow.\n\nI'm finishing my M.S. in Information Systems Engineering. I've always admired KLA's massive investment in R&D and would love to help solve the hard problems behind semiconductor manufacturing.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
+    "titre": "Frontend Development Engineer (App)",
+    "entreprise": "Hyphen Connect",
+    "entreprise_url": "https://www.linkedin.com/company/hyphen-connect",
+    "localisation": "Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "React, JavaScript, HTML5, CSS3, Node.js, Webpack, Git",
+    "salaire": "Non précisé",
+    "experience_requise": "3 years or outstanding fresh graduates",
+    "score": 7,
+    "commentaire": "The role mentions 3 years but explicitly welcomes outstanding fresh graduates. The focus on internal efficiency tools and Node.js fits the profile well.",
+    "lien": "https://sg.linkedin.com/jobs/view/frontend-development-engineer-app-at-hyphen-connect-4305721622",
+    "date_publication": "2026-04-07T00:00:00.000Z",
+    "nb_candidats": "Over 200 applicants",
+    "date_ajout": "2026-04-08T06:00:49.386Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Frontend Development Engineer role at Hyphen Connect. Your focus on building internal low-code platforms and efficiency engineering tools aligns perfectly with my background in automating technical processes.\n\nI developed ValoFenua, a full-stack React app with Supabase authentication and PostgreSQL. It uses a daily scraper to collect 1,300+ property listings for price estimation. I am very comfortable with React, Node.js, and building high-fidelity pages from design mockups. I also redesigned the installation process at my current company, EXAIL Robotics. It used to take about 2 days for a technician to set up. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering and enjoy the challenge of making internal systems more scalable. I look forward to the possibility of helping Hyphen Connect improve its engineering efficiency.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
   }
 ]
