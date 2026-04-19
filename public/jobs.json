@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/software-engineer-at-confido-4401828294",
-    "titre": "Software Engineer",
-    "entreprise": "Confido",
-    "entreprise_url": "https://www.linkedin.com/company/confidotech",
-    "localisation": "New York, NY",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Full-stack, Backend, AI/ML systems, Data pipelines",
-    "salaire": "$170,000.00/yr - $200,000.00/yr",
-    "experience_requise": "2+ years",
-    "score": 7,
-    "commentaire": "This role is a good match as it focuses on AI-powered workflows and financial data extraction, which aligns perfectly with Aodren's experience in building AI agents and scraping pipelines.",
-    "lien": "https://www.linkedin.com/jobs/view/software-engineer-at-confido-4401828294",
-    "date_publication": "2026-04-16T00:00:00.000Z",
-    "nb_candidats": "71 applicants",
-    "date_ajout": "2026-04-16T06:01:00.015Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer role at Confido. I saw you are looking for engineers to build AI-powered workflows for document processing and data extraction, which is exactly what I enjoy building.\n\nI recently built ValoFenua, a real estate platform for French Polynesia. It uses a daily scraper to collect over 1,300 property listings and feeds them into an AI agent that estimates prices from live market data. I also built an automated job search pipeline with n8n, AI agents, and an MCP server. These are systems where AI does the heavy lifting to turn raw data into insights.\n\nAt my current company, I also redesigned the software installation process. It used to take about 2 days and required deep technical knowledge. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am impressed by how Confido helps brands like OLIPOP manage complex financial data, and I would love to help scale your data ingestion systems.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
     "id": "https://ro.linkedin.com/jobs/view/junior-software-engineer-full-stack-f-m-d-at-awin-global-4387503098",
     "titre": "Junior Software Engineer - Full Stack",
     "entreprise": "Awin Global",
