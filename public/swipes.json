@@ -237,5 +237,10 @@
     "action": "liked",
     "timestamp": "2026-04-28T07:51:17.384Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/applied-research-nlp-at-pints-ai-4404252391": {
+    "action": "liked",
+    "timestamp": "2026-04-28T07:51:26.935Z",
+    "status": "to_apply"
   }
 }
