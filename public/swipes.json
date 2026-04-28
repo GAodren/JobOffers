@@ -247,5 +247,9 @@
     "action": "liked",
     "timestamp": "2026-04-28T07:51:29.534Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/devsecops-engineer-%23aida-at-singtel-4304690280": {
+    "action": "passed",
+    "timestamp": "2026-04-28T07:51:35.751Z"
   }
 }
