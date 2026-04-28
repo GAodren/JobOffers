@@ -223,5 +223,10 @@
   "https://sg.linkedin.com/jobs/view/associate-engineer-factory-automation-engineering-at-globalfoundries-4404100462": {
     "action": "passed",
     "timestamp": "2026-04-28T07:51:06.502Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-engineer-govtech-at-avepoint-4196532835": {
+    "action": "liked",
+    "timestamp": "2026-04-28T07:51:12.068Z",
+    "status": "to_apply"
   }
 }
