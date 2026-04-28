@@ -228,5 +228,9 @@
     "action": "liked",
     "timestamp": "2026-04-28T07:51:12.068Z",
     "status": "to_apply"
+  },
+  "https://sg.linkedin.com/jobs/view/assoc-engineer-integration-yield-at-globalfoundries-4404102451": {
+    "action": "passed",
+    "timestamp": "2026-04-28T07:51:15.101Z"
   }
 }
