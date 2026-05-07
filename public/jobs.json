@@ -226,5 +226,43 @@
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-05-06T06:01:40.722Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Senior Software Engineer role at Augmentus. Your focus on simplifying robotics through automated path optimization caught my attention, as I currently develop core features for eye-tracking systems in C++ at EXAIL Robotics.\n\nI build systems where automation handles the complexity. I recently redesigned our installation process. It used to take 2 days, but now it takes 2 hours and everyone on the team can run it. That's an 85% reduction in deployment time. I also built ValoFenua, a platform that uses a daily scraper for 1,300 listings and an AI agent to estimate real estate prices. \n\nI use Python and n8n to build autonomous workflows. My project pipeline uses AI agents and MCP servers to handle data scraping and processing automatically. I enjoy solving architectural problems and ensuring that backend services remain modular and easy to maintain.\n\nI'm finishing my M.S. in Information Systems Engineering. I'd love to bring my experience in automation and system design to help Augmentus scale its robotic programming solutions.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/product-engineering-engineer-senior-engineer-at-systems-on-silicon-manufacturing-company-pte-ltd-ssmc-4408809772",
+    "titre": "Product Engineering Engineer/ Senior Engineer",
+    "entreprise": "Systems on Silicon Manufacturing Company Pte Ltd (SSMC)",
+    "entreprise_url": "https://sg.linkedin.com/company/systems-on-silicon-manufacturing-co-pte-ltd",
+    "localisation": "Pasir Ris, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Failure Analysis, Semiconductor Device Physics, Yield Engineering",
+    "salaire": "Non précisé",
+    "experience_requise": "2 – 8 years",
+    "score": 7,
+    "commentaire": "This is a stretch due to the semiconductor specialization, but it is listed as Entry Level and fits within the 2-3 years experience category.",
+    "lien": "https://sg.linkedin.com/jobs/view/product-engineering-engineer-senior-engineer-at-systems-on-silicon-manufacturing-company-pte-ltd-ssmc-4408809772",
+    "date_publication": "2026-05-06",
+    "nb_candidats": "Less than 25",
+    "date_ajout": "2026-05-07T06:00:40.581Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Product Engineering Engineer role at SSMC. Your focus on 100% equipment automation aligns with my background in optimizing industrial deployment and software workflows.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics for eye-tracking systems. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. These improvements required the same analytical rigor you need for resolving yield limiters.\n\nOutside of work, I built ValoFenua, a real estate platform. It uses a daily scraper for 1,300+ listings and an AI agent to estimate prices. I am used to managing large datasets and identifying patterns to solve complex technical problems.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I am impressed by SSMC's joint venture roots with NXP and TSMC and would like to help maintain your high-yield benchmarks.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/full-stack-application-developer-max-budget-is-%244500-at-rapsys-technologies-pte-ltd-4408825856",
+    "titre": "Full Stack Application Developer",
+    "entreprise": "RAPSYS TECHNOLOGIES PTE LTD",
+    "entreprise_url": "https://sg.linkedin.com/company/rapsys-technologies-pte-td",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": ".NET Core, Java, Angular 16",
+    "salaire": "Max $4500",
+    "experience_requise": "Junior / Entry level",
+    "score": 8,
+    "commentaire": "This is a junior-friendly full-stack role that matches your background in Java and web technologies, with a clear path for cross-skilling into .NET.",
+    "lien": "https://sg.linkedin.com/jobs/view/full-stack-application-developer-max-budget-is-%244500-at-rapsys-technologies-pte-ltd-4408825856",
+    "date_publication": "2026-05-06T00:00:00.000Z",
+    "nb_candidats": "Be among the first 25 applicants",
+    "date_ajout": "2026-05-07T06:00:49.385Z",
+    "cover_letter": "Dear Hiring Team,\n\nI am applying for the Full Stack Application Developer role at Rapsys Technologies. Your requirement for developers who can work across Java and .NET Core fits my background well, as I have experience with Java and a strong interest in cross-skilling into the .NET ecosystem.\n\nAt EXAIL Robotics, I develop software using C++ and JavaScript. I recently redesigned our installation process. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That is an 85% reduction in deployment time. Outside of work, I built ValoFenua, a real estate platform using React and Supabase. It uses a daily scraper for over 1,300 listings and an AI agent to process market data.\n\nI have a solid foundation in front-end and back-end development through my B.S. in Computer Science and my current Master's program. I am comfortable building applications that meet specific business requirements from start to finish.\n\nI am finishing my M.S. in Information Systems Engineering in 2026. I am excited about the opportunity to join Rapsys Technologies and help build robust applications in your Singapore office.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
   }
 ]
