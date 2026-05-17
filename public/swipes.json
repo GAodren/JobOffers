@@ -271,5 +271,14 @@
   "https://sg.linkedin.com/jobs/view/software-engineer-at-wsa-%E2%80%93-wonderful-sound-for-all-4414138145": {
     "action": "passed",
     "timestamp": "2026-05-17T22:11:46.081Z"
+  },
+  "https://sg.linkedin.com/jobs/view/test-engineer-at-capgemini-4408647048": {
+    "action": "liked",
+    "timestamp": "2026-05-17T22:11:48.342Z",
+    "status": "interview"
+  },
+  "https://sg.linkedin.com/jobs/view/fullstack-java-engineer-at-apple-4414152848": {
+    "action": "passed",
+    "timestamp": "2026-05-17T22:11:49.169Z"
   }
 }
