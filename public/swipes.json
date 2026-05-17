@@ -309,5 +309,13 @@
   "https://sg.linkedin.com/jobs/view/software-development-engineer-at-autodesk-4393410805": {
     "action": "passed",
     "timestamp": "2026-05-17T22:12:15.848Z"
+  },
+  "https://sg.linkedin.com/jobs/view/software-developer-at-avepoint-4384222185": {
+    "action": "passed",
+    "timestamp": "2026-05-17T22:12:18.432Z"
+  },
+  "https://sg.linkedin.com/jobs/view/rust-developer-remote-at-yo-it-consulting-4415416706": {
+    "action": "passed",
+    "timestamp": "2026-05-17T22:12:19.730Z"
   }
 }
