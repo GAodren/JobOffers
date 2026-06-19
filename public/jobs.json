@@ -1,24 +1,5 @@
 [
   {
-    "id": "https://sg.linkedin.com/jobs/view/ml-engineer-at-space-executive-4428010653",
-    "titre": "ML Engineer",
-    "entreprise": "Space Executive",
-    "entreprise_url": "https://sg.linkedin.com/company/space-executive",
-    "localisation": "Singapore, Singapore",
-    "type_contrat": "CDI/Permanent",
-    "type_travail": "On-site",
-    "stack": "Python, Docker, Kubernetes, CI/CD, MLflow, Airflow, AWS/GCP/Azure",
-    "salaire": "Non précisé",
-    "experience_requise": "2–4 years",
-    "score": 7,
-    "commentaire": "This role fits your automation and AI integration profile, though it is a slight stretch due to the 2-4 years experience requirement.",
-    "lien": "https://sg.linkedin.com/jobs/view/ml-engineer-at-space-executive-4428010653",
-    "date_publication": "2026-06-16T00:00:00.000Z",
-    "nb_candidats": "29 applicants",
-    "date_ajout": "2026-06-16T06:00:57.212Z",
-    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the ML Engineer role at Space Executive. Your focus on operationalizing models and building repeatable pipelines matches my work in automation and system reliability.\n\nI built an automated job search pipeline with n8n, AI agents, and a dedicated MCP server. I also developed ValoFenua, which uses a daily scraper for 1,300+ listings to feed an AI agent for real-time market estimation. These projects required building the kind of systematic data flows and model integrations you describe in your tech stack.\n\nI also redesigned the installation process at my current company, Exail Robotics. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. I'm comfortable with Docker and CI/CD and I enjoy making complex technical workflows accessible.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I'd appreciate the chance to discuss how my background in infrastructure automation can help scale your ML production systems.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
-  },
-  {
     "id": "https://sg.linkedin.com/jobs/view/net-node-js-developer-at-sciente-4427495282",
     "titre": ".NET & Node.js Developer",
     "entreprise": "SCIENTE",
@@ -416,5 +397,43 @@
     "nb_candidats": "Over 200 applicants",
     "date_ajout": "2026-06-18T06:02:45.256Z",
     "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Project Engineer role at BNP Associates, Inc. Your work on complex mechanized material handling systems caught my attention, as I enjoy solving technical challenges where software meets physical infrastructure.\n\nI currently develop and maintain software at EXAIL Robotics, working with C++ and JavaScript for eye-tracking systems. On my own time, I built ValoFenua, a full-stack platform that uses automated scrapers and AI to process large datasets. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I am a fast learner when it comes to technical tools and I'm ready to apply my problem-solving skills to BNP's airport and logistics projects across Asia.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/software-engineer-test-at-rockwell-automation-4418548916",
+    "titre": "Software Engineer, Test",
+    "entreprise": "Rockwell Automation",
+    "entreprise_url": "https://www.linkedin.com/company/rockwell-automation",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "Hybrid",
+    "stack": "Python, JavaScript, TypeScript, Playwright, API Testing, Industrial Network Protocols (CIP, Modbus, Ethernet/IP), PLC",
+    "salaire": "Non précisé",
+    "experience_requise": "2-3 years",
+    "score": 7,
+    "commentaire": "Good match as the candidate has solid experience in both industrial automation (Exail Robotics) and test automation using Python and JavaScript.",
+    "lien": "https://sg.linkedin.com/jobs/view/software-engineer-test-at-rockwell-automation-4418548916",
+    "date_publication": "2026-06-18T00:00:00.000Z",
+    "nb_candidats": "62 applicants",
+    "date_ajout": "2026-06-19T06:01:42.113Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Software Engineer, Test role at Rockwell Automation. My work at EXAIL Robotics involves developing eye-tracking systems and core features in C++ and JavaScript, which aligns directly with your need for automated software validation in industrial environments.\n\nI built a real estate platform called ValoFenua that runs a daily scraper for 1,300+ listings. It uses an AI agent to process market data and generate reports. I also built a personal job search pipeline using n8n and AI agents to handle complex automation workflows. I am comfortable writing automated test cases in Python and JavaScript to ensure system reliability.\n\nI also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. Reducing friction through automation is always my priority.\n\nI'm finishing my M.S. in Information Systems Engineering in 2026. I've followed Rockwell's work in industrial digitization and would love to help ensure the quality of your connected systems in Singapore.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
+  },
+  {
+    "id": "https://sg.linkedin.com/jobs/view/engineer-at-st-engineering-4429353413",
+    "titre": "Engineer",
+    "entreprise": "ST Engineering",
+    "entreprise_url": "https://sg.linkedin.com/company/st-engineering",
+    "localisation": "Singapore, Singapore",
+    "type_contrat": "CDI/Permanent",
+    "type_travail": "On-site",
+    "stack": "Control algorithms, Motor control, Sensor fusion, C/C++, Real‑time systems, PCB integration",
+    "salaire": "Non précisé",
+    "experience_requise": "1 to 3 years",
+    "score": 7,
+    "commentaire": "Good match with the maritime robotics and autonomy focus, as I have experience with C++ and robotics systems at EXAIL.",
+    "lien": "https://sg.linkedin.com/jobs/view/engineer-at-st-engineering-4429353413",
+    "date_publication": "2026-06-18",
+    "nb_candidats": "Less than 25",
+    "date_ajout": "2026-06-19T06:02:04.555Z",
+    "cover_letter": "Dear Hiring Team,\n\nI'm applying for the Engineer role within the Unmanned & Integrated Systems business at ST Engineering. Your focus on maritime robotics and real-time systems matches my background working on autonomous systems and eye-tracking technology.\n\nI currently develop core features in C++ and JavaScript at EXAIL Robotics. I also redesigned the installation process at my current company. It used to take about 2 days. Now it takes 2 hours and anyone on the team can run it. That's an 85% reduction in deployment time. This experience taught me how to bridge the gap between complex engineering and practical usage.\n\nOn my own time, I built ValoFenua, a full-stack platform that uses automated scrapers and AI agents to process market data. I am comfortable with the full lifecycle of a product, from initial prototyping to managing live databases in PostgreSQL. I enjoy solving the technical bottlenecks that occur when hardware and software interact.\n\nI'm finishing my M.S. in Information Systems Engineering (2026). I've followed ST Engineering's work in smart city and defense sectors for a while and would love to contribute to your maritime robotics projects.\n\nAodren Gloux\naodren.gloux@gmail.com | linkedin.com/in/aodren-gloux | github.com/GAodren"
   }
 ]
